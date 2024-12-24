@@ -206,9 +206,9 @@ deb https://repository.su/termux/termux-x11 x11 main
 deb https://ro.mirror.flokinet.net/termux/termux-main stable main
 deb https://ro.mirror.flokinet.net/termux/termux-root root stable
 deb https://ro.mirror.flokinet.net/termux/termux-x11 x11 main
-#deb https://termux.3san.dev/termux/termux-main stable main
-#deb https://termux.3san.dev/termux/termux-root root stable
-#deb https://termux.3san.dev/termux/termux-x11 x11 main
+deb https://termux.3san.dev/termux/termux-main stable main
+deb https://termux.3san.dev/termux/termux-root root stable
+deb https://termux.3san.dev/termux/termux-x11 x11 main
 #deb https://termux.cloudflaremirrors.com/termux-packages-24/ stable main
 #deb https://termux.cloudflaremirrors.com/termux-root-24/ root stable
 #deb https://termux.cloudflaremirrors.com/termux-x11-24/ x11 main
