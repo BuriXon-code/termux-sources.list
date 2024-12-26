@@ -224,3 +224,5 @@ deb https://termux.librehat.com/apt/termux-x11 x11 main
 #deb https://termux.sourceforge.io/termux-packages-24 stable main
 #deb https://termux.sourceforge.io/termux-root-24 root stable
 #deb https://termux.sourceforge.io/termux-x11-24 x11 main
+deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous
+deb https://packages-cf.termux.dev/apt/termux-glibc/ glibc stable
