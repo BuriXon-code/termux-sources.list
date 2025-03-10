@@ -1,6 +1,6 @@
 # termux-sources.list
 
-The sources.list file contains **all publicly available apt mirrors for Termux** aarch64.
+The sources.list file contains **all publicly available apt mirrors for Termux**.
 
 File include **main**, **stable**, **x11** and **root** repositories.
 
