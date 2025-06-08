@@ -27,7 +27,7 @@ mv sources.list /data/data/com.termux/files/usr/etc/apt/sources.list.d/sources.l
 > When moving the file to "**.../sources.list.d/...**", you must take into account that apt will return an error in case of duplicate items from **sources.list** and **sources.lisd.d/...**.
 
 > [!NOTE]
-> There are about **220 mirrors** in the file, of which about **140 are working**.
+> There are about **220 mirrors** in the file, of which about **160 are working**.
 > 
 > Inactive mirrors have been suppressed with the "**#**" sign. Activating them will cause errors in the execution of apt update.
 
