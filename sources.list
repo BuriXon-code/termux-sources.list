@@ -167,6 +167,9 @@ deb https://mirror.meowsmp.net/termux/termux-x11 x11 main
 deb https://mirror.rinarin.dev/termux/termux-main stable main
 deb https://mirror.rinarin.dev/termux/termux-root root stable
 deb https://mirror.rinarin.dev/termux/termux-x11 x11 main
+deb https://mirrors.krnk.org/apt/termux/termux-main stable main
+deb https://mirrors.krnk.org/apt/termux/termux-root root stable
+deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main
 deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous
 deb https://packages-cf.termux.dev/apt/termux-glibc/ glibc stable
 deb https://mirror.cutie.dating/termux/termux-main stable main
