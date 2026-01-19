@@ -31,4 +31,4 @@ To apply the changes, perform a standard update:
 ```
 apt update
 ```
-If you encounter an error and/or any of the repositories stop responding, you can let me know at **support@burixon.com.pl**.
+If you encounter an error and/or any of the repositories stop responding, you can let me know at **support@burixon.dev**.
