@@ -65,7 +65,6 @@ deb https://mirror.sjtu.edu.cn/termux/termux-x11/ x11 main
 deb https://mirror.sunred.org/termux/termux-main stable main
 deb https://mirror.sunred.org/termux/termux-root root stable
 deb https://mirror.sunred.org/termux/termux-x11 x11 main
-deb https://mirror.twds.com.tw/termux/termux-main stable main
 deb https://mirror.twds.com.tw/termux/termux-root root stable
 deb https://mirror.twds.com.tw/termux/termux-x11 x11 main
 deb https://mirror.vern.cc/termux/termux-main stable main
@@ -101,6 +100,9 @@ deb https://mirrors.ravidwivedi.in/termux/termux-x11 x11 main
 deb https://mirrors.in.sahilister.net/termux/termux-main/ stable main
 deb https://mirrors.in.sahilister.net/termux/termux-root/ root stable
 deb https://mirrors.in.sahilister.net/termux/termux-x11/ x11 main
+deb https://mirrors.sau.edu.cn/termux/apt/termux-main stable main
+deb https://mirrors.sau.edu.cn/termux/apt/termux-root root stable
+deb https://mirrors.sau.edu.cn/termux/apt/termux-x11 x11 main
 deb https://mirrors.sdu.edu.cn/termux/termux-main stable main
 deb https://mirrors.sdu.edu.cn/termux/termux-root root stable
 deb https://mirrors.sdu.edu.cn/termux/termux-x11 x11 main
@@ -134,7 +136,6 @@ deb https://ro.mirror.flokinet.net/termux/termux-x11 x11 main
 deb https://termux.3san.dev/termux/termux-main stable main
 deb https://termux.3san.dev/termux/termux-root root stable
 deb https://termux.3san.dev/termux/termux-x11 x11 main
-deb https://termux.librehat.com/apt/termux-main stable main
 deb https://termux.librehat.com/apt/termux-root root stable
 deb https://termux.librehat.com/apt/termux-x11 x11 main
 deb https://termux.mentality.rip/termux-main stable main
@@ -168,7 +169,9 @@ deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main
 deb https://mirror.iscas.ac.cn/termux/apt/termux-main stable main
 deb https://mirror.iscas.ac.cn/termux/apt/termux-root root stable
 deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main
+deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main
 deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable
+deb https://mirrors.cernet.edu.cn/termux/apt/termux-x11 x11 main
 deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
 deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable
 deb https://mirrors.hust.edu.cn/termux/apt/termux-x11 x11 main
