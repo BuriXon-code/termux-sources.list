@@ -25,10 +25,6 @@ deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
 deb https://mirror.accum.se/mirror/termux.dev/termux-main stable main
 deb https://mirror.accum.se/mirror/termux.dev/termux-root root stable
 deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main
-deb https://mirror.nag.albony.in/termux/termux-main stable main
-deb https://mirror.nag.albony.in/termux/termux-root root stable
-deb https://mirror.nag.albony.in/termux/termux-x11 x11 main
-deb https://mirror.autkin.net/termux/termux-main stable main
 deb https://mirror.autkin.net/termux/termux-root root stable
 deb https://mirror.autkin.net/termux/termux-x11 x11 main
 deb https://mirror.bouwhuis.network/termux/termux-main stable main
@@ -65,6 +61,7 @@ deb https://mirror.sjtu.edu.cn/termux/termux-x11/ x11 main
 deb https://mirror.sunred.org/termux/termux-main stable main
 deb https://mirror.sunred.org/termux/termux-root root stable
 deb https://mirror.sunred.org/termux/termux-x11 x11 main
+deb https://mirror.twds.com.tw/termux/termux-main stable main
 deb https://mirror.twds.com.tw/termux/termux-root root stable
 deb https://mirror.twds.com.tw/termux/termux-x11 x11 main
 deb https://mirror.vern.cc/termux/termux-main stable main
@@ -112,9 +109,6 @@ deb https://mirrors.sustech.edu.cn/termux/apt/termux-x11 x11 main
 deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-main stable main
 deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-root root stable
 deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-x11 x11 main
-deb https://mirrors.utermux.dev/termux/termux-main stable main
-deb https://mirrors.utermux.dev/termux/termux-root root stable
-deb https://mirrors.utermux.dev/termux/termux-x11 x11 main
 deb https://nl.mirror.flokinet.net/termux/termux-main stable main
 deb https://nl.mirror.flokinet.net/termux/termux-root root stable
 deb https://nl.mirror.flokinet.net/termux/termux-x11 x11 main
@@ -136,6 +130,7 @@ deb https://ro.mirror.flokinet.net/termux/termux-x11 x11 main
 deb https://termux.3san.dev/termux/termux-main stable main
 deb https://termux.3san.dev/termux/termux-root root stable
 deb https://termux.3san.dev/termux/termux-x11 x11 main
+deb https://termux.librehat.com/apt/termux-main stable main
 deb https://termux.librehat.com/apt/termux-root root stable
 deb https://termux.librehat.com/apt/termux-x11 x11 main
 deb https://termux.mentality.rip/termux-main stable main
@@ -161,7 +156,6 @@ deb https://packages-cf.termux.dev/apt/termux-glibc/ glibc stable
 deb https://mirror.cutie.dating/termux/termux-main stable main
 deb https://mirror.cutie.dating/termux/termux-root root stable
 deb https://mirror.cutie.dating/termux/termux-x11 x11 main
-deb https://mirrors.de.sahilister.net/termux/termux-main stable main
 deb https://mirrors.de.sahilister.net/termux/termux-root root stable
 deb https://mirrors.de.sahilister.net/termux/termux-x11 x11 main
 deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
