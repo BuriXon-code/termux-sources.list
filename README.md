@@ -36,23 +36,25 @@ To apply the changes, perform a standard update:
 apt update  
 ```  
 
-# Data:
-
 <!-- SLIST-AUTO-START -->
 ## Live mirror snapshot
 
-Official working mirrors: **195**  
-Unofficial working mirrors: **58**  
-Total working mirrors: **253**
+Official working mirrors: **2**  
+Unofficial working mirrors: **1**  
+Total working mirrors: **3**
 
-Updated: **2026-06-26 21:33:27**
+Updated: **2026-06-26 21:47:35**
 
-Files:
+Lists (md):
+- [List of official mirrors](./OFFICIAL.md)
+- [List of unofficial mirrors](./UNOFFICIAL.md)
+
+Lists (ready to use):
 - [sources.list](./sources.list)
 - [official-sources.list](./official-sources.list)
 - [unofficial-sources.list](./unofficial-sources.list)
-- [OFFICIAL.md](./OFFICIAL.md)
-- [UNOFFICIAL.md](./UNOFFICIAL.md)
+
+Log:
 - [checks.log](./checks.log)
 <!-- SLIST-AUTO-END -->
 

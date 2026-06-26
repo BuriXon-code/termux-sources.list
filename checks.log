@@ -839,3 +839,7 @@ Get:285 https://mirrors.aliyun.com/termux/termux-x11 x11/main aarch64 Packages [
 Get:286 https://mirrors.de.sahilister.net/termux/termux-main stable/main aarch64 Packages [551 kB]
 Get:287 https://mirrors.hust.edu.cn/termux/apt/termux-main stable/main aarch64 Packages [551 kB]
 [2026-06-26 21:33:27] [SUMMARY] [OK] official=195 unofficial=58 total=253
+[2026-06-26 21:47:35] [UNOFFICIAL] [OK] deb https://termux.sourceforge.io/termux-root-24 root stable
+[2026-06-26 21:47:35] [OFFICIAL] [OK] deb https://mirror.jeonnam.school/termux/termux-root root stable
+[2026-06-26 21:47:35] [OFFICIAL] [OK] deb https://mirrors.cbrx.io/apt/termux/termux-root root stable
+[2026-06-26 21:47:35] [SUMMARY] [OK] official=2 unofficial=1 total=3
