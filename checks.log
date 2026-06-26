@@ -1,0 +1,841 @@
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://packages.termux.dev/apt/termux-main stable main
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://packages.termux.dev/apt/termux-root root stable
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://packages.termux.dev/apt/termux-x11 x11 main
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://packages-cf.termux.dev/apt/termux-main stable main
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://packages-cf.termux.dev/apt/termux-root root stable
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://packages-cf.termux.dev/apt/termux-x11 x11 main
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-main stable main
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-root root stable
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+[2026-06-26 21:20:00] [OFFICIAL] [OK] deb https://mirror.freedif.org/termux/termux-main stable main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.freedif.org/termux/termux-root root stable
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.freedif.org/termux/termux-x11 x11 main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.jeonnam.school/termux/termux-main stable main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.jeonnam.school/termux/termux-root root stable
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.jeonnam.school/termux/termux-x11 x11 main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.meowsmp.net/termux/termux-main stable main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.meowsmp.net/termux/termux-root root stable
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.meowsmp.net/termux/termux-x11 x11 main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.nag.albony.in/termux/termux-main stable main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.nag.albony.in/termux/termux-root root stable
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.nag.albony.in/termux/termux-x11 x11 main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.nevacloud.com/applications/termux/termux-main stable main
+[2026-06-26 21:20:00] [CHECK] [FAIL] deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://grimler.se/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://grimler.se/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://grimler.se/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.csclub.uwaterloo.ca/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.csclub.uwaterloo.ca/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.csclub.uwaterloo.ca/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.cutie.dating/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.cutie.dating/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.fcix.net/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.fcix.net/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.fcix.net/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.freedif.org/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.freedif.org/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.freedif.org/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.iscas.ac.cn/termux/apt/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.iscas.ac.cn/termux/apt/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.jeonnam.school/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.jeonnam.school/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.jeonnam.school/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.leitecastro.com/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.leitecastro.com/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.leitecastro.com/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.meowsmp.net/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.meowsmp.net/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.meowsmp.net/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.mwt.me/termux/main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.mwt.me/termux/root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.mwt.me/termux/x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nag.albony.in/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nag.albony.in/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nag.albony.in/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nyist.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nyist.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.quantum5.ca/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.quantum5.ca/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.quantum5.ca/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.rinarin.dev/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.rinarin.dev/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.rinarin.dev/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.sjtu.edu.cn/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.sjtu.edu.cn/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.sjtu.edu.cn/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.sunred.org/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.sunred.org/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.sunred.org/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.twds.com.tw/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.twds.com.tw/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.twds.com.tw/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.vern.cc/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.vern.cc/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirror.vern.cc/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.aliyun.com/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.aliyun.com/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.bfsu.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.bfsu.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.bfsu.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cbrx.io/apt/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cbrx.io/apt/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cbrx.io/apt/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cernet.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cqupt.edu.cn/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cqupt.edu.cn/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.cqupt.edu.cn/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.de.sahilister.net/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.de.sahilister.net/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.de.sahilister.net/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.hust.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.in.sahilister.net/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.in.sahilister.net/termux/termux-root root stable
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.in.sahilister.net/termux/termux-x11 x11 main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.krnk.org/apt/termux/termux-main stable main
+[2026-06-26 21:26:03] [OFFICIAL] [OK] deb https://mirrors.krnk.org/apt/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://grimler.se/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://grimler.se/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://grimler.se/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-x11 x11 main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-main stable main
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-root root stable
+[2026-06-26 21:28:44] [UNOFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.polido.pt/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.polido.pt/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.polido.pt/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.sjtu.edu.cn/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.sng.sg/termux stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.sng.sg/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.sng.sg/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.textcord.xyz/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.textcord.xyz/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirror.textcord.xyz/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.cfe.re/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.cfe.re/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.cfe.re/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.rda.run/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.rda.run/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.rda.run/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.saswata.xyz/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.saswata.xyz/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.saswata.xyz/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.wale.id.au/termux/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.wale.id.au/termux/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://mirrors.wale.id.au/termux/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://packages.nscdn.top/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://packages.nscdn.top/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://packages.nscdn.top/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://termux.cloudflaremirrors.com/termux-packages-24 stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://termux.cloudflaremirrors.com/termux-root-24 root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://termux.cloudflaremirrors.com/termux-x11-24 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://termux.mentality.rip/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://termux.mentality.rip/termux-root root stable
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://termux.mentality.rip/termux-x11 x11 main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://termux.samcze.pl/termux/apt/termux-main stable main
+[2026-06-26 21:29:20] [UNOFFICIAL] [OK] deb https://termux.samcze.pl/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb http://mirror.yandex.ru/mirrors/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://cdn.lumito.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.aarnet.edu.au/pub/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.albony.xyz/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.bardia.tech/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.polido.pt/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.polido.pt/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.polido.pt/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.sng.sg/termux stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.sng.sg/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.sng.sg/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.textcord.xyz/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.textcord.xyz/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirror.textcord.xyz/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.cfe.re/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.cfe.re/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.cfe.re/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.rda.run/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.rda.run/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.rda.run/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.saswata.xyz/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.saswata.xyz/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.saswata.xyz/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.wale.id.au/termux/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.wale.id.au/termux/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://mirrors.wale.id.au/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://packages.nscdn.top/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://packages.nscdn.top/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://packages.nscdn.top/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.cloudflaremirrors.com/termux-packages-24 stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.cloudflaremirrors.com/termux-root-24 root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.cloudflaremirrors.com/termux-x11-24 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.mentality.rip/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.mentality.rip/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.mentality.rip/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.samcze.pl/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.samcze.pl/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.samcze.pl/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.sourceforge.io/termux-packages-24 stable main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.sourceforge.io/termux-root-24 root stable
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://termux.sourceforge.io/termux-x11-24 x11 main
+[2026-06-26 21:33:27] [UNOFFICIAL] [OK] deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb http://mirror.mephi.ru/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.agdsn.de/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.fau.de/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://gnlug.org/pub/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://grimler.se/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://grimler.se/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://grimler.se/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://is.mirror.flokinet.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://md.mirrors.hacktegic.com/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.autkin.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.bouwhuis.network/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.csclub.uwaterloo.ca/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.csclub.uwaterloo.ca/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.csclub.uwaterloo.ca/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.cutie.dating/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.cutie.dating/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.cutie.dating/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.fcix.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.fcix.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.fcix.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.freedif.org/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.freedif.org/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.freedif.org/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.iscas.ac.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.iscas.ac.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.jeonnam.school/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.jeonnam.school/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.jeonnam.school/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.leitecastro.com/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.leitecastro.com/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.leitecastro.com/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.meowsmp.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.meowsmp.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.meowsmp.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.mwt.me/termux/main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.mwt.me/termux/root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.mwt.me/termux/x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nag.albony.in/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nag.albony.in/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nag.albony.in/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nyist.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nyist.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.quantum5.ca/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.quantum5.ca/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.quantum5.ca/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.rinarin.dev/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.rinarin.dev/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.rinarin.dev/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.sjtu.edu.cn/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.sjtu.edu.cn/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.sjtu.edu.cn/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.sunred.org/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.sunred.org/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.sunred.org/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.twds.com.tw/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.twds.com.tw/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.twds.com.tw/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.vern.cc/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.vern.cc/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirror.vern.cc/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.aliyun.com/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.aliyun.com/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.bfsu.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.bfsu.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.bfsu.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cbrx.io/apt/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cbrx.io/apt/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cbrx.io/apt/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cernet.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cqupt.edu.cn/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cqupt.edu.cn/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.cqupt.edu.cn/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.de.sahilister.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.de.sahilister.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.de.sahilister.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.hust.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.in.sahilister.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.in.sahilister.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.in.sahilister.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.krnk.org/apt/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.krnk.org/apt/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.medzik.dev/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.medzik.dev/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.medzik.dev/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.middlendian.com/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.middlendian.com/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.middlendian.com/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.nguyenhoang.cloud/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.nguyenhoang.cloud/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.nguyenhoang.cloud/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.nju.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.nju.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.nju.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.pku.edu.cn/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.pku.edu.cn/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.pku.edu.cn/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.ravidwivedi.in/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.ravidwivedi.in/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.ravidwivedi.in/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.saswata.cc/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.saswata.cc/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.saswata.cc/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sau.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sau.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sau.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sdu.edu.cn/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sdu.edu.cn/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sdu.edu.cn/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sustech.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sustech.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.sustech.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.ustc.edu.cn/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.ustc.edu.cn/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.ustc.edu.cn/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.utermux.dev/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.utermux.dev/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.utermux.dev/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.zju.edu.cn/termux/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.zju.edu.cn/termux/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://mirrors.zju.edu.cn/termux/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://nl.mirror.flokinet.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://nl.mirror.flokinet.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://nl.mirror.flokinet.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://packages-cf.termux.dev/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://packages-cf.termux.dev/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://packages-cf.termux.dev/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://packages.termux.dev/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://packages.termux.dev/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://packages.termux.dev/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://plug-mirror.rcac.purdue.edu/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://repository.su/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://repository.su/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://repository.su/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ro.mirror.flokinet.net/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ro.mirror.flokinet.net/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://ro.mirror.flokinet.net/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.3san.dev/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.3san.dev/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.3san.dev/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.cdn.lumito.net/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.cdn.lumito.net/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.cdn.lumito.net/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.danyael.xyz/termux/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.danyael.xyz/termux/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.danyael.xyz/termux/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.librehat.com/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.librehat.com/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.librehat.com/apt/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.niranjan.co/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.niranjan.co/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://termux.niranjan.co/termux-x11 x11 main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://tmx.xvx.my.id/apt/termux-main stable main
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://tmx.xvx.my.id/apt/termux-root root stable
+[2026-06-26 21:33:27] [OFFICIAL] [OK] deb https://tmx.xvx.my.id/apt/termux-x11 x11 main
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Ign:1 https://md.mirrors.hacktegic.com/termux/termux-main stable InRelease
+Hit:2 http://mirror.mephi.ru/termux/termux-main stable InRelease
+Ign:3 http://mirror.yandex.ru/mirrors/termux stable InRelease
+Ign:4 https://md.mirrors.hacktegic.com/termux/termux-root root InRelease
+Get:6 https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable InRelease [14.0 kB]
+Ign:7 http://mirror.yandex.ru/mirrors/termux-root root InRelease
+Hit:9 http://mirror.mephi.ru/termux/termux-root root InRelease
+Ign:10 https://md.mirrors.hacktegic.com/termux/termux-x11 x11 InRelease
+Hit:12 https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root InRelease
+Ign:13 http://mirror.yandex.ru/mirrors/termux-x11 x11 InRelease
+Hit:14 https://ftp.fau.de/termux/termux-main stable InRelease
+Hit:15 https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 InRelease
+Hit:16 https://ftp.agdsn.de/termux/termux-main stable InRelease
+Hit:17 https://mirror.accum.se/mirror/termux.dev/termux-main stable InRelease
+Hit:18 http://mirror.mephi.ru/termux/termux-x11 x11 InRelease
+Hit:19 https://ftp.fau.de/termux/termux-root root InRelease
+Get:20 https://grimler.se/termux/termux-main stable InRelease [14.0 kB]
+Err:21 http://mirror.yandex.ru/mirrors/termux stable Release
+  404  Not Found [IP: 213.180.204.183 80]
+Hit:22 https://is.mirror.flokinet.net/termux/termux-main stable InRelease
+Hit:23 https://mirror.accum.se/mirror/termux.dev/termux-root root InRelease
+Hit:24 https://ftp.agdsn.de/termux/termux-root root InRelease
+Hit:25 https://ftp.fau.de/termux/termux-x11 x11 InRelease
+Err:26 http://mirror.yandex.ru/mirrors/termux-root root Release
+  404  Not Found [IP: 213.180.204.183 80]
+Hit:27 https://ftp.agdsn.de/termux/termux-x11 x11 InRelease
+Hit:28 https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 InRelease
+Hit:29 https://is.mirror.flokinet.net/termux/termux-root root InRelease
+Hit:30 https://grimler.se/termux/termux-root root InRelease
+Err:31 http://mirror.yandex.ru/mirrors/termux-x11 x11 Release
+  404  Not Found [IP: 213.180.204.183 80]
+Hit:32 https://is.mirror.flokinet.net/termux/termux-x11 x11 InRelease
+Hit:33 https://grimler.se/termux/termux-x11 x11 InRelease
+Get:34 https://gnlug.org/pub/termux/termux-main stable InRelease [14.0 kB]
+Get:35 https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable/main aarch64 Packages [551 kB]
+Hit:36 https://gnlug.org/pub/termux/termux-root root InRelease
+Hit:37 https://gnlug.org/pub/termux/termux-x11 x11 InRelease
+Get:38 https://linux.domainesia.com/applications/termux/termux-main stable InRelease [14.0 kB]
+Ign:1 https://md.mirrors.hacktegic.com/termux/termux-main stable InRelease
+Ign:39 https://mirror.albony.xyz/termux/termux-main stable InRelease
+Hit:40 https://linux.domainesia.com/applications/termux/termux-root root InRelease
+Ign:41 https://mirror.aarnet.edu.au/pub/termux stable InRelease
+Ign:4 https://md.mirrors.hacktegic.com/termux/termux-root root InRelease
+Ign:10 https://md.mirrors.hacktegic.com/termux/termux-x11 x11 InRelease
+Hit:42 https://linux.domainesia.com/applications/termux/termux-x11 x11 InRelease
+Ign:43 https://mirror.albony.xyz/termux/termux-root root InRelease
+Ign:44 https://mirror.aarnet.edu.au/pub/termux-root root InRelease
+Ign:45 https://mirror.albony.xyz/termux/termux-x11 x11 InRelease
+Ign:46 https://mirror.aarnet.edu.au/pub/termux-x11 x11 InRelease
+Hit:47 https://mirror.autkin.net/termux/termux-main stable InRelease
+Hit:48 https://mirror.autkin.net/termux/termux-root root InRelease
+Hit:49 https://mirror.autkin.net/termux/termux-x11 x11 InRelease
+Ign:50 https://mirror.bardia.tech/termux/termux-main stable InRelease
+Ign:51 https://mirror.bardia.tech/termux/termux-root root InRelease
+Ign:52 https://mirror.bardia.tech/termux/termux-x11 x11 InRelease
+Err:53 https://mirror.aarnet.edu.au/pub/termux stable Release
+  404  Not Found [IP: 202.158.214.106 443]
+Err:54 https://mirror.aarnet.edu.au/pub/termux-root root Release
+  404  Not Found [IP: 202.158.214.106 443]
+Err:55 https://mirror.aarnet.edu.au/pub/termux-x11 x11 Release
+  404  Not Found [IP: 202.158.214.106 443]
+Hit:56 https://mirror.bouwhuis.network/termux/termux-main stable InRelease
+Hit:57 https://mirror.bouwhuis.network/termux/termux-root root InRelease
+Ign:1 https://md.mirrors.hacktegic.com/termux/termux-main stable InRelease
+Hit:58 https://mirror.bouwhuis.network/termux/termux-x11 x11 InRelease
+Ign:4 https://md.mirrors.hacktegic.com/termux/termux-root root InRelease
+Ign:10 https://md.mirrors.hacktegic.com/termux/termux-x11 x11 InRelease
+Hit:59 https://mirror.csclub.uwaterloo.ca/termux/termux-main stable InRelease
+Hit:60 https://mirror.csclub.uwaterloo.ca/termux/termux-root root InRelease
+Hit:61 https://mirror.csclub.uwaterloo.ca/termux/termux-x11 x11 InRelease
+Err:1 https://md.mirrors.hacktegic.com/termux/termux-main stable InRelease
+  Could not handshake: A TLS fatal alert has been received. [IP: 104.21.10.11 443]
+Err:4 https://md.mirrors.hacktegic.com/termux/termux-root root InRelease
+  Could not handshake: A TLS fatal alert has been received. [IP: 104.21.10.11 443]
+Err:10 https://md.mirrors.hacktegic.com/termux/termux-x11 x11 InRelease
+  Could not handshake: A TLS fatal alert has been received. [IP: 104.21.10.11 443]
+Get:62 https://grimler.se/termux/termux-main stable/main aarch64 Packages [550 kB]
+Ign:63 https://mirror.cutie.dating/termux/termux-main stable InRelease
+Ign:64 https://mirror.cutie.dating/termux/termux-root root InRelease
+Ign:65 https://mirror.cutie.dating/termux/termux-x11 x11 InRelease
+Hit:66 https://mirror.fcix.net/termux/termux-main stable InRelease
+Hit:67 https://mirror.fcix.net/termux/termux-root root InRelease
+Hit:68 https://mirror.fcix.net/termux/termux-x11 x11 InRelease
+Hit:69 https://mirror.freedif.org/termux/termux-main stable InRelease
+Hit:70 https://mirror.freedif.org/termux/termux-root root InRelease
+Hit:71 https://mirror.freedif.org/termux/termux-x11 x11 InRelease
+Hit:72 https://mirror.iscas.ac.cn/termux/apt/termux-main stable InRelease
+Hit:73 https://mirror.iscas.ac.cn/termux/apt/termux-root root InRelease
+Hit:74 https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 InRelease
+Get:75 https://mirror.jeonnam.school/termux/termux-main stable InRelease [14.0 kB]
+Hit:76 https://mirror.jeonnam.school/termux/termux-root root InRelease
+Hit:77 https://mirror.jeonnam.school/termux/termux-x11 x11 InRelease
+Ign:78 https://mirror.leitecastro.com/termux/termux-main stable InRelease
+Ign:79 https://mirror.leitecastro.com/termux/termux-root root InRelease
+Ign:80 https://mirror.leitecastro.com/termux/termux-x11 x11 InRelease
+Hit:84 https://mirror.mwt.me/termux/main stable InRelease
+Hit:85 https://mirror.mwt.me/termux/root root InRelease
+Hit:86 https://mirror.mwt.me/termux/x11 x11 InRelease
+Hit:87 https://mirror.nag.albony.in/termux/termux-main stable InRelease
+Hit:88 https://mirror.nag.albony.in/termux/termux-root root InRelease
+Hit:89 https://mirror.nag.albony.in/termux/termux-x11 x11 InRelease
+Hit:91 https://mirror.nevacloud.com/applications/termux/termux-main stable InRelease
+Hit:92 https://mirror.nevacloud.com/applications/termux/termux-root root InRelease
+Hit:93 https://mirror.nevacloud.com/applications/termux/termux-x11 x11 InRelease
+Hit:95 https://mirror.nju.edu.cn/termux/apt/termux-main stable InRelease
+Hit:96 https://mirror.nju.edu.cn/termux/apt/termux-root root InRelease
+Hit:97 https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 InRelease
+Hit:98 https://mirror.nyist.edu.cn/termux/apt/termux-main stable InRelease
+Get:99 https://mirror.nyist.edu.cn/termux/apt/termux-root root InRelease [14.2 kB]
+Get:100 https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 InRelease [14.0 kB]
+Ign:101 https://mirror.polido.pt/termux/termux-main stable InRelease
+Ign:102 https://mirror.polido.pt/termux/termux-root root InRelease
+Ign:103 https://mirror.polido.pt/termux/termux-x11 x11 InRelease
+Hit:104 https://mirror.quantum5.ca/termux/termux-main stable InRelease
+Hit:105 https://mirror.quantum5.ca/termux/termux-root root InRelease
+Hit:106 https://mirror.quantum5.ca/termux/termux-x11 x11 InRelease
+Get:107 https://mirror.rinarin.dev/termux/termux-main stable InRelease [14.0 kB]
+Hit:108 https://mirror.rinarin.dev/termux/termux-root root InRelease
+Hit:109 https://mirror.rinarin.dev/termux/termux-x11 x11 InRelease
+Hit:110 https://mirror.sjtu.edu.cn/termux/termux-main stable InRelease
+Hit:111 https://mirror.sjtu.edu.cn/termux/termux-root root InRelease
+Hit:112 https://mirror.sjtu.edu.cn/termux/termux-x11 x11 InRelease
+Ign:113 https://mirror.sng.sg/termux stable InRelease
+Ign:114 https://mirror.sng.sg/termux-root root InRelease
+Ign:115 https://mirror.sng.sg/termux-x11 x11 InRelease
+Get:116 https://mirror.sunred.org/termux/termux-main stable InRelease [14.0 kB]
+Hit:117 https://mirror.sunred.org/termux/termux-root root InRelease
+Hit:118 https://mirror.sunred.org/termux/termux-x11 x11 InRelease
+Get:119 https://mirror.textcord.xyz/termux/termux-main stable InRelease [1081 B]
+Err:119 https://mirror.textcord.xyz/termux/termux-main stable InRelease
+  Clearsigned file isn't valid, got 'NOSPLIT' (does the network require authentication?)
+Get:120 https://mirror.textcord.xyz/termux/termux-root root InRelease [1081 B]
+Err:120 https://mirror.textcord.xyz/termux/termux-root root InRelease
+  Clearsigned file isn't valid, got 'NOSPLIT' (does the network require authentication?)
+Get:121 https://mirror.textcord.xyz/termux/termux-x11 x11 InRelease [1081 B]
+Err:121 https://mirror.textcord.xyz/termux/termux-x11 x11 InRelease
+  Clearsigned file isn't valid, got 'NOSPLIT' (does the network require authentication?)
+Hit:122 https://mirror.twds.com.tw/termux/termux-main stable InRelease
+Hit:123 https://mirror.twds.com.tw/termux/termux-root root InRelease
+Hit:124 https://mirror.twds.com.tw/termux/termux-x11 x11 InRelease
+Hit:125 https://mirror.vern.cc/termux/termux-main stable InRelease
+Hit:126 https://mirror.vern.cc/termux/termux-root root InRelease
+Hit:127 https://mirror.vern.cc/termux/termux-x11 x11 InRelease
+Get:128 https://mirrors.aliyun.com/termux/termux-main stable InRelease [14.0 kB]
+Hit:129 https://mirrors.aliyun.com/termux/termux-root root InRelease
+Get:130 https://mirrors.aliyun.com/termux/termux-x11 x11 InRelease [14.0 kB]
+Hit:131 https://mirrors.bfsu.edu.cn/termux/apt/termux-main stable InRelease
+Hit:132 https://mirrors.bfsu.edu.cn/termux/apt/termux-root root InRelease
+Hit:133 https://mirrors.bfsu.edu.cn/termux/apt/termux-x11 x11 InRelease
+Hit:134 https://mirrors.cbrx.io/apt/termux/termux-main stable InRelease
+Hit:135 https://mirrors.cbrx.io/apt/termux/termux-root root InRelease
+Hit:136 https://mirrors.cbrx.io/apt/termux/termux-x11 x11 InRelease
+Ign:140 https://mirrors.cfe.re/termux/termux-main stable InRelease
+Ign:141 https://mirrors.cfe.re/termux/termux-root root InRelease
+Ign:142 https://mirrors.cfe.re/termux/termux-x11 x11 InRelease
+Hit:143 https://mirrors.cqupt.edu.cn/termux/termux-main stable InRelease
+Hit:144 https://mirrors.cqupt.edu.cn/termux/termux-root root InRelease
+Hit:145 https://mirrors.cqupt.edu.cn/termux/termux-x11 x11 InRelease
+Get:146 https://mirrors.de.sahilister.net/termux/termux-main stable InRelease [14.0 kB]
+Hit:147 https://mirrors.de.sahilister.net/termux/termux-root root InRelease
+Hit:148 https://mirrors.de.sahilister.net/termux/termux-x11 x11 InRelease
+Get:149 https://mirrors.hust.edu.cn/termux/apt/termux-main stable InRelease [14.0 kB]
+Get:150 https://mirrors.hust.edu.cn/termux/apt/termux-root root InRelease [14.2 kB]
+Get:151 https://mirrors.hust.edu.cn/termux/apt/termux-x11 x11 InRelease [14.0 kB]
+Get:155 https://mirrors.krnk.org/apt/termux/termux-main stable InRelease [14.0 kB]
+Hit:156 https://mirrors.krnk.org/apt/termux/termux-root root InRelease
+Hit:157 https://mirrors.krnk.org/apt/termux/termux-x11 x11 InRelease
+Ign:158 https://mirrors.medzik.dev/termux/termux-main stable InRelease
+Ign:159 https://mirrors.medzik.dev/termux/termux-root root InRelease
+Ign:160 https://mirrors.medzik.dev/termux/termux-x11 x11 InRelease
+Hit:161 https://mirrors.middlendian.com/termux/termux-main stable InRelease
+Hit:162 https://mirrors.middlendian.com/termux/termux-root root InRelease
+Hit:163 https://mirrors.middlendian.com/termux/termux-x11 x11 InRelease
+Hit:164 https://mirrors.nguyenhoang.cloud/termux/termux-main stable InRelease
+Hit:165 https://mirrors.nguyenhoang.cloud/termux/termux-root root InRelease
+Hit:166 https://mirrors.nguyenhoang.cloud/termux/termux-x11 x11 InRelease
+Hit:167 https://mirrors.nju.edu.cn/termux/apt/termux-main stable InRelease
+Hit:168 https://mirrors.nju.edu.cn/termux/apt/termux-root root InRelease
+Hit:169 https://mirrors.nju.edu.cn/termux/apt/termux-x11 x11 InRelease
+Hit:170 https://mirrors.pku.edu.cn/termux/termux-main stable InRelease
+Hit:171 https://mirrors.pku.edu.cn/termux/termux-root root InRelease
+Hit:172 https://mirrors.pku.edu.cn/termux/termux-x11 x11 InRelease
+Hit:173 https://mirrors.ravidwivedi.in/termux/termux-main stable InRelease
+Hit:174 https://mirrors.ravidwivedi.in/termux/termux-root root InRelease
+Hit:175 https://mirrors.ravidwivedi.in/termux/termux-x11 x11 InRelease
+Ign:176 https://mirrors.rda.run/termux/termux-main stable InRelease
+Ign:177 https://mirrors.rda.run/termux/termux-root root InRelease
+Ign:178 https://mirrors.rda.run/termux/termux-x11 x11 InRelease
+Ign:179 https://mirrors.saswata.cc/termux/termux-main stable InRelease
+Ign:180 https://mirrors.saswata.cc/termux/termux-root root InRelease
+Ign:181 https://mirrors.saswata.cc/termux/termux-x11 x11 InRelease
+Ign:182 https://mirrors.saswata.xyz/termux/termux-main stable InRelease
+Ign:183 https://mirrors.saswata.xyz/termux/termux-root root InRelease
+Ign:184 https://mirrors.saswata.xyz/termux/termux-x11 x11 InRelease
+Hit:185 https://mirrors.sau.edu.cn/termux/apt/termux-main stable InRelease
+Hit:186 https://mirrors.sau.edu.cn/termux/apt/termux-root root InRelease
+Hit:187 https://mirrors.sau.edu.cn/termux/apt/termux-x11 x11 InRelease
+Hit:188 https://mirrors.sdu.edu.cn/termux/termux-main stable InRelease
+Hit:189 https://mirrors.sdu.edu.cn/termux/termux-root root InRelease
+Hit:190 https://mirrors.sdu.edu.cn/termux/termux-x11 x11 InRelease
+Hit:191 https://mirrors.sustech.edu.cn/termux/apt/termux-main stable InRelease
+Hit:192 https://mirrors.sustech.edu.cn/termux/apt/termux-root root InRelease
+Hit:193 https://mirrors.sustech.edu.cn/termux/apt/termux-x11 x11 InRelease
+Hit:194 https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-main stable InRelease
+Get:195 https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-root root InRelease [14.2 kB]
+Hit:196 https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-x11 x11 InRelease
+Hit:197 https://mirrors.ustc.edu.cn/termux/termux-main stable InRelease
+Hit:198 https://mirrors.ustc.edu.cn/termux/termux-root root InRelease
+Hit:199 https://mirrors.ustc.edu.cn/termux/termux-x11 x11 InRelease
+Hit:200 https://mirrors.utermux.dev/termux/termux-main stable InRelease
+Hit:201 https://mirrors.utermux.dev/termux/termux-root root InRelease
+Hit:202 https://mirrors.utermux.dev/termux/termux-x11 x11 InRelease
+Ign:203 https://mirrors.wale.id.au/termux/termux-main stable InRelease
+Ign:204 https://mirrors.wale.id.au/termux/termux-root root InRelease
+Ign:205 https://mirrors.wale.id.au/termux/termux-x11 x11 InRelease
+Hit:206 https://mirrors.zju.edu.cn/termux/apt/termux-main stable InRelease
+Get:207 https://mirrors.zju.edu.cn/termux/apt/termux-root root InRelease [14.2 kB]
+Hit:208 https://mirrors.zju.edu.cn/termux/apt/termux-x11 x11 InRelease
+Hit:209 https://nl.mirror.flokinet.net/termux/termux-main stable InRelease
+Hit:210 https://nl.mirror.flokinet.net/termux/termux-root root InRelease
+Hit:211 https://nl.mirror.flokinet.net/termux/termux-x11 x11 InRelease
+Hit:212 https://packages-cf.termux.dev/apt/termux-glibc glibc InRelease
+Get:213 https://packages-cf.termux.dev/apt/termux-main stable InRelease [14.0 kB]
+Hit:214 https://packages-cf.termux.dev/apt/termux-root root InRelease
+Hit:215 https://packages-cf.termux.dev/apt/termux-x11 x11 InRelease
+Ign:216 https://packages.nscdn.top/termux-main stable InRelease
+Ign:217 https://packages.nscdn.top/termux-root root InRelease
+Ign:218 https://packages.nscdn.top/termux-x11 x11 InRelease
+Get:219 https://packages.termux.dev/apt/termux-main stable InRelease [14.0 kB]
+Hit:220 https://packages.termux.dev/apt/termux-root root InRelease
+Hit:221 https://packages.termux.dev/apt/termux-x11 x11 InRelease
+Hit:222 https://plug-mirror.rcac.purdue.edu/termux/termux-main stable InRelease
+Hit:223 https://plug-mirror.rcac.purdue.edu/termux/termux-root root InRelease
+Hit:224 https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 InRelease
+Hit:225 https://repository.su/termux/termux-main stable InRelease
+Hit:226 https://repository.su/termux/termux-root root InRelease
+Hit:227 https://repository.su/termux/termux-x11 x11 InRelease
+Hit:228 https://ro.mirror.flokinet.net/termux/termux-main stable InRelease
+Hit:229 https://ro.mirror.flokinet.net/termux/termux-root root InRelease
+Hit:230 https://ro.mirror.flokinet.net/termux/termux-x11 x11 InRelease
+Hit:231 https://termux.3san.dev/termux/termux-main stable InRelease
+Hit:232 https://termux.3san.dev/termux/termux-root root InRelease
+Hit:233 https://termux.3san.dev/termux/termux-x11 x11 InRelease
+Get:234 https://termux.cdn.lumito.net/termux-main stable InRelease [14.0 kB]
+Get:5 https://termux.cdn.lumito.net/termux-main stable InRelease [14.0 kB]
+Hit:235 https://termux.cdn.lumito.net/termux-root root InRelease
+Hit:8 https://termux.cdn.lumito.net/termux-root root InRelease
+Ign:8 https://termux.cdn.lumito.net/termux-root root InRelease
+Hit:236 https://termux.cdn.lumito.net/termux-x11 x11 InRelease
+Hit:11 https://termux.cdn.lumito.net/termux-x11 x11 InRelease
+Ign:11 https://termux.cdn.lumito.net/termux-x11 x11 InRelease
+Ign:237 https://termux.cloudflaremirrors.com/termux-packages-24 stable InRelease
+Ign:238 https://termux.cloudflaremirrors.com/termux-root-24 root InRelease
+Ign:239 https://termux.cloudflaremirrors.com/termux-x11-24 x11 InRelease
+Get:242 https://termux.danyael.xyz/termux/termux-main stable InRelease [14.0 kB]
+Hit:243 https://termux.danyael.xyz/termux/termux-root root InRelease
+Hit:244 https://termux.danyael.xyz/termux/termux-x11 x11 InRelease
+Hit:245 https://termux.librehat.com/apt/termux-main stable InRelease
+Hit:246 https://termux.librehat.com/apt/termux-root root InRelease
+Hit:247 https://termux.librehat.com/apt/termux-x11 x11 InRelease
+Ign:248 https://termux.mentality.rip/termux-main stable InRelease
+Ign:249 https://termux.mentality.rip/termux-root root InRelease
+Ign:250 https://termux.mentality.rip/termux-x11 x11 InRelease
+Hit:251 https://termux.niranjan.co/termux-main stable InRelease
+Hit:252 https://termux.niranjan.co/termux-root root InRelease
+Hit:253 https://termux.niranjan.co/termux-x11 x11 InRelease
+Get:254 https://termux.samcze.pl/termux/apt/termux-main stable InRelease [14.0 kB]
+Hit:255 https://termux.samcze.pl/termux/apt/termux-root root InRelease
+Hit:256 https://termux.samcze.pl/termux/apt/termux-x11 x11 InRelease
+Ign:257 https://termux.sourceforge.io/termux-packages-24 stable InRelease
+Ign:258 https://termux.sourceforge.io/termux-root-24 root InRelease
+Ign:259 https://termux.sourceforge.io/termux-x11-24 x11 InRelease
+Get:263 https://tur.kcubeterm.com tur-packages InRelease
+Err:264 https://mirror.albony.xyz/termux/termux-main stable Release
+  Redirection from https to 'http://mirror.hyd.albony.in/termux/termux-main/dists/stable/Release' is forbidden [IP: 82.180.145.196 443]
+Err:265 https://mirror.albony.xyz/termux/termux-root root Release
+  Redirection from https to 'http://mirror.nag.albony.in/termux/termux-root/dists/root/Release' is forbidden [IP: 82.180.145.196 443]
+Err:266 https://mirror.albony.xyz/termux/termux-x11 x11 Release
+  Redirection from https to 'http://mirror.hyd.albony.in/termux/termux-x11/dists/x11/Release' is forbidden [IP: 82.180.145.196 443]
+Get:81 https://mirror.meowsmp.net/termux/termux-main stable InRelease
+Get:82 https://mirror.meowsmp.net/termux/termux-root root InRelease
+Get:83 https://mirror.meowsmp.net/termux/termux-x11 x11 InRelease
+Err:81 https://mirror.meowsmp.net/termux/termux-main stable InRelease
+  Clearsigned file isn't valid, got 'NOSPLIT' (does the network require authentication?)
+Ign:82 https://mirror.meowsmp.net/termux/termux-root root InRelease
+Ign:83 https://mirror.meowsmp.net/termux/termux-x11 x11 InRelease
+Get:90 https://mirror.nevacloud.com/applications/termux/root root InRelease [29.1 kB]
+Get:94 https://mirror.nevacloud.com/applications/termux/x11 x11 InRelease [29.1 kB]
+Err:90 https://mirror.nevacloud.com/applications/termux/root root InRelease
+  Clearsigned file isn't valid, got 'NOSPLIT' (does the network require authentication?)
+Ign:94 https://mirror.nevacloud.com/applications/termux/x11 x11 InRelease
+Get:137 https://mirror.sjtu.edu.cn/termux/apt/termux-main stable InRelease [14.0 kB]
+Hit:138 https://mirror.sjtu.edu.cn/termux/apt/termux-root root InRelease
+Hit:139 https://mirror.sjtu.edu.cn/termux/apt/termux-x11 x11 InRelease
+Get:152 https://mirrors.in2.sahilister.net/termux/termux-main stable InRelease [14.0 kB]
+Hit:153 https://mirrors.in2.sahilister.net/termux/termux-root root InRelease
+Hit:154 https://mirrors.in2.sahilister.net/termux/termux-x11 x11 InRelease
+Err:267 https://mirrors.saswata.cc/termux/termux-main stable Release
+  404  Not Found [IP: 150.129.182.230 443]
+Err:268 https://mirrors.saswata.cc/termux/termux-root root Release
+  404  Not Found [IP: 150.129.182.230 443]
+Err:269 https://mirrors.saswata.cc/termux/termux-x11 x11 Release
+  404  Not Found [IP: 150.129.182.230 443]
+Hit:240 https://termux.cdn.lumito.net/termux-root root Release
+Hit:241 https://termux.cdn.lumito.net/termux-x11 x11 Release
+Err:270 https://termux.sourceforge.io/termux-packages-24 stable Release
+  404  Not Found [IP: 104.18.10.31 443]
+Err:271 https://termux.sourceforge.io/termux-root-24 root Release
+  404  Not Found [IP: 104.18.10.31 443]
+Err:272 https://termux.sourceforge.io/termux-x11-24 x11 Release
+  404  Not Found [IP: 104.18.10.31 443]
+Ign:260 https://rn.vcv.my.id/apt/termux-main stable InRelease
+Ign:261 https://ga.vcv.biz.id/apt/termux-root root InRelease
+Ign:262 https://xe.bbz.biz.id/apt/termux-x11 x11 InRelease
+Get:273 https://mirror.meowsmp.net/termux/termux-root root Release
+Get:274 https://mirror.meowsmp.net/termux/termux-x11 x11 Release
+Get:275 https://mirror.nevacloud.com/applications/termux/x11 x11 Release [29.1 kB]
+Get:278 https://mirror.meowsmp.net/termux/termux-root root Release.gpg
+Get:279 https://mirror.meowsmp.net/termux/termux-x11 x11 Release.gpg
+Err:278 https://mirror.meowsmp.net/termux/termux-root root Release.gpg
+  Signed file isn't valid, got 'NODATA' (does the network require authentication?)
+Err:279 https://mirror.meowsmp.net/termux/termux-x11 x11 Release.gpg
+  Signed file isn't valid, got 'NODATA' (does the network require authentication?)
+Get:280 https://mirror.nevacloud.com/applications/termux/x11 x11 Release.gpg [29.1 kB]
+Err:280 https://mirror.nevacloud.com/applications/termux/x11 x11 Release.gpg
+  Signed file isn't valid, got 'NODATA' (does the network require authentication?)
+Get:281 https://mirror.jeonnam.school/termux/termux-main stable/main aarch64 Packages [550 kB]
+Get:282 https://mirror.rinarin.dev/termux/termux-main stable/main aarch64 Packages [550 kB]
+Get:283 https://mirror.sunred.org/termux/termux-main stable/main aarch64 Packages [551 kB]
+Get:284 https://mirrors.aliyun.com/termux/termux-main stable/main aarch64 Packages [550 kB]
+Err:284 https://mirrors.aliyun.com/termux/termux-main stable/main aarch64 Packages
+  File has unexpected size (549153 != 550267). Mirror sync in progress? [IP: 163.181.253.203 443]
+  Hashes of expected file:
+   - Filesize:550267 [weak]
+   - SHA512:440e7d07d0457343874855c89157725279b187053d9af738cb2ee39e7fee08b512e8efcb2ee06c7bec6215f07ef8f06532f7ffc7684e788d9814744c7397b621
+   - SHA256:41ddc29bc158197eba1a8d665b367f119858f8bb883add0e05b1cc73fb288d6b
+   - SHA1:40f71f8cb253c6dc8c8b503d295236b750ee8c94 [weak]
+   - MD5Sum:46da41dbc7b71314cabcb7937839d1bf [weak]
+  Release file created at: Fri, 26 Jun 2026 19:00:06 +0000
+Get:285 https://mirrors.aliyun.com/termux/termux-x11 x11/main aarch64 Packages [212 kB]
+Get:286 https://mirrors.de.sahilister.net/termux/termux-main stable/main aarch64 Packages [551 kB]
+Get:287 https://mirrors.hust.edu.cn/termux/apt/termux-main stable/main aarch64 Packages [551 kB]
+[2026-06-26 21:33:27] [SUMMARY] [OK] official=195 unofficial=58 total=253
