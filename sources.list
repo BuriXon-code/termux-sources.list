@@ -1,3 +1,6 @@
+deb https://termux.samcze.pl/termux/apt/termux-main/ stable main
+deb https://termux.samcze.pl/termux/apt/termux-root/ root stable
+deb https://termux.samcze.pl/termux/apt/termux-x11/ x11 main
 deb http://mirror.mephi.ru/termux/termux-main stable main
 deb http://mirror.mephi.ru/termux/termux-root root stable
 deb http://mirror.mephi.ru/termux/termux-x11 x11 main
