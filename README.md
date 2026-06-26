@@ -39,11 +39,11 @@ apt update
 <!-- SLIST-AUTO-START -->
 ## Live mirror snapshot
 
-Official working mirrors: **192**  
-Unofficial working mirrors: **14**  
-Total working mirrors: **206**
+Official working mirrors: **1**  
+Unofficial working mirrors: **0**  
+Total working mirrors: **1**
 
-Updated: **2026-06-26 22:29:32**
+Updated: **2026-06-26 22:53:11**
 
 Files:
 - [sources.list](./sources.list)

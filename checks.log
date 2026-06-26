@@ -255,3 +255,5 @@
 [2026-06-26 22:29:32] [OFFICIAL] [OK] deb https://repository.su/termux/termux-root root stable
 [2026-06-26 22:29:32] [OFFICIAL] [OK] deb https://repository.su/termux/termux-x11 x11 main
 [2026-06-26 22:29:32] [SUMMARY] [OK] official=192 unofficial=14 total=206
+[2026-06-26 22:53:11] [OFFICIAL] [OK] deb https://mirror.jeonnam.school/termux/termux-main stable main
+[2026-06-26 22:53:11] [SUMMARY] [OK] official=1 unofficial=0 total=1
