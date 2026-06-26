@@ -36,3 +36,16 @@ To apply the changes, perform a standard update:
 apt update
 ```
 If you encounter an error and/or any of the repositories stop responding, you can let me know at **support@burixon.dev**.
+
+<!-- slist:start -->
+## Mirror status
+
+Official mirrors working now: 0
+
+Unofficial mirrors working now: 0
+
+Total working mirrors: 0
+
+- [OFFICIAL.md](OFFICIAL.md)
+- [UNOFFICIAL.md](UNOFFICIAL.md)
+<!-- slist:end -->
