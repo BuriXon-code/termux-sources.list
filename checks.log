@@ -1782,3 +1782,5 @@ Hit:192 https://mirrors.sustech.edu.cn/termux/apt/termux-x11 x11 InRelease
 [2026-06-26 22:14:42] [OFFICIAL] [OK] deb https://repository.su/termux/termux-root root stable
 [2026-06-26 22:14:42] [OFFICIAL] [OK] deb https://repository.su/termux/termux-x11 x11 main
 [2026-06-26 22:14:42] [SUMMARY] [OK] official=192 unofficial=11 total=203
+[2026-06-26 22:23:39] [OFFICIAL] [OK] deb https://tmx.xvx.my.id/apt/termux-x11 x11 main
+[2026-06-26 22:23:39] [SUMMARY] [OK] official=1 unofficial=0 total=1

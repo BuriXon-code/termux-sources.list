@@ -1,19 +1,9 @@
 # UNOFFICIAL mirrors
 
-Working mirrors: **11**
+Working mirrors: **0**
 
-Updated: **2026-06-26 22:14:42**
+Updated: **2026-06-26 22:23:39**
 
 ```text
-deb https://termux.samcze.pl/termux/apt/termux-main stable main
-deb https://termux.samcze.pl/termux/apt/termux-root root stable
-deb https://termux.samcze.pl/termux/apt/termux-x11 x11 main
-deb https://cdn.lumito.net/termux/termux-main stable main
-deb https://cdn.lumito.net/termux/termux-root root stable
-deb https://cdn.lumito.net/termux/termux-x11 x11 main
-deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main
-deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable
-deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main
-deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous
-deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable
+(none)
 ```
