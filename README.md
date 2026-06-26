@@ -39,22 +39,18 @@ apt update
 <!-- SLIST-AUTO-START -->
 ## Live mirror snapshot
 
-Official working mirrors: **2**  
-Unofficial working mirrors: **1**  
-Total working mirrors: **3**
+Official working mirrors: **192**  
+Unofficial working mirrors: **11**  
+Total working mirrors: **203**
 
-Updated: **2026-06-26 21:47:35**
+Updated: **2026-06-26 22:14:42**
 
-Lists (md):
-- [List of official mirrors](./OFFICIAL.md)
-- [List of unofficial mirrors](./UNOFFICIAL.md)
-
-Lists (ready to use):
+Files:
 - [sources.list](./sources.list)
 - [official-sources.list](./official-sources.list)
 - [unofficial-sources.list](./unofficial-sources.list)
-
-Log:
+- [OFFICIAL.md](./OFFICIAL.md)
+- [UNOFFICIAL.md](./UNOFFICIAL.md)
 - [checks.log](./checks.log)
 <!-- SLIST-AUTO-END -->
 
