@@ -189,3 +189,4 @@ deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable
 deb https://mirrors.ocf.berkeley.edu/termux/termux-main stable main
 deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable
 deb https://mirrors.ocf.berkeley.edu/termux/termux-x11 x11 stable
+deb https://termux.librehat.com/apt/termux-x11 x11 main
