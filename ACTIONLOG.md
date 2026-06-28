@@ -327,3 +327,17 @@
 
 + write : all=191 official=174 unofficial=17 mode=full
 + commit
+## 2026-06-28 22:53:17 RANDOM  
+
++ random-check selected=5 of total=259  
+
++ URLs:  
+
+		deb https://nl.mirror.flokinet.net/termux/termux-x11 x11 main
+		deb https://termux.mentality.rip/termux-x11 x11 main
+		deb https://mirrors.wale.id.au/termux/termux-root root stable
+		deb https://mirror.sjtu.edu.cn/termux/termux-main stable main
+		deb https://termux.librehat.com/apt/termux-x11 x11 main
+
++ write : all=192 official=175 unofficial=17 mode=random
++ commit
