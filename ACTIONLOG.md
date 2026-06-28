@@ -273,3 +273,17 @@
 
 + write : all=190 official=176 unofficial=14 mode=random
 + commit
+## 2026-06-28 22:34:54 RANDOM  
+
++ random-check selected=5 of total=259  
+
++ URLs:  
+
+		deb https://termux.samcze.pl/termux/apt/termux-x11 x11 main
+		deb https://mirrors.utermux.dev/termux/termux-main stable main
+		deb https://mirrors.saswata.cc/termux/termux-main stable main
+		deb https://mirrors.sdu.edu.cn/termux/termux-main stable main
+		deb https://mirrors.cbrx.io/apt/termux/termux-x11 x11 main
+
++ write : all=190 official=176 unofficial=14 mode=random
++ commit
