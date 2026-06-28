@@ -1,7 +1,10 @@
 # Unofficial mirrors
 
-Total: 14
+Total: 17
 
+- `deb https://easycli.sh/termux/termux-main stable main`
+- `deb https://easycli.sh/termux/termux-root root stable`
+- `deb https://easycli.sh/termux/termux-x11 x11 main`
 - `deb https://termux.samcze.pl/termux/apt/termux-main stable main`
 - `deb https://termux.samcze.pl/termux/apt/termux-root root stable`
 - `deb https://termux.samcze.pl/termux/apt/termux-x11 x11 main`

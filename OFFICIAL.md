@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 176
+Total: 174
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -139,9 +139,7 @@ Total: 176
 - `deb https://termux.cdn.lumito.net/termux-main stable main`
 - `deb https://termux.cdn.lumito.net/termux-root root stable`
 - `deb https://termux.cdn.lumito.net/termux-x11 x11 main`
-- `deb https://termux.librehat.com/apt/termux-main stable main`
 - `deb https://termux.librehat.com/apt/termux-root root stable`
-- `deb https://termux.librehat.com/apt/termux-x11 x11 main`
 - `deb https://gnlug.org/pub/termux/termux-main stable main`
 - `deb https://gnlug.org/pub/termux/termux-root root stable`
 - `deb https://gnlug.org/pub/termux/termux-x11 x11 main`

@@ -301,3 +301,17 @@
 
 + write : all=190 official=176 unofficial=14 mode=random
 + commit
+## 2026-06-28 22:36:42 RANDOM  
+
++ random-check selected=5 of total=259  
+
++ URLs:  
+
+		deb https://mirror.aarnet.edu.au/pub/termux-x11 x11 main
+		deb https://packages-cf.termux.dev/apt/termux-main stable main
+		deb https://ro.mirror.flokinet.net/termux/termux-main stable main
+		deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main
+		deb https://mirror.rinarin.dev/termux/termux-x11 x11 main
+
++ write : all=190 official=176 unofficial=14 mode=random
++ commit
