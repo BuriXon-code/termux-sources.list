@@ -399,3 +399,18 @@
 
 + write : all=192 official=175 unofficial=17 mode=random
 + commit
+## 2026-06-28 23:11:00 RANDOM  
+
++ random-check selected=5 of total=259  
+
++ URLs:  
+
+		deb https://packages.nscdn.top/termux-root root stable
+		deb https://mirror.freedif.org/termux/termux-main stable main
+		deb https://mirror.vern.cc/termux/termux-x11 x11 main
+		deb https://repository.su/termux/termux-main stable main
+		deb https://termux.cloudflaremirrors.com/termux-x11-24 x11 main
+
++ write : all=192 official=175 unofficial=17 mode=random
+
++ commit
