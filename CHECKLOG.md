@@ -1,18 +1,3 @@
-2026-06-28 16:02:55 RANDOM selected=3 total=256
-2026-06-28 16:02:55 CHECK random kind=O mirror=deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main
-2026-06-28 16:02:55 CHECK random kind=O mirror=deb https://packages-cf.termux.dev/apt/termux-x11 x11 main
-2026-06-28 16:02:55 CHECK random kind=O mirror=deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable
-2026-06-28 16:02:59 RESULT mirror=deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main state=OK
-2026-06-28 16:02:59 RESULT mirror=deb https://packages-cf.termux.dev/apt/termux-x11 x11 main state=OK
-2026-06-28 16:02:59 RESULT mirror=deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable state=OK
-2026-06-28 16:03:01 WRITE all=190 official=176 unofficial=14 mode=random
-2026-06-28 16:03:01 APPLY mirror=deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main kind=O state=OK
-2026-06-28 16:03:01 APPLY mirror=deb https://packages-cf.termux.dev/apt/termux-x11 x11 main kind=O state=OK
-2026-06-28 16:03:01 APPLY mirror=deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable kind=O state=OK
-2026-06-28 16:03:01 COMMIT random-check
-2026-06-28 16:03:16 PUSH commit+force-push
-2026-06-28 16:13:35 PUSH commit+force-push
-2026-06-28 16:14:15 PUSH commit+force-push
 ## 2026-06-28 16:14:21 PUSH
 + push
 ## 2026-06-28 16:15:58 RANDOM
@@ -51,3 +36,9 @@
 + commit
 ## 2026-06-28 16:26:19 PUSH
 + push
+## 2026-06-28 16:27:18 RANDOM
++ random-check selected=1 of total=256
++ URLs:
+		deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-x11 x11 main
+2026-06-28 16:27:24 WRITE all=190 official=176 unofficial=14 mode=random
++ commit
