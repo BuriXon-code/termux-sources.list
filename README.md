@@ -51,9 +51,8 @@ apt update
 - [UNOFFICIAL.md](./UNOFFICIAL.md) - List of unofficial repositories
 - [unofficial.list](./unofficial.list) - Unofficial repository file for apt Termux
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
-- [CHECKLOG.md](./CHECKLOG.md) - Change/check history log
 
-Last updated: 2026-06-28 16:50:43
+Last updated: 2026-06-28 17:09:59
 <!-- STOP-COUNT-HERR -->  
 
 If you encounter an error and/or any of the repositories stop responding, you can let me know at **support@burixon.dev**.
