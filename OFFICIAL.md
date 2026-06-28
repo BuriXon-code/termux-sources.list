@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 171
+Total: 177
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -125,14 +125,18 @@ Total: 171
 - `deb https://mirror.sunred.org/termux/termux-main stable main`
 - `deb https://mirror.sunred.org/termux/termux-root root stable`
 - `deb https://mirror.sunred.org/termux/termux-x11 x11 main`
+- `deb https://mirrors.de.sahilister.net/termux/termux-main stable main`
 - `deb https://mirrors.de.sahilister.net/termux/termux-root root stable`
+- `deb https://mirrors.de.sahilister.net/termux/termux-x11 x11 main`
 - `deb https://nl.mirror.flokinet.net/termux/termux-main stable main`
 - `deb https://nl.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://nl.mirror.flokinet.net/termux/termux-x11 x11 main`
 - `deb https://ro.mirror.flokinet.net/termux/termux-main stable main`
 - `deb https://ro.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://ro.mirror.flokinet.net/termux/termux-x11 x11 main`
+- `deb https://termux.3san.dev/termux/termux-main stable main`
 - `deb https://termux.3san.dev/termux/termux-root root stable`
+- `deb https://termux.3san.dev/termux/termux-x11 x11 main`
 - `deb https://termux.cdn.lumito.net/termux-main stable main`
 - `deb https://termux.cdn.lumito.net/termux-root root stable`
 - `deb https://termux.cdn.lumito.net/termux-x11 x11 main`
@@ -151,7 +155,9 @@ Total: 171
 - `deb https://mirror.mwt.me/termux/main stable main`
 - `deb https://mirror.mwt.me/termux/root root stable`
 - `deb https://mirror.mwt.me/termux/x11 x11 main`
+- `deb https://mirror.quantum5.ca/termux/termux-main stable main`
 - `deb https://mirror.quantum5.ca/termux/termux-root root stable`
+- `deb https://mirror.quantum5.ca/termux/termux-x11 x11 main`
 - `deb https://mirror.vern.cc/termux/termux-main stable main`
 - `deb https://mirror.vern.cc/termux/termux-root root stable`
 - `deb https://mirror.vern.cc/termux/termux-x11 x11 main`
