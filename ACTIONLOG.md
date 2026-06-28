@@ -5,6 +5,22 @@ Here you will find information about which sources were checked/added and when.
 The last 500..2000 actions will be saved in the history (the file will not exceed 500kB) (or less if I clean it manually).  
 Detailed information can be found below (newer first):  
 
+## 2026-06-29 01:46:28 RANDOM
+
++ random-check selected=3 of total=273
+
++ URLs:
+
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous
+		deb https://mirrors.aliyun.com/termux/termux-main stable main
+		deb https://tmx.xvx.my.id/apt/termux-root root stable
+
++ write : all=202 official=174 unofficial=28 mode=random
+
++ commit
+
+
+
 ## 2026-06-29 01:43:19 PUSH
 
 + push
