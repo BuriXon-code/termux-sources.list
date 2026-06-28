@@ -119,3 +119,15 @@
 
 + write : all=190 official=176 unofficial=14 mode=random
 + commit
+## 2026-06-28 18:10:05 RANDOM  
+
++ random-check selected=3 of total=256  
+
++ URLs:  
+
+		deb https://mirror.nag.albony.in/termux/termux-main stable main
+		deb https://mirrors.hust.edu.cn/termux/apt/termux-x11 x11 main
+		deb https://mirror.vern.cc/termux/termux-main stable main
+
++ write : all=190 official=176 unofficial=14 mode=random
++ commit
