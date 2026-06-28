@@ -70,3 +70,13 @@
 
 + write : all=190 official=176 unofficial=14 mode=random
 + commit
+## 2026-06-28 17:52:33 RANDOM
++ random-check selected=3 of total=256
+
++ URLs:
+		deb https://mirror.cutie.dating/termux/termux-main stable main
+		deb https://nl.mirror.flokinet.net/termux/termux-root root stable
+		deb https://mirror.cutie.dating/termux/termux-x11 x11 main
+
++ write : all=190 official=176 unofficial=14 mode=random
++ commit
