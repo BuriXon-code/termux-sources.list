@@ -5,6 +5,22 @@ Here you will find information about which sources were checked/added and when.
 The last 500..2000 actions will be saved in the history (the file will not exceed 500kB).  
 Detailed information can be found below (newer first):  
 
+## 2026-06-28 23:54:26 RANDOM
+
++ random-check selected=3 of total=259
+
++ URLs:
+
+		deb https://mirror.sunred.org/termux/termux-root root stable
+		deb https://termux.sourceforge.io/termux-x11-24 x11 main
+		deb https://mirrors.utermux.dev/termux/termux-x11 x11 main
+
++ write : all=194 official=177 unofficial=17 mode=random
+
++ commit
+
+
+
 ## 2026-06-28 23:53:52 PUSH
 
 + push
