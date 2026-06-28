@@ -14,3 +14,35 @@
 + push
 ## 2026-06-28 16:55:11 PUSH
 + push
+## 2026-06-28 17:08:22 RANDOM
++ random-check selected=5 of total=256
+
++ URLs:
+		deb https://termux.mentality.rip/termux-main stable main
+		deb https://mirrors.de.sahilister.net/termux/termux-x11 x11 main
+		deb https://termux.cloudflaremirrors.com/termux-root-24 root stable
+		deb https://mirror.nag.albony.in/termux/termux-root root stable
+		deb https://mirror.polido.pt/termux/termux-x11 x11 main
+
+## 2026-06-28 17:09:38 RANDOM
++ random-check selected=5 of total=256
+
++ URLs:
+		deb https://mirrors.nju.edu.cn/termux/apt/termux-x11 x11 main
+		deb https://mirror.cutie.dating/termux/termux-root root stable
+		deb https://mirror.fcix.net/termux/termux-main stable main
+		deb https://md.mirrors.hacktegic.com/termux/termux-root root stable
+		deb https://mirrors.bfsu.edu.cn/termux/apt/termux-x11 x11 main
+
+## 2026-06-28 17:09:48 RANDOM
++ random-check selected=5 of total=256
+
++ URLs:
+		deb https://termux.cloudflaremirrors.com/termux-x11-24 x11 main
+		deb https://mirrors.saswata.xyz/termux/termux-x11 x11 main
+		deb https://mirrors.medzik.dev/termux/termux-root root stable
+		deb https://cdn.lumito.net/termux/termux-root root stable
+		deb https://repository.su/termux/termux-root root stable
+
++ write : all=190 official=176 unofficial=14 mode=random
++ commit
