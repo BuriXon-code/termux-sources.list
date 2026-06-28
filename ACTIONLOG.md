@@ -5,6 +5,20 @@ Here you will find information about which sources were checked/added and when.
 The last 500..2000 actions will be saved in the history (the file will not exceed 500kB).  
 Detailed information can be found below (newer first):  
 
+## 2026-06-29 00:46:00 RANDOM
+
++ random-check selected=1 of total=259
+
++ URLs:
+
+		deb https://mirrors.in.sahilister.net/termux/termux-root root stable
+
++ write : all=194 official=177 unofficial=17 mode=random
+
++ commit
+
+
+
 ## 2026-06-29 00:45:27 RANDOM
 
 + random-check selected=1 of total=259
