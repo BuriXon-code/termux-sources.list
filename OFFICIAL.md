@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 175
+Total: 177
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -35,6 +35,7 @@ Total: 175
 - `deb https://mirrors.in.sahilister.net/termux/termux-main stable main`
 - `deb https://mirrors.in.sahilister.net/termux/termux-root root stable`
 - `deb https://mirrors.in.sahilister.net/termux/termux-x11 x11 main`
+- `deb https://mirrors.krnk.org/apt/termux/termux-main stable main`
 - `deb https://mirrors.krnk.org/apt/termux/termux-root root stable`
 - `deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main`
 - `deb https://mirrors.nguyenhoang.cloud/termux/termux-main stable main`
@@ -139,7 +140,9 @@ Total: 175
 - `deb https://termux.cdn.lumito.net/termux-main stable main`
 - `deb https://termux.cdn.lumito.net/termux-root root stable`
 - `deb https://termux.cdn.lumito.net/termux-x11 x11 main`
+- `deb https://termux.librehat.com/apt/termux-main stable main`
 - `deb https://termux.librehat.com/apt/termux-root root stable`
+- `deb https://termux.librehat.com/apt/termux-x11 x11 main`
 - `deb https://gnlug.org/pub/termux/termux-main stable main`
 - `deb https://gnlug.org/pub/termux/termux-root root stable`
 - `deb https://gnlug.org/pub/termux/termux-x11 x11 main`
@@ -176,4 +179,3 @@ Total: 175
 - `deb https://repository.su/termux/termux-main stable main`
 - `deb https://repository.su/termux/termux-root root stable`
 - `deb https://repository.su/termux/termux-x11 x11 main`
-- `deb https://termux.librehat.com/apt/termux-x11 x11 main`
