@@ -287,3 +287,17 @@
 
 + write : all=190 official=176 unofficial=14 mode=random
 + commit
+## 2026-06-28 22:35:41 RANDOM  
+
++ random-check selected=5 of total=259  
+
++ URLs:  
+
+		deb https://mirror.bardia.tech/termux/termux-main stable main
+		deb https://mirror.freedif.org/termux/termux-x11 x11 main
+		deb https://mirror.sunred.org/termux/termux-root root stable
+		deb https://mirror.sng.sg/termux stable main
+		deb https://mirror.cutie.dating/termux/termux-root root stable
+
++ write : all=190 official=176 unofficial=14 mode=random
++ commit
