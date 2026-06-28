@@ -1,12 +1,8 @@
-## 2026-06-28 16:45:11 RANDOM  
+## 2026-06-28 16:50:36 RANDOM
++ random-check selected=1 of total=256
 
-+ random-check selected=1 of total=256  
++ URLs:
+		deb https://mirror.vern.cc/termux/termux-main stable main
 
-+ URLs:  
-
-		deb https://mirrors.pku.edu.cn/termux/termux-root root stable  
-
-2026-06-28 16:45:20 WRITE all=190 official=176 unofficial=14 mode=random
++ write : all=190 official=176 unofficial=14 mode=random
 + commit
-## 2026-06-28 16:45:25 PUSH
-+ push
