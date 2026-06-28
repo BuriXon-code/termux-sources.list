@@ -355,3 +355,17 @@
 
 + write : all=192 official=175 unofficial=17 mode=random
 + commit
+## 2026-06-28 22:56:32 RANDOM  
+
++ random-check selected=5 of total=259  
+
++ URLs:  
+
+		deb https://mirrors.nju.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.rinarin.dev/termux/termux-main stable main
+		deb https://mirrors.ustc.edu.cn/termux/termux-root root stable
+		deb https://ftp.fau.de/termux/termux-main stable main
+		deb https://ro.mirror.flokinet.net/termux/termux-main stable main
+
++ write : all=192 official=175 unofficial=17 mode=random
++ commit
