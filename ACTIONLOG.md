@@ -5,6 +5,22 @@ Here you will find information about which sources were checked/added and when.
 The last 500..2000 actions will be saved in the history (the file will not exceed 500kB).  
 Detailed information can be found below (newer first):  
 
+## 2026-06-28 23:49:43 RANDOM
+
++ random-check selected=3 of total=259
+
++ URLs:
+
+		deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable
+		deb https://mirror.rinarin.dev/termux/termux-main stable main
+		deb https://mirror.twds.com.tw/termux/termux-main stable main
+
++ write : all=194 official=177 unofficial=17 mode=random
+
++ commit
+
+
+
 ## 2026-06-28 23:49:28 RANDOM
 
 + random-check selected=3 of total=259
