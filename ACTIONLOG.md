@@ -2,8 +2,24 @@
 
 This file contains the change/check history for available mirrors/repositories.  
 Here you will find information about which sources were checked/added and when.  
-The last 500..2000 actions will be saved in the history (the file will not exceed 500kB).  
+The last 500..2000 actions will be saved in the history (the file will not exceed 500kB) (or less if I clean it manually).  
 Detailed information can be found below (newer first):  
+
+## 2026-06-29 01:41:12 RANDOM
+
++ random-check selected=3 of total=273
+
++ URLs:
+
+		deb https://mirror.csclub.uwaterloo.ca/termux/termux-x11 x11 main
+		deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main
+		deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
+
++ write : all=202 official=174 unofficial=28 mode=random
+
++ commit
+
+
 
 ## 2026-06-29 01:39:03 PUSH
 
