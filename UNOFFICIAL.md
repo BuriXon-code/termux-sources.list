@@ -1,7 +1,15 @@
 # Unofficial mirrors
 
-Total: 17
+Total: 28
 
+- `deb https://mirror.diyarciftci.xyz/termux/termux-main stable main`
+- `deb https://mirror.diyarciftci.xyz/termux/termux-root root stable`
+- `deb https://mirror.diyarciftci.xyz/termux/termux-x11 x11 main`
+- `deb https://mirror.rabisu.com/mirrors/termux/termux-packages-24 stable main`
+- `deb https://mirror.ordunet.ge/termux/termux-main stable main`
+- `deb https://mirror.ordunet.ge/termux/termux-root root stable`
+- `deb https://mirror.ordunet.ge/termux/termux-x11 x11 main`
+- `deb https://mirror.whiterosetech.org/termux-main stable main`
 - `deb https://easycli.sh/termux/termux-main stable main`
 - `deb https://easycli.sh/termux/termux-root root stable`
 - `deb https://easycli.sh/termux/termux-x11 x11 main`
@@ -19,3 +27,6 @@ Total: 17
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-main stable main`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-x11 x11 stable`
+- `deb https://mirror.init7.net/termux/termux-main stable main`
+- `deb https://mirror.init7.net/termux/termux-root root stable`
+- `deb https://mirror.init7.net/termux/termux-x11 x11 main`
