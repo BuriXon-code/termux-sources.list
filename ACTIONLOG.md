@@ -5,6 +5,20 @@ Here you will find information about which sources were checked/added and when.
 The last 500..2000 actions will be saved in the history (the file will not exceed 500kB).  
 Detailed information can be found below (newer first):  
 
+## 2026-06-29 00:30:04 RANDOM
+
++ random-check selected=3 of total=259
+
++ URLs:
+
+		deb https://termux.niranjan.co/termux-root root stable
+		deb https://mirrors.wale.id.au/termux/termux-root root stable
+		deb https://ftp.fau.de/termux/termux-x11 x11 main
+
++ write : all=194 official=177 unofficial=17 mode=random
+
+
+
 ## 2026-06-29 00:27:39 PUSH
 
 + push
