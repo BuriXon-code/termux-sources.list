@@ -37,3 +37,11 @@
 		deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-x11 x11 main
 2026-06-28 16:16:05 WRITE all=190 official=176 unofficial=14 mode=random
 + commit
+## 2026-06-28 16:19:39 RANDOM
++ random-check selected=3 of total=256
++ URLs:
+		deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main
+		deb https://ro.mirror.flokinet.net/termux/termux-root root stable
+		deb https://mirrors.ustc.edu.cn/termux/termux-x11 x11 main
+2026-06-28 16:19:46 WRITE all=190 official=176 unofficial=14 mode=random
++ commit
