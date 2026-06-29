@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-06-29 20:30:06 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://termux.niranjan.co/termux-root root stable
+		deb http://mirror.mephi.ru/termux/termux-root root stable
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main
+
++ write : all=204 official=175 unofficial=29 mode=random
+
++ commit
+
+
 ## 2026-06-29 20:05:01 PUSH
 
 + push
