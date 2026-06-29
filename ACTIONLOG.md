@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-06-30 01:30:05 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://nl.mirror.flokinet.net/termux/termux-root root stable
+		deb https://termux.librehat.com/apt/termux-root root stable
+		deb https://mirror.mwt.me/termux/main stable main
+
++ write : all=205 official=176 unofficial=29 mode=random
+
++ commit
+
+
 ## 2026-06-30 01:00:05 RANDOM
 
 + random-check selected=3 of total=276
