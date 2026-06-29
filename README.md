@@ -49,7 +49,7 @@ apt update
 - Unofficial mirrors: 29
 
 > [!WARNING]  
-> I do not include private repositories and some tour repositories.  
+> I do not include private repositories and some TUR repositories.  
 >  
 > Nevertheless, I am looking for such ones and will gradually add them in the future.  
 
