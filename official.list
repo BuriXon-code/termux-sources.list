@@ -173,3 +173,4 @@ deb https://repository.su/termux/termux-main stable main
 deb https://repository.su/termux/termux-root root stable
 deb https://repository.su/termux/termux-x11 x11 main
 deb https://mirror.rinarin.dev/termux/termux-x11 x11 main
+deb https://mirror.fcix.net/termux/termux-x11 x11 main

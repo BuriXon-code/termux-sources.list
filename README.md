@@ -44,8 +44,8 @@ apt update
 <!-- START-COUNT-HERE -->  
 ## Mirror Count
 
-- All mirrors: 204
-- Official mirrors: 175
+- All mirrors: 205
+- Official mirrors: 176
 - Unofficial mirrors: 29
 
 > [!WARNING]  
@@ -62,7 +62,7 @@ apt update
 - [unofficial.list](./unofficial.list) - Unofficial repository file for apt Termux
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
 
-Last updated: 2026-06-30 00:30:13
+Last updated: 2026-06-30 01:00:17
 <!-- STOP-COUNT-HERR -->  
 
 If you run/own a mirror/repository for apt Termux yourself and would like to be on this list, please let me know: **support@burixon.dev**.
