@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-06-29 15:30:03 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://mirrors.cbrx.io/apt/termux/termux-main stable main
+		deb https://mirrors.in.sahilister.net/termux/termux-main stable main
+		deb https://mirror.aarnet.edu.au/pub/termux-x11 x11 main
+
++ write : all=204 official=175 unofficial=29 mode=random
+
++ commit
+
+
 ## 2026-06-29 15:00:04 RANDOM
 
 + random-check selected=3 of total=276
