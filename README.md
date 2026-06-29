@@ -27,6 +27,11 @@ cd termux-sources.list
 mv sources.list /data/data/com.termux/files/usr/etc/apt/sources.list.d/sources.list
 ```
 
+> [!WARNING]  
+> The list of available sources also includes TUR repositories that require a signature.  
+>  
+> They can be installed using the `pkg install tur-repo` command.  
+
 > [!WARNING]
 > When moving the file to "**.../sources.list.d/...**", you must take into account that apt will return an error in case of duplicate items from **sources.list** and **sources.lisd.d/...**.
 
@@ -57,9 +62,11 @@ apt update
 - [unofficial.list](./unofficial.list) - Unofficial repository file for apt Termux
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
 
-Last updated: 2026-06-29 12:00:08
+Last updated: 2026-06-29 12:30:11
 <!-- STOP-COUNT-HERR -->  
 
 If you run/own a mirror/repository for apt Termux yourself and would like to be on this list, please let me know: **support@burixon.dev**.
+
+
 
 If you encounter an error and/or any of the repositories stop responding, you can let me know at **support@burixon.dev**.
