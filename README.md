@@ -49,7 +49,7 @@ apt update
 - Unofficial mirrors: 29
 
 > [!WARNING]  
-> I do not include private repositories and some TUR repositories.  
+> I do not include private repositories and some tour repositories.  
 >  
 > Nevertheless, I am looking for such ones and will gradually add them in the future.  
 
@@ -62,7 +62,7 @@ apt update
 - [unofficial.list](./unofficial.list) - Unofficial repository file for apt Termux
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
 
-Last updated: 2026-06-29 16:00:52
+Last updated: 2026-06-29 16:30:11
 <!-- STOP-COUNT-HERR -->  
 
 If you run/own a mirror/repository for apt Termux yourself and would like to be on this list, please let me know: **support@burixon.dev**.
