@@ -23,7 +23,9 @@ Total: 176
 - `deb https://mirror.nevacloud.com/applications/termux/termux-main stable main`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-root root stable`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main`
+- `deb https://mirror.rinarin.dev/termux/termux-main stable main`
 - `deb https://mirror.rinarin.dev/termux/termux-root root stable`
+- `deb https://mirror.rinarin.dev/termux/termux-x11 x11 main`
 - `deb https://mirror.twds.com.tw/termux/termux-main stable main`
 - `deb https://mirror.twds.com.tw/termux/termux-root root stable`
 - `deb https://mirror.twds.com.tw/termux/termux-x11 x11 main`
@@ -35,7 +37,6 @@ Total: 176
 - `deb https://mirrors.in.sahilister.net/termux/termux-x11 x11 main`
 - `deb https://mirrors.krnk.org/apt/termux/termux-main stable main`
 - `deb https://mirrors.krnk.org/apt/termux/termux-root root stable`
-- `deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main`
 - `deb https://mirrors.nguyenhoang.cloud/termux/termux-main stable main`
 - `deb https://mirrors.nguyenhoang.cloud/termux/termux-root root stable`
 - `deb https://mirrors.nguyenhoang.cloud/termux/termux-x11 x11 main`
@@ -149,6 +150,7 @@ Total: 176
 - `deb https://mirror.csclub.uwaterloo.ca/termux/termux-x11 x11 main`
 - `deb https://mirror.fcix.net/termux/termux-main stable main`
 - `deb https://mirror.fcix.net/termux/termux-root root stable`
+- `deb https://mirror.fcix.net/termux/termux-x11 x11 main`
 - `deb https://mirror.mwt.me/termux/main stable main`
 - `deb https://mirror.mwt.me/termux/root root stable`
 - `deb https://mirror.mwt.me/termux/x11 x11 main`
@@ -176,5 +178,3 @@ Total: 176
 - `deb https://repository.su/termux/termux-main stable main`
 - `deb https://repository.su/termux/termux-root root stable`
 - `deb https://repository.su/termux/termux-x11 x11 main`
-- `deb https://mirror.rinarin.dev/termux/termux-x11 x11 main`
-- `deb https://mirror.fcix.net/termux/termux-x11 x11 main`

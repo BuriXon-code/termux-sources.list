@@ -1,7 +1,10 @@
 # Unofficial mirrors
 
-Total: 30
+Total: 31
 
+- `deb https://mirror.ufscar.br/termux/termux-main stable main`
+- `deb https://mirror.ufscar.br/termux/termux-root root stable`
+- `deb https://mirror.ufscar.br/termux/termux-x11 x11 main`
 - `deb https://mirror.diyarciftci.xyz/termux/termux-main stable main`
 - `deb https://mirror.diyarciftci.xyz/termux/termux-root root stable`
 - `deb https://mirror.diyarciftci.xyz/termux/termux-x11 x11 main`
@@ -22,7 +25,7 @@ Total: 30
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main`
-- `deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous`
+- `deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking`
 - `deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-main stable main`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable`
@@ -30,5 +33,3 @@ Total: 30
 - `deb https://mirror.init7.net/termux/termux-main stable main`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-x11 x11 main`
-- `deb https://mirror.ufscar.br/termux/termux-x11 x11 main`
-- `deb https://mirror.ufscar.br/termux/termux-root root stable`
