@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-06-30 17:00:07 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://packages.nscdn.top/termux-x11 x11 main
+		deb https://mirror.cutie.dating/termux/termux-x11 x11 main
+		deb https://mirrors.cbrx.io/apt/termux/termux-x11 x11 main
+
++ write : all=207 official=176 unofficial=31 mode=random
+
++ commit
+
+
 ## 2026-06-30 16:48:35 FULL
 
 + full-check total=276
