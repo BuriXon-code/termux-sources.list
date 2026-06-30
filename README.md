@@ -30,7 +30,7 @@ mv sources.list /data/data/com.termux/files/usr/etc/apt/sources.list.d/sources.l
 
 We have 3 **.list** files to choose from:
 + **sources.list** -> File containing all working mirrors/repositories;
-+ **official.list** -> File containing only official mirrors/repositories (can be found [https://github.com/termux/termux-packages/wiki/Mirrors](here));
++ **official.list** -> File containing only official mirrors/repositories (can be found [here](https://github.com/termux/termux-packages/wiki/Mirrors);
 + **unofficial.list** -> File containing unofficial repositories, private mirrors, TUR, etc.
 
 Installation of the remaining files is analogous to **sources.list**.
@@ -71,7 +71,7 @@ apt update
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
 
 Last updated: 2026-06-30 17:00:48
-<!-- STOP-COUNT-HERR -->  
+<!-- STOP-COUNT-HERE -->  
 
 If you run/own a mirror/repository for apt Termux yourself and would like to be on this list, please let me know: **support@burixon.dev**.
 
