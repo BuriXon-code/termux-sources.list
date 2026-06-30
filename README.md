@@ -12,6 +12,7 @@ I regularly check the availability of new repositories and mirrors and check the
 > It may happen that the information contained here is outdated (no internet connection, time differences between scanning and commit, etc.)
 
 ## Installation:
+
 Download repository...
 ```
 git clone https://github.com/BuriXon-code/termux-sources.list
@@ -26,6 +27,13 @@ mv sources.list /data/data/com.termux/files/usr/etc/apt/sources.list
 cd termux-sources.list
 mv sources.list /data/data/com.termux/files/usr/etc/apt/sources.list.d/sources.list
 ```
+
+We have 3 **.list** files to choose from:
++ **sources.list** -> File containing all working mirrors/repositories;
++ **official.list** -> File containing only official mirrors/repositories (can be found [https://github.com/termux/termux-packages/wiki/Mirrors](here));
++ **unofficial.list** -> File containing unofficial repositories, private mirrors, TUR, etc.
+
+Installation of the remaining files is analogous to **sources.list**.
 
 > [!WARNING]  
 > The list of available sources also includes TUR repositories that require a signature.  
