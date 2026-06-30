@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-06-30 13:30:04 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://termux.mentality.rip/termux-root root stable
+		deb https://mirror.meowsmp.net/termux/termux-root root stable
+		deb https://grimler.se/termux/termux-root root stable
+
++ write : all=206 official=176 unofficial=30 mode=random
+
++ commit
+
+
 ## 2026-06-30 12:00:09 RANDOM
 
 + random-check selected=3 of total=276
