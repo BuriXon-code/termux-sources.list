@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-06-30 20:30:06 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://mirrors.ravidwivedi.in/termux/termux-root root stable
+		deb https://ro.mirror.flokinet.net/termux/termux-main stable main
+		deb https://mirrors.rda.run/termux/termux-main stable main
+
++ write : all=207 official=176 unofficial=31 mode=random
+
++ commit
+
+
 ## 2026-06-30 18:30:09 RANDOM
 
 + random-check selected=3 of total=276
