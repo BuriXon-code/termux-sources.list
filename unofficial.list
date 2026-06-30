@@ -27,3 +27,4 @@ deb https://mirror.init7.net/termux/termux-main stable main
 deb https://mirror.init7.net/termux/termux-root root stable
 deb https://mirror.init7.net/termux/termux-x11 x11 main
 deb https://mirror.ufscar.br/termux/termux-x11 x11 main
+deb https://mirror.ufscar.br/termux/termux-root root stable

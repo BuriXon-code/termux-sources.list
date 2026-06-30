@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 29
+Total: 30
 
 - `deb https://mirror.diyarciftci.xyz/termux/termux-main stable main`
 - `deb https://mirror.diyarciftci.xyz/termux/termux-root root stable`
@@ -31,3 +31,4 @@ Total: 29
 - `deb https://mirror.init7.net/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-x11 x11 main`
 - `deb https://mirror.ufscar.br/termux/termux-x11 x11 main`
+- `deb https://mirror.ufscar.br/termux/termux-root root stable`
