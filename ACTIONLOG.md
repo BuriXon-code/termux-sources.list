@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-06-30 21:30:06 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://mirror.nevacloud.com/applications/termux/root root stable
+		deb https://mirrors.in.sahilister.net/termux/termux-root root stable
+		deb https://is.mirror.flokinet.net/termux/termux-main stable main
+
++ write : all=207 official=176 unofficial=31 mode=random
+
++ commit
+
+
 ## 2026-06-30 21:00:07 RANDOM
 
 + random-check selected=3 of total=276
