@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-01 20:00:05 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://termux.mentality.rip/termux-main stable main
+		deb https://mirror.vern.cc/termux/termux-main stable main
+		deb https://termux.librehat.com/apt/termux-main stable main
+
++ write : all=207 official=176 unofficial=31 mode=random
+
++ commit
+
+
 ## 2026-07-01 19:30:26 RANDOM
 
 + random-check selected=3 of total=276
