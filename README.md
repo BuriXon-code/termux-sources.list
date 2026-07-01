@@ -72,3 +72,7 @@ apt update
 
 Last updated: 2026-07-01 10:09:22
 <!-- STOP-COUNT-HERE -->
+
+If you run/have your own mirror/repository and would like to be on this list, please make a PR by signing up to unofficial.list or write to me: **support@burixon.dev**  
+
+ If you have installation problems, broken repositories or other issues, please let me know: **support@burixon.dev**  
