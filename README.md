@@ -455,3 +455,27 @@ Last updated: 2026-07-01 02:30:20
 
 Last updated: 2026-07-01 03:00:19
 <!-- STOP-COUNT-HERR -->
+
+<!-- START-COUNT-HERE -->
+## Mirror Count
+
+- All mirrors: 207
+- Official mirrors: 176
+- Unofficial mirrors: 31
+
+> [!WARNING]  
+> I do not include private repositories and some tour repositories.  
+>  
+> Nevertheless, I am looking for such ones and will gradually add them in the future.  
+
+## Files
+
+- [sources.list](./sources.list) - Full apt sources file
+- [OFFICIAL.md](./OFFICIAL.md) - List of official repositories
+- [official.list](./official.list) - Official repository file for apt Termux
+- [UNOFFICIAL.md](./UNOFFICIAL.md) - List of unofficial repositories
+- [unofficial.list](./unofficial.list) - Unofficial repository file for apt Termux
+- [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
+
+Last updated: 2026-07-01 03:30:20
+<!-- STOP-COUNT-HERR -->
