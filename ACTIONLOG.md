@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-01 13:00:05 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://termux.cloudflaremirrors.com/termux-root-24 root stable
+		deb https://mirror.albony.xyz/termux/termux-main stable main
+		deb https://mirrors.rda.run/termux/termux-root root stable
+
++ write : all=207 official=176 unofficial=31 mode=random
+
++ commit
+
+
 ## 2026-07-01 12:30:03 RANDOM
 
 + random-check selected=3 of total=276
