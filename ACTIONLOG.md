@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-01 10:06:06 RANDOM
+
++ random-check selected=3 of total=276
+
++ URLs:
+
+		deb https://mirror.twds.com.tw/termux/termux-root root stable
+		deb https://mirror.aarnet.edu.au/pub/termux-root root stable
+		deb https://packages.nscdn.top/termux-root root stable
+
++ write : all=207 official=176 unofficial=31 mode=random
+
++ commit
+
+
 ## 2026-07-01 10:05:02 RANDOM
 
 + random-check selected=3 of total=276
