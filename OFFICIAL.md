@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 177
+Total: 176
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -133,7 +133,6 @@ Total: 177
 - `deb https://ro.mirror.flokinet.net/termux/termux-main stable main`
 - `deb https://ro.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://ro.mirror.flokinet.net/termux/termux-x11 x11 main`
-- `deb https://termux.3san.dev/termux/termux-main stable main`
 - `deb https://termux.3san.dev/termux/termux-root root stable`
 - `deb https://termux.3san.dev/termux/termux-x11 x11 main`
 - `deb https://termux.cdn.lumito.net/termux-main stable main`
