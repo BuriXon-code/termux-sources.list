@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 176
+Total: 177
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -178,3 +178,4 @@ Total: 176
 - `deb https://repository.su/termux/termux-root root stable`
 - `deb https://repository.su/termux/termux-x11 x11 main`
 - `deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main`
+- `deb https://termux.3san.dev/termux/termux-main stable main`
