@@ -1,7 +1,10 @@
 # Unofficial mirrors
 
-Total: 31
+Total: 34
 
+- `deb https://mirror.sd6server.xyz/termux-main stable main`
+- `deb https://mirror.sd6server.xyz/termux-root root stable`
+- `deb https://mirror.sd6server.xyz/termux-x11 x11 main`
 - `deb https://mirror.ufscar.br/termux/termux-main stable main`
 - `deb https://mirror.ufscar.br/termux/termux-root root stable`
 - `deb https://mirror.ufscar.br/termux/termux-x11 x11 main`
