@@ -13,6 +13,27 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-07 09:16:54 RANDOM
+
++ random-check selected=9 of total=276
+
++ URLs:
+
+		deb https://mirror.textcord.xyz/termux/termux-main stable main
+		deb https://mirrors.cbrx.io/apt/termux/termux-root root stable
+		deb https://mirror.mwt.me/termux/x11 x11 main
+		deb https://termux.3san.dev/termux/termux-main stable main
+		deb https://mirrors.aliyun.com/termux/termux-root root stable
+		deb https://mirror.sunred.org/termux/termux-main stable main
+		deb https://mirrors.zju.edu.cn/termux/apt/termux-x11 x11 main
+		deb https://mirror.bardia.tech/termux/termux-root root stable
+		deb https://mirror.leitecastro.com/termux/termux-main stable main
+
++ write : all=202 official=171 unofficial=31 mode=random
+
++ commit
+
+
 ## 2026-07-07 09:16:37 RANDOM
 
 + random-check selected=9 of total=276
