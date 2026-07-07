@@ -13,6 +13,27 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-07 09:16:37 RANDOM
+
++ random-check selected=9 of total=276
+
++ URLs:
+
+		deb https://mirror.aarnet.edu.au/pub/termux-x11 x11 main
+		deb https://mirrors.medzik.dev/termux/termux-main stable main
+		deb https://termux.samcze.pl/termux/apt/termux-root root stable
+		deb https://md.mirrors.hacktegic.com/termux/termux-main stable main
+		deb https://packages.nscdn.top/termux-main stable main
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://mirror.diyarciftci.xyz/termux/termux-main stable main
+		deb https://linux.domainesia.com/applications/termux/termux-root root stable
+		deb https://mirror.sjtu.edu.cn/termux/termux-main stable main
+
++ write : all=202 official=171 unofficial=31 mode=random
+
++ commit
+
+
 ## 2026-07-06 13:00:03 RANDOM
 
 + random-check selected=3 of total=276
