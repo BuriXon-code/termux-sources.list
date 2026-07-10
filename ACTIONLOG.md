@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-10 04:30:06 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirror.polido.pt/termux/termux-root root stable
+		deb https://mirrors.medzik.dev/termux/termux-root root stable
+		deb https://mirrors.bfsu.edu.cn/termux/apt/termux-root root stable
+
++ write : all=202 official=169 unofficial=33 mode=random
+
++ commit
+
+
 ## 2026-07-10 04:05:01 PUSH
 
 + push
