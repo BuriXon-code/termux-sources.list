@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 33
+Total: 34
 
 - `deb https://mirror.sd6server.xyz/termux-root root stable`
 - `deb https://mirror.sd6server.xyz/termux-x11 x11 main`
@@ -35,3 +35,4 @@ Total: 33
 - `deb https://mirror.init7.net/termux/termux-main stable main`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-x11 x11 main`
+- `deb https://mirror.sd6server.xyz/termux-main stable main`

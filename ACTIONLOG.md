@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-10 08:30:04 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.nevacloud.com/applications/termux/root root stable
+		deb https://mirror.sd6server.xyz/termux-main stable main
+
++ write : all=203 official=169 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-10 08:05:01 PUSH
 
 + push
