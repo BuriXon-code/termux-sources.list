@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-10 10:30:04 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirror.nag.albony.in/termux/termux-root root stable
+		deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
+		deb https://termux.danyael.xyz/termux/termux-main stable main
+
++ write : all=211 official=177 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-10 10:15:58 FULL
 
 + full-check total=279
