@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-11 02:00:04 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirror.sng.sg/termux stable main
+		deb https://termux.cloudflaremirrors.com/termux-root-24 root stable
+		deb https://packages-cf.termux.dev/apt/termux-main stable main
+
++ write : all=208 official=174 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-11 01:30:04 RANDOM
 
 + random-check selected=3 of total=279
