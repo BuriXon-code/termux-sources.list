@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-11 13:30:06 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirror.vern.cc/termux/termux-x11 x11 main
+		deb https://mirror.bardia.tech/termux/termux-x11 x11 main
+		deb https://termux.mentality.rip/termux-main stable main
+
++ write : all=206 official=172 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-11 13:00:05 RANDOM
 
 + random-check selected=3 of total=279
