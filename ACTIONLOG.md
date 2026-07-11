@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-11 10:00:07 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://termux.mentality.rip/termux-root root stable
+		deb https://easycli.sh/termux/termux-main stable main
+		deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+
++ write : all=207 official=173 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-11 09:30:06 RANDOM
 
 + random-check selected=3 of total=279
