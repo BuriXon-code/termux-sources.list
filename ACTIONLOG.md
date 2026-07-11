@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-11 11:30:04 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+		deb https://mirror.twds.com.tw/termux/termux-main stable main
+		deb https://mirror.vern.cc/termux/termux-main stable main
+
++ write : all=207 official=173 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-11 11:00:07 RANDOM
 
 + random-check selected=3 of total=279
