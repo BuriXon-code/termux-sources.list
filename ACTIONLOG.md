@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-12 08:30:07 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirror.leitecastro.com/termux/termux-root root stable
+		deb https://mirrors.cqupt.edu.cn/termux/termux-main stable main
+		deb https://mirrors.ustc.edu.cn/termux/termux-x11 x11 main
+
++ write : all=205 official=173 unofficial=32 mode=random
+
++ commit
+
+
 ## 2026-07-12 08:05:01 PUSH
 
 + push
