@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-12 11:00:07 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://packages-cf.termux.dev/apt/termux-x11 x11 main
+		deb https://ftp.agdsn.de/termux/termux-x11 x11 main
+		deb https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 main
+
++ write : all=205 official=173 unofficial=32 mode=random
+
++ commit
+
+
 ## 2026-07-12 10:30:07 RANDOM
 
 + random-check selected=3 of total=279
