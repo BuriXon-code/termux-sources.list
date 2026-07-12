@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-12 21:35:44 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirror.bardia.tech/termux/termux-root root stable
+		deb https://packages.termux.dev/apt/termux-root root stable
+		deb https://termux.cloudflaremirrors.com/termux-root-24 root stable
+
++ write : all=205 official=173 unofficial=32 mode=random
+
++ commit
+
+
 ## 2026-07-12 12:30:03 RANDOM
 
 + random-check selected=3 of total=279
