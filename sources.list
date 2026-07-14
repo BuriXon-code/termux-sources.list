@@ -204,3 +204,4 @@ deb https://mirror.init7.net/termux/termux-x11 x11 main
 deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
 deb https://mirror.vern.cc/termux/termux-x11 x11 main
 deb https://mirror.sd6server.xyz/termux-root root stable
+deb https://mirror.sjtu.edu.cn/termux/termux-root root stable
