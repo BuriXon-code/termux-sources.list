@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-14 15:00:03 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://tmx.xvx.my.id/apt/termux-root root stable
+		deb https://mirror.accum.se/mirror/termux.dev/termux-main stable main
+		deb https://mirrors.bfsu.edu.cn/termux/apt/termux-main stable main
+
++ write : all=206 official=173 unofficial=33 mode=random
+
++ commit
+
+
 ## 2026-07-14 14:30:02 RANDOM
 
 + random-check selected=3 of total=279
