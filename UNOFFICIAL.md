@@ -1,7 +1,9 @@
 # Unofficial mirrors
 
-Total: 33
+Total: 32
 
+- `deb https://mirror.sd6server.xyz/termux-main stable main`
+- `deb https://mirror.sd6server.xyz/termux-root root stable`
 - `deb https://mirror.sd6server.xyz/termux-x11 x11 main`
 - `deb https://mirror.ufscar.br/termux/termux-main stable main`
 - `deb https://mirror.ufscar.br/termux/termux-root root stable`
@@ -14,9 +16,7 @@ Total: 33
 - `deb https://mirror.ordunet.ge/termux/termux-root root stable`
 - `deb https://mirror.ordunet.ge/termux/termux-x11 x11 main`
 - `deb https://mirror.whiterosetech.org/termux-main stable main`
-- `deb https://easycli.sh/termux/termux-main stable main`
 - `deb https://easycli.sh/termux/termux-root root stable`
-- `deb https://easycli.sh/termux/termux-x11 x11 main`
 - `deb https://termux.samcze.pl/termux/apt/termux-main stable main`
 - `deb https://termux.samcze.pl/termux/apt/termux-root root stable`
 - `deb https://termux.samcze.pl/termux/apt/termux-x11 x11 main`
@@ -34,4 +34,3 @@ Total: 33
 - `deb https://mirror.init7.net/termux/termux-main stable main`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-x11 x11 main`
-- `deb https://mirror.sd6server.xyz/termux-root root stable`
