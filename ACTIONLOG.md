@@ -13,6 +13,11 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-15 10:57:53 PUSH
+
++ push
+
+
 ## 2026-07-15 10:46:04 PUSH
 
 + push
@@ -55,9 +60,9 @@ Detailed information can be found below (newer first):
 
 + newly added mirror:
 
-	+ `https://mirror.ordunet.ge/termux/termux-main`
-	+ `https://mirror.ordunet.ge/termux/termux-root`
-	+ `https://mirror.ordunet.ge/termux/termux-x11`
+		+ `https://mirror.ordunet.ge/termux/termux-main`
+		+ `https://mirror.ordunet.ge/termux/termux-root`
+		+ `https://mirror.ordunet.ge/termux/termux-x11`
 
 
 ## 2026-07-15 09:30:08 RANDOM
