@@ -13,6 +13,11 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-15 10:45:08 PUSH
+
++ push
+
+
 ## 2026-07-15 10:30:12 FULL
 
 + full-check total=279
@@ -39,6 +44,15 @@ Detailed information can be found below (newer first):
 + write : all=207 official=175 unofficial=32 mode=random
 
 + commit
+
+
+## 2026-07-15 09:45:08 ADD MIRROR
+
++ newly added mirror:
+
+	+ `https://mirror.ordunet.ge/termux/termux-main`
+	+ `https://mirror.ordunet.ge/termux/termux-main`
+	+ `https://mirror.ordunet.ge/termux/termux-main`
 
 
 ## 2026-07-15 09:30:08 RANDOM
