@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-15 07:30:08 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://packages.nscdn.top/termux-root root stable
+		deb https://mirror.iscas.ac.cn/termux/apt/termux-main stable main
+		deb https://termux.mentality.rip/termux-main stable main
+
++ write : all=207 official=175 unofficial=32 mode=random
+
++ commit
+
+
 ## 2026-07-15 07:00:07 RANDOM
 
 + random-check selected=3 of total=279
