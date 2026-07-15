@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-15 18:30:07 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+		deb https://mirror.mwt.me/termux/main stable main
+		deb https://mirror.leitecastro.com/termux/termux-root root stable
+
++ write : all=209 official=175 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-15 18:00:03 RANDOM
 
 + random-check selected=3 of total=279
