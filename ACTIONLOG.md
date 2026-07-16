@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-16 12:00:04 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main
+		deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+		deb https://javinator9889.com/termux-root root stable
+
++ write : all=208 official=174 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-16 11:30:04 RANDOM
 
 + random-check selected=3 of total=279
