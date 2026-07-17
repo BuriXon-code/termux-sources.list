@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-17 09:00:03 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://termux.mentality.rip/termux-root root stable
+		deb https://mirror.textcord.xyz/termux/termux-x11 x11 main
+		deb https://mirror.aarnet.edu.au/pub/termux-root root stable
+
++ write : all=209 official=175 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-17 08:30:03 RANDOM
 
 + random-check selected=3 of total=279
