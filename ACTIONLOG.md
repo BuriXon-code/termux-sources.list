@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-07-17 18:30:01 RANDOM
+
++ random-check selected=3 of total=279
+
++ URLs:
+
+		deb https://mirrors.medzik.dev/termux/termux-root root stable
+		deb https://mirrors.sustech.edu.cn/termux/apt/termux-root root stable
+		deb https://mirrors.sdu.edu.cn/termux/termux-root root stable
+
++ write : all=210 official=176 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-07-17 18:00:02 RANDOM
 
 + random-check selected=3 of total=279
