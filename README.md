@@ -50,6 +50,10 @@ apt update
 ```
 
 <!-- START-COUNT-HERE -->  
+
+> [!NOTE]  
+> Due to going on vacation, I have temporarily disabled automatic source checking.  
+
 ## Mirror Count
 
 - All mirrors: 210
