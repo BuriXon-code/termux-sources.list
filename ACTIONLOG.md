@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-04 17:30:11 RANDOM
+
++ random-check selected=3 of total=282
+
++ URLs:
+
+		deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main
+		deb https://mirror.init7.net/termux/termux-main stable main
+		deb https://mirror.nyist.edu.cn/termux/apt/termux-main stable main
+
++ write : all=201 official=169 unofficial=32 mode=random
+
++ commit
+
+
 ## 2026-08-04 14:30:03 RANDOM
 
 + random-check selected=3 of total=282
