@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-09 14:30:02 RANDOM
+
++ random-check selected=3 of total=282
+
++ URLs:
+
+		deb https://mirrors.bfsu.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.bardia.tech/termux/termux-root root stable
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+
++ write : all=202 official=170 unofficial=32 mode=random
+
++ commit
+
+
 ## 2026-08-09 14:00:04 RANDOM
 
 + random-check selected=3 of total=282
