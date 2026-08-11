@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-11 16:30:04 RANDOM
+
++ random-check selected=3 of total=282
+
++ URLs:
+
+		deb https://ftp.fau.de/termux/termux-root root stable
+		deb https://mirrors.pku.edu.cn/termux/termux-root root stable
+		deb https://plug-mirror.rcac.purdue.edu/termux/termux-main stable main
+
++ write : all=201 official=168 unofficial=33 mode=random
+
++ commit
+
+
 ## 2026-08-11 16:05:01 PUSH
 
 + push
