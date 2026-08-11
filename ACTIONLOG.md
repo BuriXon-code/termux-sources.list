@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-11 02:00:06 RANDOM
+
++ random-check selected=3 of total=282
+
++ URLs:
+
+		deb https://mirror.csclub.uwaterloo.ca/termux/termux-main stable main
+		deb http://mirror.yandex.ru/mirrors/termux stable main
+		deb https://mirrors.middlendian.com/termux/termux-x11 x11 main
+
++ write : all=202 official=169 unofficial=33 mode=random
+
++ commit
+
+
 ## 2026-08-11 01:30:07 RANDOM
 
 + random-check selected=3 of total=282
