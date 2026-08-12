@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-12 17:00:03 RANDOM
+
++ random-check selected=3 of total=282
+
++ URLs:
+
+		deb https://mirror.ordunet.ge/termux/termux-main stable main
+		deb https://mirrors.utermux.dev/termux/termux-root root stable
+		deb https://mirror.iscas.ac.cn/termux/apt/termux-main stable main
+
++ write : all=200 official=168 unofficial=32 mode=random
+
++ commit
+
+
 ## 2026-08-12 16:30:12 RANDOM
 
 + random-check selected=3 of total=282
