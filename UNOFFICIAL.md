@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 32
+Total: 31
 
 - `deb https://mirror.ordunet.ge/termux/termux-main stable main`
 - `deb https://mirror.ordunet.ge/termux/termux-root root stable`
@@ -18,7 +18,6 @@ Total: 32
 - `deb https://easycli.sh/termux/termux-root root stable`
 - `deb https://easycli.sh/termux/termux-x11 x11 main`
 - `deb https://termux.samcze.pl/termux/apt/termux-root root stable`
-- `deb https://termux.samcze.pl/termux/apt/termux-x11 x11 main`
 - `deb https://cdn.lumito.net/termux/termux-main stable main`
 - `deb https://cdn.lumito.net/termux/termux-root root stable`
 - `deb https://cdn.lumito.net/termux/termux-x11 x11 main`
