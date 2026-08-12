@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-12 06:00:06 RANDOM
+
++ random-check selected=3 of total=282
+
++ URLs:
+
+		deb https://mirrors.in.sahilister.net/termux/termux-main stable main
+		deb https://mirror.mwt.me/termux/x11 x11 main
+		deb https://mirror.jeonnam.school/termux/termux-root root stable
+
++ write : all=200 official=168 unofficial=32 mode=random
+
++ commit
+
+
 ## 2026-08-12 05:30:06 RANDOM
 
 + random-check selected=3 of total=282
