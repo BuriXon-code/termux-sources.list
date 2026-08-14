@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-14 17:30:02 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
+		deb https://termux.samcze.pl/termux/apt/termux-root root stable
+		deb https://mirror.sd6server.xyz/termux-main stable main
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-14 17:00:03 RANDOM
 
 + random-check selected=3 of total=285
