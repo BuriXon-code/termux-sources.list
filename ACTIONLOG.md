@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-14 20:00:07 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirror.rinarin.dev/termux/termux-root root stable
+		deb https://mirrors.rda.run/termux/termux-x11 x11 main
+		deb https://mirror.ufscar.br/termux/termux-x11 x11 main
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-14 19:30:07 RANDOM
 
 + random-check selected=3 of total=285
