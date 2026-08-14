@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-14 11:00:03 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.wale.id.au/termux/termux-main stable main
+		deb https://termux.cdn.lumito.net/termux-root root stable
+		deb https://mirror.leitecastro.com/termux/termux-main stable main
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-14 10:30:04 RANDOM
 
 + random-check selected=3 of total=285
