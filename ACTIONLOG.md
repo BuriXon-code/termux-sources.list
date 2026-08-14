@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-14 15:00:06 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.krnk.org/apt/termux/termux-root root stable
+		deb https://mirrors.saswata.xyz/termux/termux-main stable main
+		deb https://mirror.init7.net/termux/termux-root root stable
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-14 14:00:02 RANDOM
 
 + random-check selected=3 of total=285
