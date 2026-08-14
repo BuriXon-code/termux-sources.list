@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-14 21:30:06 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable
+		deb https://easycli.sh/termux/termux-x11 x11 main
+		deb https://mirror.textcord.xyz/termux/termux-root root stable
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-14 21:00:07 RANDOM
 
 + random-check selected=3 of total=285
