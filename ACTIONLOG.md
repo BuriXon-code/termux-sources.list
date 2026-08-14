@@ -13,6 +13,36 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-14 09:00:03 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirror.ufscar.br/termux/termux-main stable main
+		deb https://packages.nscdn.top/termux-x11 x11 main
+		deb https://termux.nibbles.dogpoo.club/termux-main stable main
+
++ write : all=202 official=168 unofficial=34 mode=random
+
++ commit
+
+
+## 2026-08-14 00:30:05 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirror.diyarciftci.xyz/termux/termux-main stable main
+		deb https://mirrors.cbrx.io/apt/termux/termux-root root stable
+		deb https://mirrors.ustc.edu.cn/termux/termux-main stable main
+
++ write : all=202 official=168 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-14 00:05:05 FULL
 
 + full-check total=285
