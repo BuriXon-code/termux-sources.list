@@ -30,7 +30,7 @@ mv sources.list /data/data/com.termux/files/usr/etc/apt/sources.list.d/sources.l
 
 We have 3 **.list** files to choose from:
 + **sources.list** -> File containing all working mirrors/repositories;
-+ **official.list** -> File containing only official mirrors/repositories (can be found [here](https://github.com/termux/termux-packages/wiki/Mirrors);
++ **official.list** -> File containing only official mirrors/repositories (you can find them [here](https://github.com/termux/termux-packages/wiki/Mirrors))
 + **unofficial.list** -> File containing unofficial repositories, private mirrors, TUR, etc.
 
 Installation of the remaining files is analogous to **sources.list**.
