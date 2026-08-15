@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-15 19:56:24 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.in.sahilister.net/termux/termux-x11 x11 main
+		deb https://linux.domainesia.com/applications/termux/termux-root root stable
+		deb https://nl.mirror.flokinet.net/termux/termux-root root stable
+
++ write : all=199 official=165 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-15 19:35:23 FULL
 
 + full-check total=285
