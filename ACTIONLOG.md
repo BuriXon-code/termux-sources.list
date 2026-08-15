@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-15 03:00:06 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.cqupt.edu.cn/termux/termux-x11 x11 main
+		deb https://packages-cf.termux.dev/apt/termux-root root stable
+		deb https://mirror.twds.com.tw/termux/termux-root root stable
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-15 02:30:06 RANDOM
 
 + random-check selected=3 of total=285
