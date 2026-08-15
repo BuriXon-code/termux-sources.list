@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-15 05:30:07 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirror.fcix.net/termux/termux-root root stable
+		deb https://termux.sourceforge.io/termux-root-24 root stable
+		deb https://cdn.lumito.net/termux/termux-root root stable
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-15 05:00:07 RANDOM
 
 + random-check selected=3 of total=285
