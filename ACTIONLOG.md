@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-15 10:00:04 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://ftp.agdsn.de/termux/termux-root root stable
+		deb https://mirrors.de.sahilister.net/termux/termux-main stable main
+		deb https://packages.nscdn.top/termux-root root stable
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-15 09:30:03 RANDOM
 
 + random-check selected=3 of total=285
