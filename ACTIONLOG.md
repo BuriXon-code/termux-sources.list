@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-15 07:30:06 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://easycli.sh/termux/termux-root root stable
+		deb https://cdn.lumito.net/termux/termux-root root stable
+		deb http://mirror.yandex.ru/mirrors/termux stable main
+
++ write : all=201 official=167 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-15 07:00:05 RANDOM
 
 + random-check selected=3 of total=285
