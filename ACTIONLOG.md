@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-16 17:30:04 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.csclub.uwaterloo.ca/termux/termux-root root stable
+		deb https://termux.cdn.lumito.net/termux-root root stable
+
++ write : all=198 official=164 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-16 17:00:04 RANDOM
 
 + random-check selected=3 of total=285
