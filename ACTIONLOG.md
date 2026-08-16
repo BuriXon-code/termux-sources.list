@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-16 22:00:04 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirror.polido.pt/termux/termux-root root stable
+		deb https://mirrors.utermux.dev/termux/termux-x11 x11 main
+		deb https://repository.su/termux/termux-main stable main
+
++ write : all=198 official=164 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-16 21:30:03 RANDOM
 
 + random-check selected=3 of total=285
