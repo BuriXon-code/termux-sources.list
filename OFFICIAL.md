@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 164
+Total: 162
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -17,6 +17,9 @@ Total: 164
 - `deb https://mirror.jeonnam.school/termux/termux-main stable main`
 - `deb https://mirror.jeonnam.school/termux/termux-root root stable`
 - `deb https://mirror.jeonnam.school/termux/termux-x11 x11 main`
+- `deb https://mirror.nag.albony.in/termux/termux-main stable main`
+- `deb https://mirror.nag.albony.in/termux/termux-root root stable`
+- `deb https://mirror.nag.albony.in/termux/termux-x11 x11 main`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-main stable main`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-root root stable`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main`
@@ -56,9 +59,7 @@ Total: 164
 - `deb https://mirror.sjtu.edu.cn/termux/termux-main stable main`
 - `deb https://mirror.sjtu.edu.cn/termux/termux-root root stable`
 - `deb https://mirror.sjtu.edu.cn/termux/termux-x11 x11 main`
-- `deb https://mirrors.aliyun.com/termux/termux-main stable main`
 - `deb https://mirrors.aliyun.com/termux/termux-root root stable`
-- `deb https://mirrors.aliyun.com/termux/termux-x11 x11 main`
 - `deb https://mirrors.bfsu.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirrors.bfsu.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirrors.bfsu.edu.cn/termux/apt/termux-x11 x11 main`
@@ -101,9 +102,6 @@ Total: 164
 - `deb https://ftp.fau.de/termux/termux-main stable main`
 - `deb https://ftp.fau.de/termux/termux-root root stable`
 - `deb https://ftp.fau.de/termux/termux-x11 x11 main`
-- `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main`
-- `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable`
-- `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main`
 - `deb https://grimler.se/termux/termux-main stable main`
 - `deb https://grimler.se/termux/termux-root root stable`
 - `deb https://grimler.se/termux/termux-x11 x11 main`
@@ -149,7 +147,6 @@ Total: 164
 - `deb https://mirror.fcix.net/termux/termux-main stable main`
 - `deb https://mirror.fcix.net/termux/termux-root root stable`
 - `deb https://mirror.fcix.net/termux/termux-x11 x11 main`
-- `deb https://mirror.mwt.me/termux/main stable main`
 - `deb https://mirror.mwt.me/termux/root root stable`
 - `deb https://mirror.mwt.me/termux/x11 x11 main`
 - `deb https://mirror.quantum5.ca/termux/termux-main stable main`
@@ -160,6 +157,7 @@ Total: 164
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main`
 - `deb https://termux.danyael.xyz/termux/termux-main stable main`
 - `deb https://termux.danyael.xyz/termux/termux-root root stable`
+- `deb https://termux.danyael.xyz/termux/termux-x11 x11 main`
 - `deb https://mirrors.middlendian.com/termux/termux-main stable main`
 - `deb https://mirrors.middlendian.com/termux/termux-root root stable`
 - `deb https://mirrors.middlendian.com/termux/termux-x11 x11 main`
