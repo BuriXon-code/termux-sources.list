@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-17 12:30:11 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.ravidwivedi.in/termux/termux-root root stable
+		deb https://mirror.sng.sg/termux-root root stable
+		deb https://mirror.csclub.uwaterloo.ca/termux/termux-main stable main
+
++ write : all=198 official=164 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-17 12:05:00 PUSH
 
 + push
