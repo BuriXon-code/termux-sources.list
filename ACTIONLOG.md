@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-17 13:00:04 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://termux.cdn.lumito.net/termux-root root stable
+		deb https://termux.mentality.rip/termux-main stable main
+		deb https://mirror.freedif.org/termux/termux-x11 x11 main
+
++ write : all=198 official=164 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-17 12:30:11 RANDOM
 
 + random-check selected=3 of total=285
