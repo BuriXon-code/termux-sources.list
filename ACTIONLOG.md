@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-17 05:00:06 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.ravidwivedi.in/termux/termux-root root stable
+		deb https://mirror.ordunet.ge/termux/termux-x11 x11 main
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+
++ write : all=198 official=164 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-17 04:30:06 RANDOM
 
 + random-check selected=3 of total=285
