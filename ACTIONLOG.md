@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-18 08:00:03 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main
+		deb https://mirrors.saswata.xyz/termux/termux-main stable main
+		deb https://mirrors.ocf.berkeley.edu/termux/termux-x11 x11 stable
+
++ write : all=199 official=165 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-18 07:30:03 RANDOM
 
 + random-check selected=3 of total=285
