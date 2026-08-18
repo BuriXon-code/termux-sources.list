@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-18 08:30:04 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirror.ufscar.br/termux/termux-root root stable
+		deb https://mirror.nevacloud.com/applications/termux/x11 x11 main
+		deb https://mirrors.in.sahilister.net/termux/termux-root root stable
+
++ write : all=199 official=165 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-18 08:05:00 PUSH
 
 + push
