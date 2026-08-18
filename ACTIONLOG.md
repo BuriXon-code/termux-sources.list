@@ -13,6 +13,21 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-18 16:00:03 RANDOM
+
++ random-check selected=3 of total=285
+
++ URLs:
+
+		deb https://mirrors.sau.edu.cn/termux/apt/termux-root root stable
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main
+		deb https://mirrors.wale.id.au/termux/termux-root root stable
+
++ write : all=199 official=165 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-18 15:30:02 RANDOM
 
 + random-check selected=3 of total=285
