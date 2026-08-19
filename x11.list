@@ -17,6 +17,7 @@ deb https://tmx.xvx.my.id/apt/termux-x11 x11 main
 deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main
 deb https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 main
 deb https://mirror.sjtu.edu.cn/termux/termux-x11 x11 main
+deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
 deb https://mirrors.bfsu.edu.cn/termux/apt/termux-x11 x11 main
 deb https://mirrors.cernet.edu.cn/termux/apt/termux-x11 x11 main
 deb https://mirrors.cqupt.edu.cn/termux/termux-x11 x11 main
@@ -31,6 +32,7 @@ deb https://mirrors.ustc.edu.cn/termux/termux-x11 x11 main
 deb https://mirrors.zju.edu.cn/termux/apt/termux-x11 x11 main
 deb https://ftp.agdsn.de/termux/termux-x11 x11 main
 deb https://ftp.fau.de/termux/termux-x11 x11 main
+deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main
 deb https://grimler.se/termux/termux-x11 x11 main
 deb https://is.mirror.flokinet.net/termux/termux-x11 x11 main
 deb https://mirror.accum.se/mirror/termux.dev/termux-x11 x11 main
@@ -52,6 +54,7 @@ deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main
 deb https://termux.danyael.xyz/termux/termux-x11 x11 main
 deb https://mirrors.middlendian.com/termux/termux-x11 x11 main
 deb https://repository.su/termux/termux-x11 x11 main
+deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-x11 x11 main
 deb https://termux.nibbles.dogpoo.club/termux-x11 x11 main
 deb https://mirror.ordunet.ge/termux/termux-x11 x11 main
 deb https://mirror.sd6server.xyz/termux-x11 x11 main
@@ -60,7 +63,6 @@ deb https://mirror.diyarciftci.xyz/termux/termux-x11 x11 main
 deb https://easycli.sh/termux/termux-x11 x11 main
 deb https://cdn.lumito.net/termux/termux-x11 x11 main
 deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main
+deb https://mirrors.sustech.edu.cn/termux/x11-packages x11 main
 deb https://mirrors.ocf.berkeley.edu/termux/termux-x11 x11 stable
 deb https://mirror.init7.net/termux/termux-x11 x11 main
-deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
-deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main

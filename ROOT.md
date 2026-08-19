@@ -1,6 +1,6 @@
 # Termux:Root mirrors
 
-Total: 64
+Total: 68
 
 - `deb https://packages.termux.dev/apt/termux-root root stable`
 - `deb https://packages-cf.termux.dev/apt/termux-root root stable`
@@ -14,6 +14,7 @@ Total: 64
 - `deb https://mirrors.cbrx.io/apt/termux/termux-root root stable`
 - `deb https://mirrors.in.sahilister.net/termux/termux-root root stable`
 - `deb https://mirrors.krnk.org/apt/termux/termux-root root stable`
+- `deb https://mirrors.nguyenhoang.cloud/termux/termux-root root stable`
 - `deb https://mirrors.ravidwivedi.in/termux/termux-root root stable`
 - `deb https://termux.niranjan.co/termux-root root stable`
 - `deb https://tmx.xvx.my.id/apt/termux-root root stable`
@@ -35,6 +36,7 @@ Total: 64
 - `deb https://mirrors.zju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://ftp.agdsn.de/termux/termux-root root stable`
 - `deb https://ftp.fau.de/termux/termux-root root stable`
+- `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable`
 - `deb https://grimler.se/termux/termux-root root stable`
 - `deb https://is.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://mirror.accum.se/mirror/termux.dev/termux-root root stable`
@@ -56,6 +58,7 @@ Total: 64
 - `deb https://termux.danyael.xyz/termux/termux-root root stable`
 - `deb https://mirrors.middlendian.com/termux/termux-root root stable`
 - `deb https://repository.su/termux/termux-root root stable`
+- `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable`
 - `deb https://termux.nibbles.dogpoo.club/termux-root root stable`
 - `deb https://mirror.ordunet.ge/termux/termux-root root stable`
 - `deb https://mirror.sd6server.xyz/termux-root root stable`
@@ -64,5 +67,6 @@ Total: 64
 - `deb https://easycli.sh/termux/termux-root root stable`
 - `deb https://cdn.lumito.net/termux/termux-root root stable`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable`
+- `deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
