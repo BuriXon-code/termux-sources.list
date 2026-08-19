@@ -52,15 +52,15 @@ apt update
 <!-- START-COUNT-HERE -->  
 ## Mirror Count
 
-- All mirrors: 218
-- Official mirrors: 167
-- Unofficial mirrors: 51
-- Science mirrors: 3
-- Games mirrors: 3
-- Unstable mirrors: 3
-- Glibc mirrors: 1
-- X11 mirrors: 68
-- Root mirrors: 68
+- All mirrors: 3
+- Official mirrors: 1
+- Unofficial mirrors: 2
+- Science mirrors: 1
+- Games mirrors: 0
+- Unstable mirrors: 0
+- Glibc mirrors: 0
+- X11 mirrors: 2
+- Root mirrors: 0
 
 > [!WARNING]  
 > I do not include private repositories and some tour repositories.  
@@ -69,33 +69,41 @@ apt update
 
 ## Files
 
-- [sources.list](./sources.list) - Full apt sources file with all working repositories
-- [official.list](./official.list) - All working official repositories
-- [unofficial.list](./unofficial.list) - All working unofficial repositories
-- [science.list](./science.list) - All working Termux:Science repositories
-- [games.list](./games.list) - All working Termux:Games repositories
-- [unstable.list](./unstable.list) - All working Termux:Unstable repositories
-- [glibc.list](./glibc.list) - All working Termux:Glibc repositories
-- [x11.list](./x11.list) - All working Termux:X11 repositories
-- [root.list](./root.list) - All working Termux:Root repositories
+### Lists
 
-## Markdown Lists
+- [sources.list](./lists/sources.list) - Full apt sources file with all working repositories
+- [official.list](./lists/official.list) - All working official repositories
+- [unofficial.list](./lists/unofficial.list) - All working unofficial repositories
+- [science.list](./lists/science.list) - All working Termux:Science repositories
+- [games.list](./lists/games.list) - All working Termux:Games repositories
+- [unstable.list](./lists/unstable.list) - All working Termux:Unstable repositories
+- [glibc.list](./lists/glibc.list) - All working Termux:Glibc repositories
+- [x11.list](./lists/x11.list) - All working Termux:X11 repositories
+- [root.list](./lists/root.list) - All working Termux:Root repositories
 
-- [OFFICIAL.md](./OFFICIAL.md) - List of official repositories
-- [UNOFFICIAL.md](./UNOFFICIAL.md) - List of unofficial repositories
-- [SCIENCE.md](./SCIENCE.md) - List of Termux:Science repositories
-- [GAMES.md](./GAMES.md) - List of Termux:Games repositories
-- [UNSTABLE.md](./UNSTABLE.md) - List of Termux:Unstable repositories
-- [GLIBC.md](./GLIBC.md) - List of Termux:Glibc repositories
-- [X11.md](./X11.md) - List of Termux:X11 repositories
-- [ROOT.md](./ROOT.md) - List of Termux:Root repositories
+### Markdown
+
+- [OFFICIAL.md](./mds/OFFICIAL.md) - List of official repositories
+- [UNOFFICIAL.md](./mds/UNOFFICIAL.md) - List of unofficial repositories
+- [SCIENCE.md](./mds/SCIENCE.md) - List of Termux:Science repositories
+- [GAMES.md](./mds/GAMES.md) - List of Termux:Games repositories
+- [UNSTABLE.md](./mds/UNSTABLE.md) - List of Termux:Unstable repositories
+- [GLIBC.md](./mds/GLIBC.md) - List of Termux:Glibc repositories
+- [X11.md](./mds/X11.md) - List of Termux:X11 repositories
+- [ROOT.md](./mds/ROOT.md) - List of Termux:Root repositories
+
+## Root compatibility copies
+
+- [sources.list](./sources.list) - Compatibility copy of lists/sources.list
+- [official.list](./official.list) - Compatibility copy of lists/official.list
+- [unofficial.list](./unofficial.list) - Compatibility copy of lists/unofficial.list
 
 ## History
 
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
 - [CHECKLOG.md](./CHECKLOG.md) - Check log
 
-Last updated: 2026-08-19 14:52:11
+Last updated: 2026-08-19 14:53:00
 <!-- STOP-COUNT-HERE -->
 
 If you run/have your own mirror/repository and would like to be on this list, please make a PR by signing up to unofficial.list or write to me: **support@burixon.dev**  
