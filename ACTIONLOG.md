@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-19 19:30:04 RANDOM
+
++ random-check selected=5 of total=329
+
++ URLs:
+
+		deb https://grimler.se/termux/termux-main stable main
+		deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.mwt.me/termux/main stable main
+		deb https://mirror.bardia.tech/termux/termux-root root stable
+
++ write : all=243 official=168 unofficial=75 science=5 games=5 unstable=5 glibc=1 x11=71 root=71 mode=random
+
++ commit
+
+
 ## 2026-08-19 19:00:03 RANDOM
 
 + random-check selected=5 of total=329
