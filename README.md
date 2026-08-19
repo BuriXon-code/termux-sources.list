@@ -55,6 +55,12 @@ apt update
 - All mirrors: 198
 - Official mirrors: 164
 - Unofficial mirrors: 34
+- Science mirrors: 0
+- Games mirrors: 0
+- Unstable mirrors: 0
+- Glibc mirrors: 1
+- X11 mirrors: 66
+- Root mirrors: 64
 
 > [!WARNING]  
 > I do not include private repositories and some tour repositories.  
@@ -63,14 +69,33 @@ apt update
 
 ## Files
 
-- [sources.list](./sources.list) - Full apt sources file
-- [OFFICIAL.md](./OFFICIAL.md) - List of official repositories
-- [official.list](./official.list) - Official repository file for apt Termux
-- [UNOFFICIAL.md](./UNOFFICIAL.md) - List of unofficial repositories
-- [unofficial.list](./unofficial.list) - Unofficial repository file for apt Termux
-- [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
+- [sources.list](./sources.list) - Full apt sources file with all working repositories
+- [official.list](./official.list) - All working official repositories
+- [unofficial.list](./unofficial.list) - All working unofficial repositories
+- [science.list](./science.list) - All working Termux:Science repositories
+- [games.list](./games.list) - All working Termux:Games repositories
+- [unstable.list](./unstable.list) - All working Termux:Unstable repositories
+- [glibc.list](./glibc.list) - All working Termux:Glibc repositories
+- [x11.list](./x11.list) - All working Termux:X11 repositories
+- [root.list](./root.list) - All working Termux:Root repositories
 
-Last updated: 2026-08-19 14:18:23
+## Markdown Lists
+
+- [OFFICIAL.md](./OFFICIAL.md) - List of official repositories
+- [UNOFFICIAL.md](./UNOFFICIAL.md) - List of unofficial repositories
+- [SCIENCE.md](./SCIENCE.md) - List of Termux:Science repositories
+- [GAMES.md](./GAMES.md) - List of Termux:Games repositories
+- [UNSTABLE.md](./UNSTABLE.md) - List of Termux:Unstable repositories
+- [GLIBC.md](./GLIBC.md) - List of Termux:Glibc repositories
+- [X11.md](./X11.md) - List of Termux:X11 repositories
+- [ROOT.md](./ROOT.md) - List of Termux:Root repositories
+
+## History
+
+- [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
+- [CHECKLOG.md](./CHECKLOG.md) - Check log
+
+Last updated: 2026-08-19 14:19:36
 <!-- STOP-COUNT-HERE -->
 
 If you run/have your own mirror/repository and would like to be on this list, please make a PR by signing up to unofficial.list or write to me: **support@burixon.dev**  
