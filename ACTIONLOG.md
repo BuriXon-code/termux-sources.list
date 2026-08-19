@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-19 12:54:59 RANDOM
+
++ random-check selected=5 of total=285
+
++ URLs:
+
+		deb https://javinator9889.com/termux-main stable main
+		deb https://mirror.freedif.org/termux/termux-main stable main
+		deb https://packages.nscdn.top/termux-main stable main
+		deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable
+		deb https://mirrors.in.sahilister.net/termux/termux-x11 x11 main
+
++ write : all=197 official=163 unofficial=34 mode=random
+
++ commit
+
+
 ## 2026-08-19 09:30:04 RANDOM
 
 + random-check selected=3 of total=285
