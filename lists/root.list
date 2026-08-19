@@ -52,3 +52,4 @@ deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable
 deb https://mirrors.middlendian.com/termux/termux-root root stable
 deb https://repository.su/termux/termux-root root stable
 deb https://mirror.init7.net/termux/termux-root root stable
+deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable
