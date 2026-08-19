@@ -1,5 +1,5 @@
 # Termux:Science mirrors
 
-Total: 1
+Total: 0
 
-- `deb https://termux.librehat.com/apt/termux-science science stable`
+_Empty_

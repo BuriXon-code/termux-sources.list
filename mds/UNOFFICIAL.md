@@ -1,6 +1,7 @@
 # Unofficial mirrors
 
-Total: 2
+Total: 3
 
-- `deb https://termux.librehat.com/apt/termux-science science stable`
-- `deb https://mirror.diyarciftci.xyz/termux/termux-x11 x11 main`
+- `deb https://mirror.init7.net/termux/termux-main stable main`
+- `deb https://mirror.init7.net/termux/termux-root root stable`
+- `deb https://mirror.init7.net/termux/termux-x11 x11 main`
