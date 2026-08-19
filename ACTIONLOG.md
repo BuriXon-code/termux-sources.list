@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-19 22:30:02 RANDOM
+
++ random-check selected=5 of total=329
+
++ URLs:
+
+		deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main
+		deb https://ftp.fau.de/termux/termux-main-21 stable main
+		deb https://repository.su/termux/termux-root root stable
+		deb https://is.mirror.flokinet.net/termux/termux-main stable main
+		deb https://termux.danyael.xyz/termux/termux-x11 x11 main
+
++ write : all=243 official=168 unofficial=75 science=5 games=5 unstable=5 glibc=1 x11=71 root=71 mode=random
+
++ commit
+
+
 ## 2026-08-19 22:00:04 RANDOM
 
 + random-check selected=5 of total=329
