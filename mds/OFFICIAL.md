@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 162
+Total: 168
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -107,6 +107,8 @@ Total: 162
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main`
+- `deb https://grimler.se/termux/termux-main stable main`
+- `deb https://grimler.se/termux/termux-root root stable`
 - `deb https://grimler.se/termux/termux-x11 x11 main`
 - `deb https://is.mirror.flokinet.net/termux/termux-main stable main`
 - `deb https://is.mirror.flokinet.net/termux/termux-root root stable`
@@ -135,6 +137,8 @@ Total: 162
 - `deb https://termux.3san.dev/termux/termux-main stable main`
 - `deb https://termux.3san.dev/termux/termux-root root stable`
 - `deb https://termux.3san.dev/termux/termux-x11 x11 main`
+- `deb https://termux.cdn.lumito.net/termux-main stable main`
+- `deb https://termux.cdn.lumito.net/termux-root root stable`
 - `deb https://termux.cdn.lumito.net/termux-x11 x11 main`
 - `deb https://termux.librehat.com/apt/termux-main stable main`
 - `deb https://termux.librehat.com/apt/termux-root root stable`
@@ -157,6 +161,8 @@ Total: 162
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-main stable main`
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable`
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main`
+- `deb https://termux.danyael.xyz/termux/termux-main stable main`
+- `deb https://termux.danyael.xyz/termux/termux-root root stable`
 - `deb https://termux.danyael.xyz/termux/termux-x11 x11 main`
 - `deb https://mirrors.middlendian.com/termux/termux-main stable main`
 - `deb https://mirrors.middlendian.com/termux/termux-root root stable`

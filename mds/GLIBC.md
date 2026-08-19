@@ -1,5 +1,5 @@
 # Termux:Glibc mirrors
 
-Total: 0
+Total: 1
 
-_Empty_
+- `deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable`

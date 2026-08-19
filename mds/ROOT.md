@@ -1,6 +1,6 @@
 # Termux:Root mirrors
 
-Total: 55
+Total: 68
 
 - `deb https://packages.termux.dev/apt/termux-root root stable`
 - `deb https://packages-cf.termux.dev/apt/termux-root root stable`
@@ -37,6 +37,7 @@ Total: 55
 - `deb https://ftp.agdsn.de/termux/termux-root root stable`
 - `deb https://ftp.fau.de/termux/termux-root root stable`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable`
+- `deb https://grimler.se/termux/termux-root root stable`
 - `deb https://is.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://mirror.accum.se/mirror/termux.dev/termux-root root stable`
 - `deb https://mirror.autkin.net/termux/termux-root root stable`
@@ -46,6 +47,7 @@ Total: 55
 - `deb https://nl.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://ro.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://termux.3san.dev/termux/termux-root root stable`
+- `deb https://termux.cdn.lumito.net/termux-root root stable`
 - `deb https://termux.librehat.com/apt/termux-root root stable`
 - `deb https://gnlug.org/pub/termux/termux-root root stable`
 - `deb https://mirror.csclub.uwaterloo.ca/termux/termux-root root stable`
@@ -53,7 +55,18 @@ Total: 55
 - `deb https://mirror.mwt.me/termux/root root stable`
 - `deb https://mirror.quantum5.ca/termux/termux-root root stable`
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable`
+- `deb https://termux.danyael.xyz/termux/termux-root root stable`
 - `deb https://mirrors.middlendian.com/termux/termux-root root stable`
 - `deb https://repository.su/termux/termux-root root stable`
-- `deb https://mirror.init7.net/termux/termux-root root stable`
+- `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable`
+- `deb https://termux.nibbles.dogpoo.club/termux-root root stable`
+- `deb https://mirror.ordunet.ge/termux/termux-root root stable`
+- `deb https://mirror.sd6server.xyz/termux-root root stable`
+- `deb https://mirror.ufscar.br/termux/termux-root root stable`
+- `deb https://mirror.diyarciftci.xyz/termux/termux-root root stable`
+- `deb https://easycli.sh/termux/termux-root root stable`
+- `deb https://cdn.lumito.net/termux/termux-root root stable`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable`
+- `deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable`
+- `deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable`
+- `deb https://mirror.init7.net/termux/termux-root root stable`
