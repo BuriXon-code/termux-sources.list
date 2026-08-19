@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 168
+Total: 167
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -107,7 +107,6 @@ Total: 168
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main`
-- `deb https://grimler.se/termux/termux-main stable main`
 - `deb https://grimler.se/termux/termux-root root stable`
 - `deb https://grimler.se/termux/termux-x11 x11 main`
 - `deb https://is.mirror.flokinet.net/termux/termux-main stable main`
