@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-20 07:30:06 RANDOM
+
++ random-check selected=5 of total=329
+
++ URLs:
+
+		deb https://mirror.leitecastro.com/termux/termux-x11 x11 main
+		deb https://mirrors.ustc.edu.cn/termux/termux-main-21 stable main
+		deb https://mirrors.sau.edu.cn/termux/apt/termux-root root stable
+		deb https://termux.cloudflaremirrors.com/termux-x11-24 x11 main
+		deb https://mirror.mwt.me/termux/main stable main
+
++ write : all=242 official=167 unofficial=75 science=5 games=5 unstable=5 glibc=1 x11=71 root=71 mode=random
+
++ commit
+
+
 ## 2026-08-20 07:00:07 RANDOM
 
 + random-check selected=5 of total=329
