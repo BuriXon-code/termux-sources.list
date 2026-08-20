@@ -244,3 +244,4 @@ deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main
 deb https://mirror.bgp.rodeo/termux/termux-x11 x11 main
 deb https://easycli.sh/termux/termux-main-21 stable main
 deb https://mirror.jeonnam.school/termux/termux-main-21 stable main
+deb https://mirror.bgp.rodeo/termux/termux-main stable main
