@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-20 18:30:03 RANDOM
+
++ random-check selected=5 of total=338
+
++ URLs:
+
+		deb https://mirror.nag.albony.in/termux/termux-x11 x11 main
+		deb http://mirror.mephi.ru/termux/termux-x11 x11 main
+		deb https://mirror.albony.xyz/termux/termux-main-21 stable main
+		deb https://mirror.bgp.rodeo/termux/termux-x11 x11 main
+		deb https://easycli.sh/termux/termux-main-21 stable main
+
++ write : all=245 official=167 unofficial=78 science=5 games=5 unstable=5 glibc=1 x11=72 root=71 mode=random
+
++ commit
+
+
 ## 2026-08-20 18:00:04 RANDOM
 
 + random-check selected=5 of total=338
