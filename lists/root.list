@@ -3,7 +3,6 @@ deb https://packages-cf.termux.dev/apt/termux-root root stable
 deb https://linux.domainesia.com/applications/termux/termux-root root stable
 deb https://mirror.freedif.org/termux/termux-root root stable
 deb https://mirror.jeonnam.school/termux/termux-root root stable
-deb https://mirror.nag.albony.in/termux/termux-root root stable
 deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
 deb https://mirror.rinarin.dev/termux/termux-root root stable
 deb https://mirror.twds.com.tw/termux/termux-root root stable

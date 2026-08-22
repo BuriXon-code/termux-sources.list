@@ -52,15 +52,15 @@ apt update
 <!-- START-COUNT-HERE -->  
 ## Mirror Count
 
-- All mirrors: 248
-- Official mirrors: 168
+- All mirrors: 247
+- Official mirrors: 167
 - Unofficial mirrors: 80
 - Science mirrors: 5
 - Games mirrors: 5
 - Unstable mirrors: 5
 - Glibc mirrors: 1
 - X11 mirrors: 72
-- Root mirrors: 71
+- Root mirrors: 70
 
 > [!WARNING]  
 > I do not include private repositories and some tour repositories.  
@@ -103,7 +103,7 @@ apt update
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
 - [CHECKLOG.md](./CHECKLOG.md) - Check log
 
-Last updated: 2026-08-21 13:30:11
+Last updated: 2026-08-23 00:30:13
 <!-- STOP-COUNT-HERE -->
 
 If you run/have your own mirror/repository and would like to be on this list, please make a PR by signing up to unofficial.list or write to me: **support@burixon.dev**  
