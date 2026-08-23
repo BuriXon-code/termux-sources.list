@@ -244,3 +244,4 @@ deb https://easycli.sh/termux/termux-main-21 stable main
 deb https://mirror.jeonnam.school/termux/termux-main-21 stable main
 deb https://mirror.bgp.rodeo/termux/termux-main stable main
 deb https://termux.cdn.lumito.net/termux-main stable main
+deb https://mirror.bgp.rodeo/termux/termux-root root stable
