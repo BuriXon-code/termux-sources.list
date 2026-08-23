@@ -212,7 +212,6 @@ deb https://ftp.fau.de/termux/termux-main-21 stable main
 deb https://is.mirror.flokinet.net/termux/termux-main-21 stable main
 deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
 deb https://mirror.accum.se/mirror/termux.dev/termux-main-21 stable main
-deb https://mirror.nag.albony.in/termux/termux-main-21 stable main
 deb https://mirror.autkin.net/termux/termux-main-21 stable main
 deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main
 deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable
