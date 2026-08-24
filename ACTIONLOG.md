@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-24 09:30:04 RANDOM
+
++ random-check selected=5 of total=338
+
++ URLs:
+
+		deb https://easycli.sh/termux/termux-root root stable
+		deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
+		deb https://mirrors.sau.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.vern.cc/termux/termux-root root stable
+		deb https://mirrors.sdu.edu.cn/termux/termux-root root stable
+
++ write : all=247 official=166 unofficial=81 science=5 games=5 unstable=5 glibc=1 x11=71 root=70 mode=random
+
++ commit
+
+
 ## 2026-08-24 09:00:07 RANDOM
 
 + random-check selected=5 of total=338
