@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-24 07:00:06 RANDOM
+
++ random-check selected=5 of total=338
+
++ URLs:
+
+		deb https://mirror.bardia.tech/termux/termux-main stable main
+		deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable
+		deb https://mirror.meowsmp.net/termux/termux-root root stable
+		deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main
+		deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main
+
++ write : all=247 official=166 unofficial=81 science=5 games=5 unstable=5 glibc=1 x11=71 root=70 mode=random
+
++ commit
+
+
 ## 2026-08-24 06:30:07 RANDOM
 
 + random-check selected=5 of total=338
