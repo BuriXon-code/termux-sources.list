@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-24 10:00:04 RANDOM
+
++ random-check selected=5 of total=338
+
++ URLs:
+
+		deb https://termux.cdn.lumito.net/termux-x11 x11 main
+		deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main
+		deb https://termux.nibbles.dogpoo.club/termux-x11 x11 main
+		deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main
+		deb https://repository.su/termux/termux-x11 x11 main
+
++ write : all=246 official=166 unofficial=80 science=5 games=5 unstable=5 glibc=1 x11=70 root=70 mode=random
+
++ commit
+
+
 ## 2026-08-24 09:30:04 RANDOM
 
 + random-check selected=5 of total=338
