@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 82
+Total: 81
 
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-main stable main`
 - `deb https://cdimage.debian.org/mirror/termux.dev/termux-main-21 stable main`
@@ -8,7 +8,6 @@ Total: 82
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-x11 x11 main`
 - `deb https://termux.danyael.xyz/termux/termux-main-21 stable main`
 - `deb https://termux.nibbles.dogpoo.club/termux-main stable main`
-- `deb https://termux.nibbles.dogpoo.club/termux-root root stable`
 - `deb https://termux.nibbles.dogpoo.club/termux-x11 x11 main`
 - `deb https://mirror.ordunet.ge/termux/termux-main-21 stable main`
 - `deb https://mirror.ordunet.ge/termux/termux-main stable main`
