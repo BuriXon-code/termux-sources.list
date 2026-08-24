@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 166
+Total: 159
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -17,11 +17,9 @@ Total: 166
 - `deb https://mirror.jeonnam.school/termux/termux-main stable main`
 - `deb https://mirror.jeonnam.school/termux/termux-root root stable`
 - `deb https://mirror.jeonnam.school/termux/termux-x11 x11 main`
-- `deb https://mirror.nag.albony.in/termux/termux-main stable main`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-main stable main`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-root root stable`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main`
-- `deb https://mirror.rinarin.dev/termux/termux-main stable main`
 - `deb https://mirror.rinarin.dev/termux/termux-root root stable`
 - `deb https://mirror.rinarin.dev/termux/termux-x11 x11 main`
 - `deb https://mirror.twds.com.tw/termux/termux-main stable main`
@@ -44,7 +42,6 @@ Total: 166
 - `deb https://mirrors.ravidwivedi.in/termux/termux-x11 x11 main`
 - `deb https://termux.niranjan.co/termux-main stable main`
 - `deb https://termux.niranjan.co/termux-root root stable`
-- `deb https://termux.niranjan.co/termux-x11 x11 main`
 - `deb https://tmx.xvx.my.id/apt/termux-main stable main`
 - `deb https://tmx.xvx.my.id/apt/termux-root root stable`
 - `deb https://tmx.xvx.my.id/apt/termux-x11 x11 main`
@@ -131,9 +128,7 @@ Total: 166
 - `deb https://ro.mirror.flokinet.net/termux/termux-main stable main`
 - `deb https://ro.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://ro.mirror.flokinet.net/termux/termux-x11 x11 main`
-- `deb https://termux.3san.dev/termux/termux-main stable main`
-- `deb https://termux.3san.dev/termux/termux-root root stable`
-- `deb https://termux.3san.dev/termux/termux-x11 x11 main`
+- `deb https://termux.cdn.lumito.net/termux-main stable main`
 - `deb https://termux.cdn.lumito.net/termux-root root stable`
 - `deb https://termux.cdn.lumito.net/termux-x11 x11 main`
 - `deb https://termux.librehat.com/apt/termux-main stable main`
@@ -166,5 +161,3 @@ Total: 166
 - `deb https://repository.su/termux/termux-main stable main`
 - `deb https://repository.su/termux/termux-root root stable`
 - `deb https://repository.su/termux/termux-x11 x11 main`
-- `deb https://grimler.se/termux/termux-main stable main`
-- `deb https://termux.cdn.lumito.net/termux-main stable main`

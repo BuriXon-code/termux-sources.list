@@ -7,7 +7,6 @@ Total: 80
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable`
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-x11 x11 main`
 - `deb https://termux.danyael.xyz/termux/termux-main-21 stable main`
-- `deb https://termux.nibbles.dogpoo.club/termux-main stable main`
 - `deb https://mirror.ordunet.ge/termux/termux-main-21 stable main`
 - `deb https://mirror.ordunet.ge/termux/termux-main stable main`
 - `deb https://mirror.ordunet.ge/termux/termux-root root stable`
@@ -39,6 +38,7 @@ Total: 80
 - `deb https://mirror.whiterosetech.org/termux-root root stable`
 - `deb https://mirror.whiterosetech.org/termux-x11 x11 main`
 - `deb https://easycli.sh/termux/termux-main stable main`
+- `deb https://easycli.sh/termux/termux-main-21 stable main`
 - `deb https://easycli.sh/termux/termux-root root stable`
 - `deb https://easycli.sh/termux/termux-x11 x11 main`
 - `deb https://cdn.lumito.net/termux/termux-main stable main`
@@ -50,6 +50,14 @@ Total: 80
 - `deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main`
 - `deb https://mirror.accum.se/mirror/termux.dev/termux-main-21 stable main`
 - `deb https://mirror.autkin.net/termux/termux-main-21 stable main`
+- `deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main`
+- `deb https://mirror.bgp.rodeo/termux/termux-main stable main`
+- `deb https://mirror.bgp.rodeo/termux/termux-main-21 stable main`
+- `deb https://mirror.bgp.rodeo/termux/termux-root root stable`
+- `deb https://mirror.bgp.rodeo/termux/termux-x11 x11 main`
+- `deb https://mirror.csclub.uwaterloo.ca/termux/termux-main-21 stable main`
+- `deb https://mirror.freedif.org/termux/termux-main-21 stable main`
+- `deb https://mirror.jeonnam.school/termux/termux-main-21 stable main`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main`
@@ -74,11 +82,3 @@ Total: 80
 - `deb https://mirror.init7.net/termux/termux-main stable main`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-x11 x11 main`
-- `deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main`
-- `deb https://mirror.bgp.rodeo/termux/termux-x11 x11 main`
-- `deb https://easycli.sh/termux/termux-main-21 stable main`
-- `deb https://mirror.jeonnam.school/termux/termux-main-21 stable main`
-- `deb https://mirror.bgp.rodeo/termux/termux-main stable main`
-- `deb https://mirror.bgp.rodeo/termux/termux-root root stable`
-- `deb https://mirror.csclub.uwaterloo.ca/termux/termux-main-21 stable main`
-- `deb https://mirror.freedif.org/termux/termux-main-21 stable main`
