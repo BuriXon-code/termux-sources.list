@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-25 16:30:07 RANDOM
+
++ random-check selected=5 of total=341
+
++ URLs:
+
+		deb https://mirror.polido.pt/termux/termux-main stable main
+		deb https://mirrors.medzik.dev/termux/termux-root root stable
+		deb https://apps.fgs.cl/termux/termux-x11 x11 main
+		deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable
+		deb https://mirror.whiterosetech.org/termux-x11 x11 main
+
++ write : all=241 official=160 unofficial=81 science=5 games=5 unstable=5 glibc=1 x11=69 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-25 16:05:01 PUSH
 
 + push
