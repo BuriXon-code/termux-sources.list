@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-26 14:30:03 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://mirror.aarnet.edu.au/pub/termux stable main
+		deb https://mirror.freedif.org/termux/termux-root root stable
+		deb https://mirror.whiterosetech.org/termux-main stable main
+		deb https://mirror.polido.pt/termux/termux-main stable main
+		deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main
+
++ write : all=243 official=155 unofficial=88 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-26 14:00:02 RANDOM
 
 + random-check selected=5 of total=347
