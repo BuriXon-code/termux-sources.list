@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-26 21:30:03 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://termux.librehat.com/apt/termux-science science stable
+		deb https://mirrors.pku.edu.cn/termux/termux-main stable main
+		deb https://mirror.bgp.rodeo/termux/termux-main-21 stable main
+		deb https://termux.nibbles.dogpoo.club/termux-root root stable
+		deb https://repository.su/termux/termux-main stable main
+
++ write : all=244 official=155 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-26 21:00:02 RANDOM
 
 + random-check selected=5 of total=347
