@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 158
+Total: 155
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -20,6 +20,7 @@ Total: 158
 - `deb https://mirror.nevacloud.com/applications/termux/termux-main stable main`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-root root stable`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main`
+- `deb https://mirror.rinarin.dev/termux/termux-main stable main`
 - `deb https://mirror.rinarin.dev/termux/termux-root root stable`
 - `deb https://mirror.rinarin.dev/termux/termux-x11 x11 main`
 - `deb https://mirror.twds.com.tw/termux/termux-main stable main`
@@ -45,7 +46,6 @@ Total: 158
 - `deb https://tmx.xvx.my.id/apt/termux-main stable main`
 - `deb https://tmx.xvx.my.id/apt/termux-root root stable`
 - `deb https://tmx.xvx.my.id/apt/termux-x11 x11 main`
-- `deb https://mirror.iscas.ac.cn/termux/apt/termux-main stable main`
 - `deb https://mirror.iscas.ac.cn/termux/apt/termux-root root stable`
 - `deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main`
 - `deb https://mirror.nyist.edu.cn/termux/apt/termux-main stable main`
@@ -69,7 +69,6 @@ Total: 158
 - `deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirrors.hust.edu.cn/termux/apt/termux-x11 x11 main`
-- `deb https://mirrors.nju.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirrors.nju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirrors.nju.edu.cn/termux/apt/termux-x11 x11 main`
 - `deb https://mirrors.pku.edu.cn/termux/termux-main stable main`
@@ -158,5 +157,3 @@ Total: 158
 - `deb https://mirrors.middlendian.com/termux/termux-main stable main`
 - `deb https://mirrors.middlendian.com/termux/termux-root root stable`
 - `deb https://mirrors.middlendian.com/termux/termux-x11 x11 main`
-- `deb https://repository.su/termux/termux-root root stable`
-- `deb https://grimler.se/termux/termux-main stable main`

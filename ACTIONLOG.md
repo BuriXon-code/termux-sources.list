@@ -13,6 +13,19 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-26 12:43:06 FULL
+
++ full-check total=347
+
++ URLs:
+
+		full-check
+
++ write : all=243 official=155 unofficial=88 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=full
+
++ commit
+
+
 ## 2026-08-26 12:30:08 RANDOM
 
 + random-check selected=5 of total=341

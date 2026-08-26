@@ -55,7 +55,7 @@ Total: 69
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable`
 - `deb https://termux.danyael.xyz/termux/termux-root root stable`
 - `deb https://mirrors.middlendian.com/termux/termux-root root stable`
-- `deb https://repository.su/termux/termux-root root stable`
+- `deb https://apps.fgs.cl/termux/termux-root root stable`
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable`
 - `deb https://mirror.ordunet.ge/termux/termux-root root stable`
 - `deb https://mirror.sd6server.xyz/termux-root root stable`
