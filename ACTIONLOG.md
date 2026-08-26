@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-26 16:00:02 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://mirrors.wale.id.au/termux/termux-main stable main
+		deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+		deb https://easycli.sh/termux/termux-root root stable
+		deb https://mirrors.nju.edu.cn/termux/apt/termux-root root stable
+		deb https://packages.termux.dev/apt/termux-unstable unstable main
+
++ write : all=243 official=155 unofficial=88 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-26 15:30:08 RANDOM
 
 + random-check selected=5 of total=347
