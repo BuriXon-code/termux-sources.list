@@ -50,7 +50,6 @@ deb https://mirror.quantum5.ca/termux/termux-x11 x11 main
 deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main
 deb https://termux.danyael.xyz/termux/termux-x11 x11 main
 deb https://mirrors.middlendian.com/termux/termux-x11 x11 main
-deb https://repository.su/termux/termux-x11 x11 main
 deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-x11 x11 main
 deb https://mirror.ordunet.ge/termux/termux-x11 x11 main
 deb https://mirror.sd6server.xyz/termux-x11 x11 main
