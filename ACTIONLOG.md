@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-26 20:30:02 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://mirror.sunred.org/termux/termux-main stable main
+		deb https://mirror.init7.net/termux/termux-main stable main
+		deb https://mirror.sng.sg/termux-root root stable
+		deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main
+		deb https://is.mirror.flokinet.net/termux/termux-root root stable
+
++ write : all=244 official=155 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-26 20:05:01 PUSH
 
 + push
