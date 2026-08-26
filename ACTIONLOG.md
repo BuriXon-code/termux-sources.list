@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-26 18:00:05 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://mirror.jeonnam.school/termux/termux-main stable main
+		deb https://mirror.bouwhuis.network/termux/termux-main stable main
+		deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main
+		deb https://packages.termux.dev/apt/termux-science science main
+		deb https://mirrors.rda.run/termux/termux-x11 x11 main
+
++ write : all=243 official=155 unofficial=88 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-26 17:30:02 RANDOM
 
 + random-check selected=5 of total=347
