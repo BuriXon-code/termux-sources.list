@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 81
+Total: 80
 
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-main stable main`
 - `deb https://cdimage.debian.org/mirror/termux.dev/termux-main-21 stable main`
@@ -58,7 +58,6 @@ Total: 81
 - `deb https://mirror.csclub.uwaterloo.ca/termux/termux-main-21 stable main`
 - `deb https://mirror.freedif.org/termux/termux-main-21 stable main`
 - `deb https://mirror.jeonnam.school/termux/termux-main-21 stable main`
-- `deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main`
 - `deb https://mirrors.sustech.edu.cn/termux/apt/termux-science science stable`
