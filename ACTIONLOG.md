@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-27 06:30:06 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://mirror.csclub.uwaterloo.ca/termux/termux-root root stable
+		deb https://termux.nibbles.dogpoo.club/termux-main stable main
+		deb https://mirrors.utermux.dev/termux/termux-main stable main
+		deb https://mirrors.cqu.edu.cn/termux/termux-root root stable
+		deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-main stable main
+
++ write : all=244 official=155 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-27 06:00:07 RANDOM
 
 + random-check selected=5 of total=347
