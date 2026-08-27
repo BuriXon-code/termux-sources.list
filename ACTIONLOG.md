@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-28 00:30:07 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://ftp.fau.de/termux/termux-root root stable
+		deb https://mirrors.wale.id.au/termux/termux-root root stable
+		deb https://mirrors.aliyun.com/termux/termux-main stable main
+		deb https://easycli.sh/termux/termux-root root stable
+		deb https://termux.samcze.pl/termux/apt/termux-main stable main
+
++ write : all=246 official=157 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-28 00:05:00 PUSH
 
 + push
