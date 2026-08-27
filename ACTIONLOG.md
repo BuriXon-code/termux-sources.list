@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-27 10:30:03 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://termux.cdn.lumito.net/termux-main stable main
+		deb https://termux.niranjan.co/termux-main stable main
+		deb https://mirrors.sustech.edu.cn/termux/unstable-packages unstable main
+		deb https://mirrors.ravidwivedi.in/termux/termux-root root stable
+		deb https://termux.librehat.com/apt/termux-games games stable
+
++ write : all=244 official=155 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-27 10:00:06 RANDOM
 
 + random-check selected=5 of total=347
