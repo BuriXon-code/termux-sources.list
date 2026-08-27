@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-27 19:00:03 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://termux.cloudflaremirrors.com/termux-root-24 root stable
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://gnlug.org/pub/termux/termux-main stable main
+		deb https://mirror.cutie.dating/termux/termux-root root stable
+		deb https://mirror.rabisu.com/mirrors/termux/termux-root-packages-24 root stable
+
++ write : all=245 official=156 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-27 18:30:08 RANDOM
 
 + random-check selected=5 of total=347
