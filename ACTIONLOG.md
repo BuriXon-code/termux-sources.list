@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-28 15:00:07 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://mirror.ordunet.ge/termux/termux-root root stable
+		deb https://mirror.ufscar.br/termux/termux-main stable main
+		deb https://mirrors.cfe.re/termux/termux-x11 x11 main
+		deb https://gnlug.org/pub/termux/termux-root root stable
+		deb https://packages.termux.dev/apt/termux-science science main
+
++ write : all=246 official=157 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-28 14:30:04 RANDOM
 
 + random-check selected=5 of total=347
