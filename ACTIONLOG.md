@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-28 17:30:03 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://linux.domainesia.com/applications/termux/termux-main stable main
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-science science main
+		deb https://easycli.sh/termux/termux-x11 x11 main
+		deb https://is.mirror.flokinet.net/termux/termux-x11 x11 main
+		deb https://mirrors.aliyun.com/termux/termux-root root stable
+
++ write : all=245 official=157 unofficial=88 science=6 games=6 unstable=6 glibc=2 x11=67 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-28 17:00:07 RANDOM
 
 + random-check selected=5 of total=347
