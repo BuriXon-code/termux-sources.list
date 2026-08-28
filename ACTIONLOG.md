@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-28 21:00:03 RANDOM
+
++ random-check selected=5 of total=347
+
++ URLs:
+
+		deb https://ftp.fau.de/termux/termux-main stable main
+		deb https://packages.nscdn.top/termux-x11 x11 main
+		deb https://mirrors.sau.edu.cn/termux/apt/termux-x11 x11 main
+		deb https://packages-cf.termux.dev/apt/termux-root root stable
+		deb https://cdn.lumito.net/termux/termux-root root stable
+
++ write : all=243 official=156 unofficial=87 science=6 games=6 unstable=6 glibc=2 x11=66 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-28 20:30:03 RANDOM
 
 + random-check selected=5 of total=347
