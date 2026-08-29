@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-29 15:30:04 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://mirror.ordunet.ge/termux/termux-main stable main
+		deb https://mirrors.nguyenhoang.cloud/termux/termux-x11 x11 main
+		deb https://mirrors.sustech.edu.cn/termux/apt/termux-science science stable
+		deb https://mirrors.cqupt.edu.cn/termux/termux-main stable main
+		deb https://apps.fgs.cl/termux/termux-main stable main
+
++ write : all=245 official=158 unofficial=87 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-29 15:00:07 RANDOM
 
 + random-check selected=5 of total=351
