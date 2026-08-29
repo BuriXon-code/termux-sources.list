@@ -242,3 +242,4 @@ deb https://grimler.se/termux/termux-main stable main
 deb https://mirrors.nju.edu.cn/termux/apt/termux-main stable main
 deb https://termux.3san.dev/termux/termux-x11 x11 main
 deb https://mirror.mwt.me/termux/x11 x11 main
+deb https://mirror.iscas.ac.cn/termux/apt/termux-main stable main
