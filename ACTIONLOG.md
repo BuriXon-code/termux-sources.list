@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-29 02:30:08 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://tmx.xvx.my.id/apt/termux-main stable main
+		deb https://mirror.diyarciftci.xyz/termux/termux-main stable main
+		deb https://mirror.sjtu.edu.cn/termux/termux-main stable main
+		deb https://mirror.hiesoft.net/termux/termux-x11 x11 main
+		deb https://ftp.fau.de/termux/termux-main stable main
+
++ write : all=245 official=158 unofficial=87 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-29 02:00:06 RANDOM
 
 + random-check selected=5 of total=351
