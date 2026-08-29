@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-29 15:00:07 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://termux.samcze.pl/termux/apt/termux-root root stable
+		deb https://termux.librehat.com/apt/termux-root root stable
+		deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-main stable main
+		deb https://is.mirror.flokinet.net/termux/termux-main stable main
+		deb https://mirror.vern.cc/termux/termux-root root stable
+
++ write : all=245 official=158 unofficial=87 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-29 14:30:03 RANDOM
 
 + random-check selected=5 of total=351
