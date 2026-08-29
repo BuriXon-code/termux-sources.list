@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-29 11:00:07 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://mirror.diyarciftci.xyz/termux/termux-main-21 stable main
+		deb https://mirror.fcix.net/termux/termux-main stable main
+		deb https://termux.mentality.rip/termux-main stable main
+		deb https://mirror.quantum5.ca/termux/termux-main stable main
+		deb https://ftp.agdsn.de/termux/termux-main stable main
+
++ write : all=245 official=158 unofficial=87 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-29 10:30:07 RANDOM
 
 + random-check selected=5 of total=351
