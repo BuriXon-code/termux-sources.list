@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-31 00:30:13 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://mirror.init7.net/termux/termux-root root stable
+		deb https://mirror.bardia.tech/termux/termux-x11 x11 main
+		deb https://termux.librehat.com/apt/termux-games games stable
+		deb https://mirrors.utermux.dev/termux/termux-main stable main
+		deb https://mirror.nag.albony.in/termux/termux-main stable main
+
++ write : all=250 official=161 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=69 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-31 00:05:01 PUSH
 
 + push
