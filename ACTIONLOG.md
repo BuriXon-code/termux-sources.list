@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-30 08:30:06 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://mirrors.bfsu.edu.cn/termux/apt/termux-main stable main
+		deb https://gnlug.org/pub/termux/termux-root root stable
+		deb https://mirrors.rda.run/termux/termux-root root stable
+		deb https://mirrors.saswata.xyz/termux/termux-root root stable
+		deb https://mirror.polido.pt/termux/termux-main stable main
+
++ write : all=247 official=160 unofficial=87 science=6 games=6 unstable=6 glibc=2 x11=69 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-30 08:05:01 PUSH
 
 + push
