@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-30 20:30:05 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://mirrors.ustc.edu.cn/termux/termux-main stable main
+		deb https://mirror.hiesoft.net/termux/termux-main-21 stable main
+		deb https://mirror.freedif.org/termux/termux-main-21 stable main
+		deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.rabisu.com/mirrors/termux/game-packages-24 games main
+
++ write : all=250 official=161 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=69 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-30 20:05:02 PUSH
 
 + push
