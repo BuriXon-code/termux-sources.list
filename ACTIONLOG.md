@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-31 13:30:03 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://ftp.agdsn.de/termux/termux-main stable main
+		deb https://mirrors.sustech.edu.cn/termux/game-packages-24 games stable
+		deb https://termux.danyael.xyz/termux/termux-root root stable
+		deb https://packages.nscdn.top/termux-x11 x11 main
+		deb https://packages.termux.dev/apt/termux-unstable unstable main
+
++ write : all=247 official=160 unofficial=87 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-31 13:00:04 RANDOM
 
 + random-check selected=5 of total=351
