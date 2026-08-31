@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-31 11:00:07 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://mirror.ufscar.br/termux/termux-root root stable
+		deb https://mirrors.sustech.edu.cn/termux/unstable-packages unstable main
+		deb https://mirrors.sdu.edu.cn/termux/termux-main stable main
+		deb https://repository.su/termux/termux-root root stable
+		deb https://mirror.ufscar.br/termux/termux-x11 x11 main
+
++ write : all=248 official=160 unofficial=88 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-31 10:30:07 RANDOM
 
 + random-check selected=5 of total=351
