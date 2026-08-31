@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-08-31 11:30:03 RANDOM
+
++ random-check selected=5 of total=351
+
++ URLs:
+
+		deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
+		deb https://cdimage.debian.org/mirror/termux.dev/termux-main-21 stable main
+		deb https://packages.termux.dev/apt/termux-games games main
+		deb https://mirror.whiterosetech.org/termux-x11 x11 main
+		deb https://mirrors.sdu.edu.cn/termux/termux-root root stable
+
++ write : all=248 official=160 unofficial=88 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-08-31 11:00:07 RANDOM
 
 + random-check selected=5 of total=351
