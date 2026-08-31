@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 88
+Total: 87
 
 - `deb https://apps.fgs.cl/termux/termux-main stable main`
 - `deb https://apps.fgs.cl/termux/termux-root root stable`
@@ -39,7 +39,6 @@ Total: 88
 - `deb https://mirror.rabisu.com/mirrors/termux/x11-packages x11 main`
 - `deb https://mirror.whiterosetech.org/termux-root root stable`
 - `deb https://mirror.whiterosetech.org/termux-x11 x11 main`
-- `deb https://easycli.sh/termux/termux-main-21 stable main`
 - `deb https://easycli.sh/termux/termux-root root stable`
 - `deb https://cdn.lumito.net/termux/termux-main stable main`
 - `deb https://cdn.lumito.net/termux/termux-root root stable`
