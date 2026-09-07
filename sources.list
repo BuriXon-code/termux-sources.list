@@ -244,3 +244,5 @@ deb https://termux.3san.dev/termux/termux-main stable main
 deb https://mirror.hiesoft.net/termux/termux-main-21 stable main
 deb https://mirror.kairun.jp/termux/termux-root root stable
 deb https://mirror.hiesoft.net/termux/termux-main stable main
+deb https://mirrors.zju.edu.cn/termux/apt/termux-main stable main
+deb https://ftp.agdsn.de/termux/termux-x11 x11 main
