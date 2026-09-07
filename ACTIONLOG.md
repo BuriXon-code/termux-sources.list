@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-07 13:00:07 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirrors.saswata.xyz/termux/termux-root root stable
+		deb https://termux.librehat.com/apt/termux-games games stable
+		deb https://mirror.autkin.net/termux/termux-main-21 stable main
+		deb https://mirror.quantum5.ca/termux/termux-main stable main
+		deb https://mirror.bardia.tech/termux/termux-main stable main
+
++ write : all=249 official=161 unofficial=88 science=6 games=6 unstable=6 glibc=2 x11=69 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-07 12:30:03 RANDOM
 
 + random-check selected=5 of total=355
