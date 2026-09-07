@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-07 03:30:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.rabisu.com/mirrors/termux/science-packages-24 science main
+		deb https://plug-mirror.rcac.purdue.edu/termux/termux-main stable main
+		deb https://mirror.sd6server.xyz/termux-x11 x11 main
+		deb https://repository.su/termux/termux-x11 x11 main
+		deb https://termux.niranjan.co/termux-root root stable
+
++ write : all=245 official=159 unofficial=86 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-09-07 03:00:03 RANDOM
 
 + random-check selected=5 of total=355
