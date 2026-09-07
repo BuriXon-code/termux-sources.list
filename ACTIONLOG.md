@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-07 15:00:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirrors.aliyun.com/termux/termux-main stable main
+		deb https://mirror.aarnet.edu.au/pub/termux stable main
+		deb https://mirror.whiterosetech.org/termux-x11 x11 main
+		deb https://easycli.sh/termux/termux-root root stable
+		deb https://repository.su/termux/termux-root root stable
+
++ write : all=250 official=161 unofficial=89 science=6 games=6 unstable=6 glibc=2 x11=69 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-07 14:30:03 RANDOM
 
 + random-check selected=5 of total=355
