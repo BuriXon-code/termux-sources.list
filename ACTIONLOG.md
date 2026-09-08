@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-08 04:30:07 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.whiterosetech.org/termux-main stable main
+		deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
+		deb https://mirror.hiesoft.net/termux/termux-root root stable
+		deb https://packages.termux.dev/apt/termux-root root stable
+		deb https://grimler.se/termux/termux-main stable main
+
++ write : all=250 official=160 unofficial=90 science=6 games=6 unstable=6 glibc=2 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-08 04:05:01 PUSH
 
 + push
