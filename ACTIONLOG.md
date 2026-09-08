@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-08 20:00:04 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.cutie.dating/termux/termux-main stable main
+		deb https://mirrors.cqupt.edu.cn/termux/termux-main stable main
+		deb https://mirror.ordunet.ge/termux/termux-main stable main
+		deb https://packages.termux.dev/apt/termux-root root stable
+		deb https://mirror.aarnet.edu.au/pub/termux stable main
+
++ write : all=251 official=160 unofficial=91 science=6 games=6 unstable=6 glibc=2 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-08 19:30:03 RANDOM
 
 + random-check selected=5 of total=355
