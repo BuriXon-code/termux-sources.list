@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-08 14:00:05 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://ftp.fau.de/termux/termux-main-21 stable main
+		deb https://packages.termux.dev/apt/termux-games games main
+		deb https://termux.librehat.com/apt/termux-science science stable
+		deb https://md.mirrors.hacktegic.com/termux/termux-root root stable
+		deb https://is.mirror.flokinet.net/termux/termux-root root stable
+
++ write : all=251 official=160 unofficial=91 science=6 games=6 unstable=6 glibc=2 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-08 13:30:08 RANDOM
 
 + random-check selected=5 of total=355
