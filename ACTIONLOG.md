@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-09 01:30:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.hiesoft.net/termux/termux-x11 x11 main
+		deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+		deb https://mirrors.ustc.edu.cn/termux/termux-root root stable
+		deb https://ftp.fau.de/termux/termux-x11 x11 main
+		deb https://repository.su/termux/termux-main stable main
+
++ write : all=252 official=160 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=69 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-09 01:00:03 RANDOM
 
 + random-check selected=5 of total=355
