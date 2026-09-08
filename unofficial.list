@@ -88,3 +88,4 @@ deb https://mirror.hiesoft.net/termux/termux-main stable main
 deb https://mirror.hiesoft.net/termux/termux-root root stable
 deb https://mirror.kairun.jp/termux/termux-main stable main
 deb https://mirror.whiterosetech.org/termux-main stable main
+deb https://mirror.kairun.jp/termux/termux-main-21 stable main

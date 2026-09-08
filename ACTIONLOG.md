@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-08 08:00:06 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://mirror.quantum5.ca/termux/termux-main stable main
+		deb https://termux.sourceforge.io/termux-root-24 root stable
+		deb https://gnlug.org/pub/termux/termux-main stable main
+		deb https://mirror.kairun.jp/termux/termux-main-21 stable main
+
++ write : all=251 official=160 unofficial=91 science=6 games=6 unstable=6 glibc=2 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-08 07:30:08 RANDOM
 
 + random-check selected=5 of total=355

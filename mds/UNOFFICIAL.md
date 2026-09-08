@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 90
+Total: 91
 
 - `deb https://apps.fgs.cl/termux/termux-main stable main`
 - `deb https://apps.fgs.cl/termux/termux-root root stable`
@@ -92,3 +92,4 @@ Total: 90
 - `deb https://mirror.hiesoft.net/termux/termux-root root stable`
 - `deb https://mirror.kairun.jp/termux/termux-main stable main`
 - `deb https://mirror.whiterosetech.org/termux-main stable main`
+- `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
