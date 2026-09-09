@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-09 03:00:06 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://termux.samcze.pl/termux/apt/termux-main stable main
+		deb https://md.mirrors.hacktegic.com/termux/termux-main stable main
+		deb https://termux.sourceforge.io/termux-x11-24 x11 main
+		deb https://mirror.sd6server.xyz/termux-x11 x11 main
+		deb https://termux.3san.dev/termux/termux-x11 x11 main
+
++ write : all=252 official=160 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=69 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-09 02:30:07 RANDOM
 
 + random-check selected=5 of total=355
