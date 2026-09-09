@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-09 11:00:07 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirrors.aliyun.com/termux/termux-root root stable
+		deb https://mirror.vern.cc/termux/termux-root root stable
+		deb https://termux.cdn.lumito.net/termux-root root stable
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-science science main
+		deb https://termux.3san.dev/termux/termux-x11 x11 main
+
++ write : all=250 official=158 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=68 root=69 mode=random
+
++ commit
+
+
 ## 2026-09-09 10:30:03 RANDOM
 
 + random-check selected=5 of total=355
