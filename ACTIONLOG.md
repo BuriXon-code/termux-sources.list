@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-10 01:30:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.kairun.jp/termux/termux-main-21 stable main
+		deb https://packages.termux.dev/apt/termux-science science main
+		deb https://mirror.ordunet.ge/termux/termux-main-21 stable main
+		deb https://mirrors.ustc.edu.cn/termux/termux-main-21 stable main
+		deb https://mirror.kairun.jp/termux/termux-root root stable
+
++ write : all=250 official=158 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=69 root=69 mode=random
+
++ commit
+
+
 ## 2026-09-10 01:00:02 RANDOM
 
 + random-check selected=5 of total=355
