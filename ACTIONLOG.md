@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-11 00:30:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main
+		deb https://mirror.jeonnam.school/termux/termux-root root stable
+		deb https://mirror.ufscar.br/termux/termux-main stable main
+		deb https://mirrors.sustech.edu.cn/termux/apt/termux-games games stable
+		deb https://mirror.aarnet.edu.au/pub/termux-root root stable
+
++ write : all=248 official=156 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=69 root=69 mode=random
+
++ commit
+
+
 ## 2026-09-11 00:05:01 PUSH
 
 + push
