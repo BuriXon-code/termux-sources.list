@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-10 16:00:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.twds.com.tw/termux/termux-main stable main
+		deb https://mirror.diyarciftci.xyz/termux/termux-main stable main
+		deb https://mirror.kairun.jp/termux/termux-main-21 stable main
+		deb https://mirror.jeonnam.school/termux/termux-root root stable
+		deb https://mirrors.saswata.cc/termux/termux-root root stable
+
++ write : all=247 official=155 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=69 root=67 mode=random
+
++ commit
+
+
 ## 2026-09-10 15:30:07 RANDOM
 
 + random-check selected=5 of total=355
