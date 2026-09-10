@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-10 18:30:04 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://grimler.se/termux/termux-main-21 stable main
+		deb https://packages.nscdn.top/termux-main stable main
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-science science main
+		deb https://mirror.whiterosetech.org/termux-main stable main
+		deb https://ftp.agdsn.de/termux/termux-main stable main
+
++ write : all=248 official=156 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=69 root=68 mode=random
+
++ commit
+
+
 ## 2026-09-10 18:00:07 RANDOM
 
 + random-check selected=5 of total=355
