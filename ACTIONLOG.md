@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-10 13:00:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://nl.mirror.flokinet.net/termux/termux-main stable main
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-x11 x11 main
+		deb https://packages.termux.dev/apt/termux-x11 x11 main
+		deb https://termux.sourceforge.io/termux-root-24 root stable
+		deb https://mirror.vern.cc/termux/termux-main stable main
+
++ write : all=248 official=156 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=69 root=67 mode=random
+
++ commit
+
+
 ## 2026-09-10 12:30:03 RANDOM
 
 + random-check selected=5 of total=355
