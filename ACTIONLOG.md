@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-10 12:00:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://termux.cloudflaremirrors.com/termux-x11-24 x11 main
+		deb https://mirrors.sau.edu.cn/termux/apt/termux-main stable main
+		deb https://mirror.jeonnam.school/termux/termux-x11 x11 main
+		deb https://termux.librehat.com/apt/termux-main stable main
+		deb https://packages.termux.dev/apt/termux-root root stable
+
++ write : all=249 official=157 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=69 root=68 mode=random
+
++ commit
+
+
 ## 2026-09-10 11:30:04 RANDOM
 
 + random-check selected=5 of total=355
