@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-12 06:30:07 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirrors.krnk.org/apt/termux/termux-main stable main
+		deb https://mirrors.cbrx.io/apt/termux/termux-x11 x11 main
+		deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
+		deb https://mirror.bardia.tech/termux/termux-x11 x11 main
+		deb https://mirrors.sustech.edu.cn/termux/game-packages-24 games stable
+
++ write : all=248 official=156 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-12 06:00:06 RANDOM
 
 + random-check selected=5 of total=355
