@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-12 19:30:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.leitecastro.com/termux/termux-root root stable
+		deb https://mirror.ordunet.ge/termux/termux-x11 x11 main
+		deb https://mirror.rinarin.dev/termux/termux-main-21 stable main
+		deb https://mirror.hiesoft.net/termux/termux-main stable main
+		deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable
+
++ write : all=248 official=156 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-12 19:00:04 RANDOM
 
 + random-check selected=5 of total=355
