@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-13 00:30:03 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://is.mirror.flokinet.net/termux/termux-main-21 stable main
+		deb https://mirror.aarnet.edu.au/pub/termux stable main
+		deb https://termux.niranjan.co/termux-root root stable
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://packages.nscdn.top/termux-root root stable
+
++ write : all=248 official=156 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-13 00:05:01 PUSH
 
 + push
