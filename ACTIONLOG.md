@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-13 11:30:04 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://termux.cdn.lumito.net/termux-root root stable
+		deb https://gnlug.org/pub/termux/termux-root root stable
+		deb https://tmx.xvx.my.id/apt/termux-x11 x11 main
+		deb https://termux.3san.dev/termux/termux-main stable main
+		deb https://termux.niranjan.co/termux-root root stable
+
++ write : all=241 official=149 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=67 root=67 mode=random
+
++ commit
+
+
 ## 2026-09-13 11:00:07 RANDOM
 
 + random-check selected=5 of total=355
