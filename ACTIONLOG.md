@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-13 15:00:04 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.polido.pt/termux/termux-main stable main
+		deb https://termux.librehat.com/apt/termux-science science stable
+		deb https://termux.librehat.com/apt/termux-unstable unstable main
+		deb https://termux.danyael.xyz/termux/termux-main stable main
+		deb https://cdn.lumito.net/termux/termux-main stable main
+
++ write : all=241 official=149 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=67 root=67 mode=random
+
++ commit
+
+
 ## 2026-09-13 14:30:08 RANDOM
 
 + random-check selected=5 of total=355
