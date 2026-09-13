@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-13 14:30:08 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.whiterosetech.org/termux-main stable main
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-games games main
+		deb https://mirror.sd6server.xyz/termux-main stable main
+		deb https://packages.nscdn.top/termux-main stable main
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+
++ write : all=241 official=149 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=67 root=67 mode=random
+
++ commit
+
+
 ## 2026-09-13 14:00:04 RANDOM
 
 + random-check selected=5 of total=355
