@@ -2,6 +2,14 @@
 
 Total: 92
 
+- `deb https://mirror.kairun.jp/termux/termux-main stable main`
+- `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
+- `deb https://mirror.kairun.jp/termux/termux-root root stable`
+- `deb https://mirror.kairun.jp/termux/termux-x11 x11 main`
+- `deb https://mirror.hiesoft.net/termux/termux-main stable main`
+- `deb https://mirror.hiesoft.net/termux/termux-main-21 stable main`
+- `deb https://mirror.hiesoft.net/termux/termux-root root stable`
+- `deb https://mirror.hiesoft.net/termux/termux-x11 x11 main`
 - `deb https://apps.fgs.cl/termux/termux-main stable main`
 - `deb https://apps.fgs.cl/termux/termux-root root stable`
 - `deb https://apps.fgs.cl/termux/termux-x11 x11 main`
@@ -37,6 +45,7 @@ Total: 92
 - `deb https://mirror.rabisu.com/mirrors/termux/termux-root-packages-24 root stable`
 - `deb https://mirror.rabisu.com/mirrors/termux/unstable-packages unstable main`
 - `deb https://mirror.rabisu.com/mirrors/termux/x11-packages x11 main`
+- `deb https://mirror.whiterosetech.org/termux-main stable main`
 - `deb https://mirror.whiterosetech.org/termux-root root stable`
 - `deb https://mirror.whiterosetech.org/termux-x11 x11 main`
 - `deb https://cdn.lumito.net/termux/termux-main stable main`
@@ -45,7 +54,6 @@ Total: 92
 - `deb https://ftp.agdsn.de/termux/termux-main-21 stable main`
 - `deb https://ftp.fau.de/termux/termux-main-21 stable main`
 - `deb https://is.mirror.flokinet.net/termux/termux-main-21 stable main`
-- `deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main`
 - `deb https://mirror.accum.se/mirror/termux.dev/termux-main-21 stable main`
 - `deb https://mirror.autkin.net/termux/termux-main-21 stable main`
 - `deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main`
@@ -56,6 +64,7 @@ Total: 92
 - `deb https://mirror.csclub.uwaterloo.ca/termux/termux-main-21 stable main`
 - `deb https://mirror.freedif.org/termux/termux-main-21 stable main`
 - `deb https://mirror.jeonnam.school/termux/termux-main-21 stable main`
+- `deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main`
 - `deb https://mirrors.sustech.edu.cn/termux/apt/termux-science science stable`
@@ -85,12 +94,3 @@ Total: 92
 - `deb https://mirror.init7.net/termux/termux-main stable main`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-x11 x11 main`
-- `deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main`
-- `deb https://mirror.hiesoft.net/termux/termux-main-21 stable main`
-- `deb https://mirror.kairun.jp/termux/termux-root root stable`
-- `deb https://mirror.hiesoft.net/termux/termux-main stable main`
-- `deb https://mirror.hiesoft.net/termux/termux-root root stable`
-- `deb https://mirror.kairun.jp/termux/termux-main stable main`
-- `deb https://mirror.whiterosetech.org/termux-main stable main`
-- `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
-- `deb https://mirror.hiesoft.net/termux/termux-x11 x11 main`

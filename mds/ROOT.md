@@ -1,13 +1,11 @@
 # Termux:Root mirrors
 
-Total: 70
+Total: 67
 
 - `deb https://packages.termux.dev/apt/termux-root root stable`
 - `deb https://packages-cf.termux.dev/apt/termux-root root stable`
-- `deb https://linux.domainesia.com/applications/termux/termux-root root stable`
 - `deb https://mirror.freedif.org/termux/termux-root root stable`
 - `deb https://mirror.jeonnam.school/termux/termux-root root stable`
-- `deb https://mirror.nevacloud.com/applications/termux/termux-root root stable`
 - `deb https://mirror.rinarin.dev/termux/termux-root root stable`
 - `deb https://mirror.twds.com.tw/termux/termux-root root stable`
 - `deb https://mirrors.cbrx.io/apt/termux/termux-root root stable`
@@ -24,6 +22,7 @@ Total: 70
 - `deb https://mirrors.bfsu.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirrors.cqupt.edu.cn/termux/termux-root root stable`
+- `deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirrors.nju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirrors.pku.edu.cn/termux/termux-root root stable`
 - `deb https://mirrors.sau.edu.cn/termux/apt/termux-root root stable`
@@ -34,7 +33,6 @@ Total: 70
 - `deb https://mirrors.zju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://ftp.agdsn.de/termux/termux-root root stable`
 - `deb https://ftp.fau.de/termux/termux-root root stable`
-- `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable`
 - `deb https://grimler.se/termux/termux-root root stable`
 - `deb https://is.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://mirror.accum.se/mirror/termux.dev/termux-root root stable`
@@ -44,6 +42,7 @@ Total: 70
 - `deb https://mirrors.de.sahilister.net/termux/termux-root root stable`
 - `deb https://nl.mirror.flokinet.net/termux/termux-root root stable`
 - `deb https://ro.mirror.flokinet.net/termux/termux-root root stable`
+- `deb https://termux.3san.dev/termux/termux-root root stable`
 - `deb https://termux.librehat.com/apt/termux-root root stable`
 - `deb https://gnlug.org/pub/termux/termux-root root stable`
 - `deb https://mirror.csclub.uwaterloo.ca/termux/termux-root root stable`
@@ -52,6 +51,9 @@ Total: 70
 - `deb https://mirror.quantum5.ca/termux/termux-root root stable`
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable`
 - `deb https://termux.danyael.xyz/termux/termux-root root stable`
+- `deb https://mirrors.middlendian.com/termux/termux-root root stable`
+- `deb https://mirror.kairun.jp/termux/termux-root root stable`
+- `deb https://mirror.hiesoft.net/termux/termux-root root stable`
 - `deb https://apps.fgs.cl/termux/termux-root root stable`
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable`
 - `deb https://mirror.ordunet.ge/termux/termux-root root stable`
@@ -67,8 +69,3 @@ Total: 70
 - `deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
-- `deb https://mirror.kairun.jp/termux/termux-root root stable`
-- `deb https://mirror.hiesoft.net/termux/termux-root root stable`
-- `deb https://termux.3san.dev/termux/termux-root root stable`
-- `deb https://mirrors.middlendian.com/termux/termux-root root stable`
-- `deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable`
