@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-13 19:30:04 RANDOM
+
++ random-check selected=5 of total=355
+
++ URLs:
+
+		deb https://mirror.nevacloud.com/applications/termux/root root stable
+		deb https://apps.fgs.cl/termux/termux-x11 x11 main
+		deb http://mirror.yandex.ru/mirrors/termux stable main
+		deb https://mirror.sd6server.xyz/termux-main stable main
+		deb https://easycli.sh/termux/termux-root root stable
+
++ write : all=241 official=149 unofficial=92 science=6 games=6 unstable=6 glibc=2 x11=67 root=67 mode=random
+
++ commit
+
+
 ## 2026-09-13 19:00:04 RANDOM
 
 + random-check selected=5 of total=355
