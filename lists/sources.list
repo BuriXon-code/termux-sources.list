@@ -242,3 +242,4 @@ deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main
 deb https://linux.domainesia.com/applications/termux/termux-main stable main
 deb https://grimler.se/termux/termux-main stable main
 deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main
