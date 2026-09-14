@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 149
+Total: 150
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -151,3 +151,4 @@ Total: 149
 - `deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main`
+- `deb https://linux.domainesia.com/applications/termux/termux-main stable main`
