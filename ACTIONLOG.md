@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-16 01:00:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-main stable main
+		deb https://mirror.bardia.tech/termux/termux-root root stable
+		deb https://mirrors.medzik.dev/termux/termux-root root stable
+		deb https://termux.mentality.rip/termux-main stable main
+		deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main
+
++ write : all=247 official=157 unofficial=90 science=6 games=6 unstable=6 glibc=2 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-16 00:30:04 RANDOM
 
 + random-check selected=5 of total=355
