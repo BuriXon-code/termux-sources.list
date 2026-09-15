@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 91
+Total: 90
 
 - `deb https://mirror.kairun.jp/termux/termux-main stable main`
 - `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
@@ -88,7 +88,6 @@ Total: 91
 - `deb https://mirror.rinarin.dev/termux/termux-main-21 stable main`
 - `deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking`
 - `deb https://mirrors.ustc.edu.cn/termux/termux-main-21 stable main`
-- `deb https://mirrors.ocf.berkeley.edu/termux/termux-main stable main`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-main stable main`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
