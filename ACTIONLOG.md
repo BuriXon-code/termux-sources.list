@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-16 15:30:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.ordunet.ge/termux/termux-root root stable
+		deb https://mirror.nag.albony.in/termux/termux-main stable main
+		deb https://ftp.agdsn.de/termux/termux-root root stable
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://mirror.bgp.rodeo/termux/termux-main stable main
+
++ write : all=250 official=157 unofficial=93 science=6 games=7 unstable=6 glibc=3 x11=68 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-16 15:00:07 RANDOM
 
 + random-check selected=5 of total=363
