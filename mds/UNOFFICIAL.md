@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 92
+Total: 93
 
 - `deb https://mirror.kairun.jp/termux/termux-main stable main`
 - `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
@@ -94,3 +94,4 @@ Total: 92
 - `deb https://mirror.init7.net/termux/termux-x11 x11 main`
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-glibc glibc stable`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-main stable main`
+- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main`

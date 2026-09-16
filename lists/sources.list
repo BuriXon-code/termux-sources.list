@@ -247,3 +247,4 @@ deb https://linux.domainesia.com/applications/termux/termux-root root stable
 deb https://mirrors.krnk.org/apt/termux/termux-main stable main
 deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-glibc glibc stable
 deb https://mirrors.ocf.berkeley.edu/termux/termux-main stable main
+deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main
