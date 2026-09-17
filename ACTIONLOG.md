@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-17 17:30:05 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.bgp.rodeo/termux/termux-main-21 stable main
+		deb https://cdn.lumito.net/termux/termux-root root stable
+		deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
+		deb https://mirror.rabisu.com/mirrors/termux/x11-packages x11 main
+		deb https://mirrors.sustech.edu.cn/termux/apt/termux-games games stable
+
++ write : all=250 official=156 unofficial=94 science=6 games=7 unstable=6 glibc=3 x11=67 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-17 17:00:02 RANDOM
 
 + random-check selected=5 of total=363
