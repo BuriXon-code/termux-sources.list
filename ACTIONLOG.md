@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-18 14:30:05 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirrors.saswata.xyz/termux/termux-root root stable
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main
+		deb https://termux.danyael.xyz/termux/termux-x11 x11 main
+		deb https://ftp.fau.de/termux/termux-main stable main
+		deb https://termux.cdn.lumito.net/termux-main stable main
+
++ write : all=252 official=156 unofficial=96 science=6 games=7 unstable=6 glibc=3 x11=69 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-18 14:00:06 RANDOM
 
 + random-check selected=5 of total=363
