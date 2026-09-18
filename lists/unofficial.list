@@ -94,3 +94,4 @@ deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games
 deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main-21 stable main
 deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main stable main
 deb https://mirrors.ocf.berkeley.edu/termux/termux-x11 x11 stable
+deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-science science main
