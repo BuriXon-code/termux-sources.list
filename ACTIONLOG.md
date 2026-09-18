@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-18 18:30:07 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.nevacloud.com/applications/termux/root root stable
+		deb https://mirror.iscas.ac.cn/termux/apt/termux-root root stable
+		deb https://termux.nibbles.dogpoo.club/termux-main stable main
+		deb https://mirrors.cqupt.edu.cn/termux/termux-main stable main
+		deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main
+
++ write : all=254 official=156 unofficial=98 science=7 games=7 unstable=6 glibc=3 x11=70 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-18 18:00:04 RANDOM
 
 + random-check selected=5 of total=363
