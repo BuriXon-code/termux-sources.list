@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-19 13:30:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.diyarciftci.xyz/termux/termux-root root stable
+		deb https://mirrors.sdu.edu.cn/termux/termux-main stable main
+		deb https://mirrors.sustech.edu.cn/termux/science-packages-24 science stable
+		deb https://packages.nscdn.top/termux-root root stable
+		deb https://mirror.freedif.org/termux/termux-main stable main
+
++ write : all=253 official=155 unofficial=98 science=7 games=7 unstable=6 glibc=3 x11=70 root=69 mode=random
+
++ commit
+
+
 ## 2026-09-19 13:00:07 RANDOM
 
 + random-check selected=5 of total=363
