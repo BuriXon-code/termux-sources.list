@@ -63,7 +63,7 @@ apt update
 - Root mirrors: 70
 
 > [!WARNING]  
-> I do not include private repositories and some tour repositories.  
+> I do not include private repositories and some tur repositories.  
 >  
 > Nevertheless, I am looking for such ones and will gradually add them in the future.  
 
@@ -103,7 +103,7 @@ apt update
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
 - [CHECKLOG.md](./CHECKLOG.md) - Check log
 
-Last updated: 2026-09-20 03:30:25
+Last updated: 2026-09-20 04:00:14
 <!-- STOP-COUNT-HERE -->
 
 If you run/have your own mirror/repository and would like to be on this list, please make a PR by signing up to unofficial.list or write to me: **support@burixon.dev**  
