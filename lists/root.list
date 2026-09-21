@@ -53,7 +53,6 @@ deb https://mirror.hiesoft.net/termux/termux-root root stable
 deb https://apps.fgs.cl/termux/termux-root root stable
 deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable
 deb https://mirror.ordunet.ge/termux/termux-root root stable
-deb https://mirror.sd6server.xyz/termux-root root stable
 deb https://mirror.ufscar.br/termux/termux-root root stable
 deb https://mirror.diyarciftci.xyz/termux/termux-root root stable
 deb https://mirror.rabisu.com/mirrors/termux/apt/termux-root root stable
