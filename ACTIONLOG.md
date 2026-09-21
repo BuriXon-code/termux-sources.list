@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-21 18:30:04 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://mirrors.bfsu.edu.cn/termux/apt/termux-main stable main
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-unstable unstable main
+		deb https://mirror.bardia.tech/termux/termux-main stable main
+		deb https://grimler.se/termux/termux-x11 x11 main
+
++ write : all=257 official=157 unofficial=100 science=7 games=7 unstable=7 glibc=3 x11=70 root=71 mode=random
+
++ commit
+
+
 ## 2026-09-21 18:00:04 RANDOM
 
 + random-check selected=5 of total=363
