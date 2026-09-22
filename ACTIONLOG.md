@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-22 12:30:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.aarnet.edu.au/pub/termux stable main
+		deb https://mirrors.cbrx.io/apt/termux/termux-root root stable
+		deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+		deb https://mirror.rinarin.dev/termux/termux-main-21 stable main
+		deb https://packages.termux.dev/apt/termux-root root stable
+
++ write : all=256 official=157 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=70 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-22 12:05:01 PUSH
 
 + push
