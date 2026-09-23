@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-23 10:30:08 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirrors.saswata.xyz/termux/termux-root root stable
+		deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://mirrors.ustc.edu.cn/termux/termux-root root stable
+		deb https://mirrors.ravidwivedi.in/termux/termux-root root stable
+
++ write : all=256 official=158 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=71 root=69 mode=random
+
++ commit
+
+
 ## 2026-09-23 10:00:05 RANDOM
 
 + random-check selected=5 of total=363
