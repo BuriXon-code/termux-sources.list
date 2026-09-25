@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-25 07:30:07 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://easycli.sh/termux/termux-x11 x11 main
+		deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+		deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-science science main
+		deb https://termux.3san.dev/termux/termux-root root stable
+
++ write : all=257 official=157 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=71 root=69 mode=random
+
++ commit
+
+
 ## 2026-09-25 07:00:07 RANDOM
 
 + random-check selected=5 of total=363
