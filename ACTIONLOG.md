@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-26 00:00:05 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://grimler.se/termux/termux-main stable main
+		deb https://mirror.hiesoft.net/termux/termux-main stable main
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main
+		deb https://mirror.polido.pt/termux/termux-root root stable
+		deb https://mirror.nag.albony.in/termux/termux-main stable main
+
++ write : all=256 official=156 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=70 root=69 mode=random
+
++ commit
+
+
 ## 2026-09-25 23:30:03 RANDOM
 
 + random-check selected=5 of total=363
