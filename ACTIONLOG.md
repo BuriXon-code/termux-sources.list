@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-26 12:00:07 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.fcix.net/termux/termux-main stable main
+		deb https://mirror.aarnet.edu.au/pub/termux-root root stable
+		deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main
+		deb https://mirror.hiesoft.net/termux/termux-main-21 stable main
+		deb https://cdn.lumito.net/termux/termux-main stable main
+
++ write : all=258 official=157 unofficial=100 science=7 games=7 unstable=7 glibc=3 x11=70 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-26 11:30:04 RANDOM
 
 + random-check selected=5 of total=363

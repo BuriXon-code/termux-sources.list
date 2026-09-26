@@ -255,3 +255,4 @@ deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-unstable un
 deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main
 deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
 deb https://mirror.ordunet.ge/termux/termux-root root stable
+deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main
