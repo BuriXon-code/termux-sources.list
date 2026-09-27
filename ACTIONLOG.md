@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-27 07:30:07 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-science science main
+		deb https://cdn.lumito.net/termux/termux-x11 x11 main
+		deb https://mirror.mwt.me/termux/x11 x11 main
+		deb https://termux.librehat.com/apt/termux-root root stable
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+
++ write : all=256 official=154 unofficial=100 science=7 games=7 unstable=7 glibc=3 x11=69 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-27 07:00:07 RANDOM
 
 + random-check selected=5 of total=363
