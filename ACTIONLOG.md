@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-28 11:00:02 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://termux.cdn.lumito.net/termux-main stable main
+		deb https://mirror.jeonnam.school/termux/termux-root root stable
+		deb https://mirrors.in.sahilister.net/termux/termux-main stable main
+		deb https://mirror.ordunet.ge/termux/termux-main stable main
+		deb https://apps.fgs.cl/termux/termux-root root stable
+
++ write : all=259 official=157 unofficial=100 science=7 games=7 unstable=7 glibc=3 x11=71 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-28 10:30:07 RANDOM
 
 + random-check selected=5 of total=363
