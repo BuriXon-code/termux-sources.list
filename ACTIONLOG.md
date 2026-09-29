@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-09-29 10:30:04 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main
+		deb https://mirrors.saswata.cc/termux/termux-main stable main
+		deb https://mirror.bardia.tech/termux/termux-root root stable
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-glibc glibc stable
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main stable main
+
++ write : all=259 official=156 unofficial=100 science=7 games=7 unstable=7 glibc=3 x11=71 root=70 mode=random
+
++ commit
+
+
 ## 2026-09-29 10:00:03 RANDOM
 
 + random-check selected=5 of total=363
