@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-01 19:30:08 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://easycli.sh/termux/termux-x11 x11 main
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-x11 x11 main
+		deb https://mirrors.sustech.edu.cn/termux/game-packages-24 games stable
+		deb https://cdn.lumito.net/termux/termux-root root stable
+		deb https://javinator9889.com/termux-root root stable
+
++ write : all=250 official=151 unofficial=96 science=7 games=7 unstable=7 glibc=3 x11=67 root=67 mode=random
+
++ commit
+
+
 ## 2026-10-01 19:00:03 RANDOM
 
 + random-check selected=5 of total=363
