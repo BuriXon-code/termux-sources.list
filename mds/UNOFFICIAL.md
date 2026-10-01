@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 99
+Total: 98
 
 - `deb https://mirror.kairun.jp/termux/termux-main stable main`
 - `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
@@ -30,7 +30,6 @@ Total: 99
 - `deb https://mirror.diyarciftci.xyz/termux/termux-main stable main`
 - `deb https://mirror.diyarciftci.xyz/termux/termux-main-21 stable main`
 - `deb https://mirror.diyarciftci.xyz/termux/termux-root root stable`
-- `deb https://mirror.diyarciftci.xyz/termux/termux-x11 x11 main`
 - `deb https://mirror.rabisu.com/mirrors/termux/apt/termux-main stable main`
 - `deb https://mirror.rabisu.com/mirrors/termux/apt/termux-root root stable`
 - `deb https://mirror.rabisu.com/mirrors/termux/apt/termux-x11 x11 main`
