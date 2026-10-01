@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-01 17:30:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.hiesoft.net/termux/termux-root root stable
+		deb https://mirrors.sustech.edu.cn/termux/apt/termux-games games stable
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://termux.3san.dev/termux/termux-root root stable
+		deb https://mirrors.sustech.edu.cn/termux/game-packages-24 games stable
+
++ write : all=249 official=150 unofficial=96 science=7 games=7 unstable=7 glibc=3 x11=67 root=67 mode=random
+
++ commit
+
+
 ## 2026-10-01 17:00:04 RANDOM
 
 + random-check selected=5 of total=363
