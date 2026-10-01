@@ -1,6 +1,6 @@
 # Termux:Root mirrors
 
-Total: 68
+Total: 67
 
 - `deb https://packages.termux.dev/apt/termux-root root stable`
 - `deb https://packages-cf.termux.dev/apt/termux-root root stable`
@@ -66,7 +66,6 @@ Total: 68
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-root root stable`
-- `deb https://linux.domainesia.com/applications/termux/termux-root root stable`
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-root root stable`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable`
 - `deb https://mirror.ordunet.ge/termux/termux-root root stable`
