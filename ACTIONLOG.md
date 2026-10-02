@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-02 11:30:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://termux.nibbles.dogpoo.club/termux-root root stable
+		deb https://termux.mentality.rip/termux-x11 x11 main
+		deb https://mirrors.sau.edu.cn/termux/apt/termux-main stable main
+		deb https://packages.termux.dev/apt/termux-glibc glibc main
+		deb https://mirrors.utermux.dev/termux/termux-main stable main
+
++ write : all=252 official=153 unofficial=96 science=7 games=7 unstable=7 glibc=3 x11=69 root=67 mode=random
+
++ commit
+
+
 ## 2026-10-02 11:00:13 RANDOM
 
 + random-check selected=5 of total=363
