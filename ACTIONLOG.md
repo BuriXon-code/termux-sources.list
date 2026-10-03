@@ -13,6 +13,74 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-03 22:00:04 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirrors.cfe.re/termux/termux-x11 x11 main
+		deb https://mirror.rinarin.dev/termux/termux-main-21 stable main
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-science science main
+		deb https://termux.danyael.xyz/termux/termux-x11 x11 main
+
++ write : all=252 official=153 unofficial=96 science=7 games=7 unstable=7 glibc=3 x11=69 root=67 mode=random
+
++ commit
+
+
+## 2026-10-03 21:30:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable
+		deb https://mirrors.rda.run/termux/termux-main stable main
+		deb https://grimler.se/termux/termux-main-21 stable main
+		deb https://mirror.quantum5.ca/termux/termux-x11 x11 main
+		deb https://mirror.nag.albony.in/termux/termux-root root stable
+
++ write : all=252 official=153 unofficial=96 science=7 games=7 unstable=7 glibc=3 x11=69 root=67 mode=random
+
++ commit
+
+
+## 2026-10-03 21:00:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.textcord.xyz/termux/termux-root root stable
+		deb https://easycli.sh/termux/termux-main-21 stable main
+		deb https://mirrors.sustech.edu.cn/termux/science-packages-24 science stable
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-main stable main
+		deb https://mirror.init7.net/termux/termux-root root stable
+
++ write : all=252 official=153 unofficial=96 science=7 games=7 unstable=7 glibc=3 x11=69 root=67 mode=random
+
++ commit
+
+
+## 2026-10-03 20:30:04 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirror.sng.sg/termux stable main
+		deb https://cdimage.debian.org/mirror/termux.dev/termux-main-21 stable main
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-main stable main
+		deb https://mirror.kairun.jp/termux/termux-root root stable
+		deb https://mirror.textcord.xyz/termux/termux-x11 x11 main
+
++ write : all=252 official=153 unofficial=96 science=7 games=7 unstable=7 glibc=3 x11=69 root=67 mode=random
+
++ commit
+
+
 ## 2026-10-03 20:05:00 PUSH
 
 + push
