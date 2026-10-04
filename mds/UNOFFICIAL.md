@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 96
+Total: 95
 
 - `deb https://mirror.kairun.jp/termux/termux-main stable main`
 - `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
@@ -62,7 +62,6 @@ Total: 96
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main`
-- `deb https://mirrors.sustech.edu.cn/termux/apt/termux-science science stable`
 - `deb https://mirrors.sustech.edu.cn/termux/apt/termux-games games stable`
 - `deb https://mirrors.sustech.edu.cn/termux/apt/termux-unstable unstable main`
 - `deb https://mirrors.sustech.edu.cn/termux/termux-packages-24 stable main`
