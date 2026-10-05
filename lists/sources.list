@@ -248,3 +248,4 @@ deb https://termux.3san.dev/termux/termux-main stable main
 deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main stable main
 deb https://repository.su/termux/termux-x11 x11 main
 deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable
+deb https://mirrors.sustech.edu.cn/termux/apt/termux-science science stable
