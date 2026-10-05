@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-05 12:00:03 RANDOM
+
++ random-check selected=5 of total=363
+
++ URLs:
+
+		deb https://mirrors.utermux.dev/termux/termux-root root stable
+		deb https://termux.nibbles.dogpoo.club/termux-root root stable
+		deb https://mirror.rabisu.com/mirrors/termux/science-packages-24 science main
+		deb https://mirrors.sdu.edu.cn/termux/termux-root root stable
+		deb https://mirrors.zju.edu.cn/termux/apt/termux-main stable main
+
++ write : all=249 official=151 unofficial=95 science=6 games=7 unstable=7 glibc=3 x11=70 root=65 mode=random
+
++ commit
+
+
 ## 2026-10-05 11:30:07 RANDOM
 
 + random-check selected=5 of total=363
