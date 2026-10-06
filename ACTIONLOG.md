@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-06 17:00:04 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://cdn.lumito.net/termux/termux-main stable main
+		deb https://termux.cdn.lumito.net/termux-main stable main
+		deb https://mirrors.rda.run/termux/termux-main stable main
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-science science main
+		deb https://mirror.nag.albony.in/termux/termux-x11 x11 main
+
++ write : all=241 official=151 unofficial=90 science=7 games=7 unstable=7 glibc=3 x11=65 root=68 mode=random
+
++ commit
+
+
 ## 2026-10-06 15:59:04 FULL
 
 + full-check total=364
