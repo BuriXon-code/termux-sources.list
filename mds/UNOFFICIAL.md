@@ -1,18 +1,19 @@
 # Unofficial mirrors
 
-Total: 96
+Total: 90
 
-- `deb https://mirror.kairun.jp/termux/termux-main stable main`
-- `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
+- `deb https://mirror.fouadd.dev/termux stable main`
+- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-root root stable`
+- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main`
+- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-glibc glibc stable`
+- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-unstable unstable main`
+- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-science science main`
 - `deb https://mirror.kairun.jp/termux/termux-root root stable`
 - `deb https://mirror.kairun.jp/termux/termux-x11 x11 main`
 - `deb https://mirror.hiesoft.net/termux/termux-main stable main`
 - `deb https://mirror.hiesoft.net/termux/termux-main-21 stable main`
 - `deb https://mirror.hiesoft.net/termux/termux-root root stable`
 - `deb https://mirror.hiesoft.net/termux/termux-x11 x11 main`
-- `deb https://apps.fgs.cl/termux/termux-main stable main`
-- `deb https://apps.fgs.cl/termux/termux-root root stable`
-- `deb https://apps.fgs.cl/termux/termux-x11 x11 main`
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-main stable main`
 - `deb https://cdimage.debian.org/mirror/termux.dev/termux-main-21 stable main`
 - `deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable`
@@ -20,13 +21,13 @@ Total: 96
 - `deb https://termux.danyael.xyz/termux/termux-main-21 stable main`
 - `deb https://mirror.ordunet.ge/termux/termux-main-21 stable main`
 - `deb https://mirror.ordunet.ge/termux/termux-main stable main`
+- `deb https://mirror.ordunet.ge/termux/termux-root root stable`
 - `deb https://mirror.ordunet.ge/termux/termux-x11 x11 main`
 - `deb https://mirror.sd6server.xyz/termux-main stable main`
 - `deb https://mirror.ufscar.br/termux/termux-main stable main`
 - `deb https://mirror.ufscar.br/termux/termux-main-21 stable main`
 - `deb https://mirror.ufscar.br/termux/termux-root root stable`
 - `deb https://mirror.ufscar.br/termux/termux-x11 x11 main`
-- `deb https://mirror.diyarciftci.xyz/termux/termux-main-21 stable main`
 - `deb https://mirror.rabisu.com/mirrors/termux/apt/termux-main stable main`
 - `deb https://mirror.rabisu.com/mirrors/termux/apt/termux-root root stable`
 - `deb https://mirror.rabisu.com/mirrors/termux/apt/termux-x11 x11 main`
@@ -48,8 +49,8 @@ Total: 96
 - `deb https://ftp.agdsn.de/termux/termux-main-21 stable main`
 - `deb https://ftp.fau.de/termux/termux-main-21 stable main`
 - `deb https://is.mirror.flokinet.net/termux/termux-main-21 stable main`
+- `deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main`
 - `deb https://mirror.accum.se/mirror/termux.dev/termux-main-21 stable main`
-- `deb https://mirror.autkin.net/termux/termux-main-21 stable main`
 - `deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main`
 - `deb https://mirror.bgp.rodeo/termux/termux-main stable main`
 - `deb https://mirror.bgp.rodeo/termux/termux-main-21 stable main`
@@ -61,12 +62,14 @@ Total: 96
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable`
 - `deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main`
+- `deb https://mirrors.sustech.edu.cn/termux/apt/termux-science science stable`
 - `deb https://mirrors.sustech.edu.cn/termux/apt/termux-games games stable`
 - `deb https://mirrors.sustech.edu.cn/termux/apt/termux-unstable unstable main`
 - `deb https://mirrors.sustech.edu.cn/termux/termux-packages-24 stable main`
 - `deb https://mirrors.sustech.edu.cn/termux/science-packages-24 science stable`
 - `deb https://mirrors.sustech.edu.cn/termux/game-packages-24 games stable`
 - `deb https://mirrors.sustech.edu.cn/termux/unstable-packages unstable main`
+- `deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable`
 - `deb https://mirrors.sustech.edu.cn/termux/x11-packages x11 main`
 - `deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable`
 - `deb https://packages.termux.dev/apt/termux-main-21 stable main`
@@ -79,22 +82,13 @@ Total: 96
 - `deb https://termux.librehat.com/apt/termux-unstable unstable main`
 - `deb https://mirror.rinarin.dev/termux/termux-main-21 stable main`
 - `deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking`
+- `deb https://mirrors.de.sahilister.net/termux/termux-main stable main`
+- `deb https://mirrors.de.sahilister.net/termux/termux-root root stable`
+- `deb https://mirrors.de.sahilister.net/termux/termux-x11 x11 main`
 - `deb https://mirrors.ustc.edu.cn/termux/termux-main-21 stable main`
+- `deb https://mirrors.ocf.berkeley.edu/termux/termux-main stable main`
 - `deb https://mirrors.ocf.berkeley.edu/termux/termux-root root stable`
+- `deb https://mirrors.ocf.berkeley.edu/termux/termux-x11 x11 stable`
 - `deb https://mirror.init7.net/termux/termux-main stable main`
 - `deb https://mirror.init7.net/termux/termux-root root stable`
 - `deb https://mirror.init7.net/termux/termux-x11 x11 main`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-glibc glibc stable`
-- `deb https://mirrors.ocf.berkeley.edu/termux/termux-main stable main`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main-21 stable main`
-- `deb https://mirrors.ocf.berkeley.edu/termux/termux-x11 x11 stable`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-science science main`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-x11 x11 main`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-root root stable`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-unstable unstable main`
-- `deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main`
-- `deb https://mirror.ordunet.ge/termux/termux-root root stable`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main stable main`
-- `deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable`
-- `deb https://mirrors.sustech.edu.cn/termux/apt/termux-science science stable`

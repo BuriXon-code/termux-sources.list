@@ -2,6 +2,6 @@
 
 Total: 3
 
+- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-glibc glibc stable`
 - `deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable`
 - `deb https://packages.termux.dev/apt/termux-glibc glibc main`
-- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-glibc glibc stable`
