@@ -48,7 +48,6 @@ deb https://mirror.hiesoft.net/termux/termux-x11 x11 main
 deb https://apps.fgs.cl/termux/termux-x11 x11 main
 deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-x11 x11 main
 deb https://mirror.ordunet.ge/termux/termux-x11 x11 main
-deb https://mirror.sd6server.xyz/termux-x11 x11 main
 deb https://mirror.ufscar.br/termux/termux-x11 x11 main
 deb https://mirror.rabisu.com/mirrors/termux/apt/termux-x11 x11 main
 deb https://mirror.rabisu.com/mirrors/termux/x11-packages x11 main
