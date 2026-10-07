@@ -92,3 +92,4 @@ deb https://apps.fgs.cl/termux/termux-main stable main
 deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main-21 stable main
 deb https://mirror.kairun.jp/termux/termux-main-21 stable main
 deb https://apps.fgs.cl/termux/termux-root root stable
+deb https://mirror.kairun.jp/termux/termux-main stable main

@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 94
+Total: 95
 
 - `deb https://mirror.fouadd.dev/termux stable main`
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-root root stable`
@@ -96,3 +96,4 @@ Total: 94
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main-21 stable main`
 - `deb https://mirror.kairun.jp/termux/termux-main-21 stable main`
 - `deb https://apps.fgs.cl/termux/termux-root root stable`
+- `deb https://mirror.kairun.jp/termux/termux-main stable main`
