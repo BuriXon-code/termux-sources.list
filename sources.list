@@ -243,3 +243,4 @@ deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main-21 sta
 deb https://mirror.kairun.jp/termux/termux-main-21 stable main
 deb https://apps.fgs.cl/termux/termux-root root stable
 deb https://mirror.kairun.jp/termux/termux-main stable main
+deb https://termux.niranjan.co/termux-x11 x11 main
