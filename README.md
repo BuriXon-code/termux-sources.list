@@ -52,8 +52,8 @@ apt update
 <!-- START-COUNT-HERE -->  
 ## Mirror Count
 
-- All mirrors: 247
-- Official mirrors: 151
+- All mirrors: 248
+- Official mirrors: 152
 - Unofficial mirrors: 96
 - Science mirrors: 7
 - Games mirrors: 7
@@ -103,7 +103,7 @@ apt update
 - [ACTIONLOG.md](./ACTIONLOG.md) - Change/check history log
 - [CHECKLOG.md](./CHECKLOG.md) - Check log
 
-Last updated: 2026-10-09 00:00:51
+Last updated: 2026-10-09 00:31:38
 <!-- STOP-COUNT-HERE -->
 
 If you run/have your own mirror/repository and would like to be on this list, please make a PR by signing up to unofficial.list or write to me: **support@burixon.dev**  
