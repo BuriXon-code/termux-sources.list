@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-08 18:30:04 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://termux.danyael.xyz/termux/termux-main-21 stable main
+		deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+		deb https://termux.librehat.com/apt/termux-science science stable
+		deb http://mirror.mephi.ru/termux/termux-x11 x11 main
+		deb https://termux.librehat.com/apt/termux-main stable main
+
++ write : all=245 official=150 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=64 root=69 mode=random
+
++ commit
+
+
 ## 2026-10-08 18:00:03 RANDOM
 
 + random-check selected=5 of total=364
