@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-08 11:30:03 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main
+		deb https://termux.nibbles.dogpoo.club/termux-main stable main
+		deb https://javinator9889.com/termux-x11 x11 main
+		deb https://mirror.iscas.ac.cn/termux/apt/termux-x11 x11 main
+		deb https://mirror.meowsmp.net/termux/termux-root root stable
+
++ write : all=247 official=152 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=65 root=69 mode=random
+
++ commit
+
+
 ## 2026-10-08 11:00:08 RANDOM
 
 + random-check selected=5 of total=364
