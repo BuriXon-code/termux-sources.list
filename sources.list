@@ -246,3 +246,4 @@ deb https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 main
 deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-x11 x11 main
 deb https://mirror.autkin.net/termux/termux-main-21 stable main
 deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main
+deb https://mirror.autkin.net/termux/termux-main stable main
