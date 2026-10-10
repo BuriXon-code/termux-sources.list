@@ -252,3 +252,4 @@ deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
 deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
 deb https://apps.fgs.cl/termux/termux-x11 x11 main
 deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main stable main
+deb http://mirror.mephi.ru/termux/termux-main stable main
