@@ -1,8 +1,7 @@
 # Unofficial mirrors
 
-Total: 99
+Total: 98
 
-- `deb https://mirror.fouadd.dev/termux stable main`
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-root root stable`
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main`
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-glibc glibc stable`
