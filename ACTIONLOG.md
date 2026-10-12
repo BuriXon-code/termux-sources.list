@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-12 14:30:04 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirror.mwt.me/termux/root root stable
+		deb https://packages.nscdn.top/termux-root root stable
+		deb https://mirror.autkin.net/termux/termux-root root stable
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-science science main
+		deb https://mirror.whiterosetech.org/termux-main stable main
+
++ write : all=256 official=158 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=69 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-12 14:00:07 RANDOM
 
 + random-check selected=5 of total=364
