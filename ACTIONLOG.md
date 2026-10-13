@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-13 14:30:07 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://ftp.fau.de/termux/termux-root root stable
+		deb https://md.mirrors.hacktegic.com/termux/termux-main-21 stable main
+		deb https://mirror.mwt.me/termux/root root stable
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main
+		deb https://packages.termux.dev/apt/termux-main-21 stable main
+
++ write : all=258 official=160 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=70 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-13 14:00:07 RANDOM
 
 + random-check selected=5 of total=364
