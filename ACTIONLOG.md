@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-16 18:00:02 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirror.rinarin.dev/termux/termux-main stable main
+		deb https://nl.mirror.flokinet.net/termux/termux-main stable main
+		deb https://mirrors.wale.id.au/termux/termux-main stable main
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main stable main
+		deb https://mirror.vern.cc/termux/termux-main stable main
+
++ write : all=259 official=160 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-16 17:30:04 RANDOM
 
 + random-check selected=5 of total=364
