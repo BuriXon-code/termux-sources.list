@@ -69,3 +69,4 @@ deb http://mirror.mephi.ru/termux/termux-root root stable
 deb https://mirror.nyist.edu.cn/termux/apt/termux-root root stable
 deb https://mirror.leitecastro.com/termux/termux-root root stable
 deb https://mirrors.aliyun.com/termux/termux-root root stable
+deb https://mirror.freedif.org/termux/termux-root root stable
