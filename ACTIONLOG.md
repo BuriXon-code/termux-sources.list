@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-18 07:00:07 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirrors.sustech.edu.cn/termux/apt/termux-science science stable
+		deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-unstable unstable main
+		deb http://mirror.yandex.ru/mirrors/termux stable main
+		deb https://mirror.rabisu.com/mirrors/termux/unstable-packages unstable main
+
++ write : all=263 official=164 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=72 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-18 06:30:07 RANDOM
 
 + random-check selected=5 of total=364
