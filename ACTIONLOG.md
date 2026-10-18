@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-18 07:30:07 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirror.fouadd.dev/termux stable main
+		deb http://mirror.mephi.ru/termux/termux-root root stable
+		deb https://termux.danyael.xyz/termux/termux-root root stable
+		deb https://mirror.rabisu.com/mirrors/termux/game-packages-24 games main
+		deb https://mirrors.rda.run/termux/termux-main stable main
+
++ write : all=263 official=164 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=72 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-18 07:00:07 RANDOM
 
 + random-check selected=5 of total=364
