@@ -13,6 +13,142 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-20 04:00:06 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirrors.middlendian.com/termux/termux-x11 x11 main
+		deb https://packages.termux.dev/apt/termux-main-21 stable main
+		deb https://packages.termux.dev/apt/termux-unstable unstable main
+		deb https://md.mirrors.hacktegic.com/termux/termux-x11 x11 main
+		deb https://grimler.se/termux/termux-x11 x11 main
+
++ write : all=260 official=163 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
+## 2026-10-20 03:30:03 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirror.nju.edu.cn/termux/apt/termux-x11 x11 main
+		deb https://mirrors.ravidwivedi.in/termux/termux-main stable main
+		deb https://mirror.aarnet.edu.au/pub/termux stable main
+		deb https://grimler.se/termux/termux-x11 x11 main
+		deb https://linux.domainesia.com/applications/termux/termux-root root stable
+
++ write : all=260 official=163 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
+## 2026-10-20 03:00:03 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirror.bgp.rodeo/termux/termux-x11 x11 main
+		deb https://mirror.quantum5.ca/termux/termux-main stable main
+		deb https://ftp.fau.de/termux/termux-main stable main
+		deb https://mirror.jeonnam.school/termux/termux-main stable main
+		deb https://mirrors.saswata.cc/termux/termux-root root stable
+
++ write : all=260 official=163 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
+## 2026-10-20 02:30:02 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://packages.termux.dev/apt/termux-glibc glibc main
+		deb https://tmx.xvx.my.id/apt/termux-root root stable
+		deb https://mirror.vern.cc/termux/termux-root root stable
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-main-21 stable main
+		deb https://mirrors.sau.edu.cn/termux/apt/termux-main stable main
+
++ write : all=260 official=163 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
+## 2026-10-20 02:00:02 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirrors.pku.edu.cn/termux/termux-root root stable
+		deb https://termux.cdn.lumito.net/termux-root root stable
+		deb https://termux.mentality.rip/termux-main stable main
+		deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+		deb https://nl.mirror.flokinet.net/termux/termux-x11 x11 main
+
++ write : all=260 official=163 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
+## 2026-10-20 01:30:03 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://mirror.ordunet.ge/termux/termux-main-21 stable main
+		deb https://mirrors.cfe.re/termux/termux-x11 x11 main
+		deb https://mirrors.ustc.edu.cn/termux/termux-main stable main
+		deb https://mirror.jeonnam.school/termux/termux-x11 x11 main
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-x11 x11 main
+
++ write : all=260 official=163 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
+## 2026-10-20 01:00:03 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+		deb https://termux.nibbles.dogpoo.club/termux-main stable main
+		deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main
+		deb https://termux.librehat.com/apt/termux-science science stable
+		deb https://mirror.rabisu.com/mirrors/termux/game-packages-24 games main
+
++ write : all=260 official=163 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
+## 2026-10-20 00:30:03 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://cdn.lumito.net/termux/termux-main stable main
+		deb https://mirrors.zju.edu.cn/termux/apt/termux-main stable main
+		deb https://mirror.cutie.dating/termux/termux-x11 x11 main
+		deb https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 main
+		deb https://ro.mirror.flokinet.net/termux/termux-root root stable
+
++ write : all=260 official=163 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-20 00:05:00 PUSH
 
 + push
