@@ -199,7 +199,6 @@ deb https://mirrors.sustech.edu.cn/termux/termux-packages-24 stable main
 deb https://mirrors.sustech.edu.cn/termux/science-packages-24 science stable
 deb https://mirrors.sustech.edu.cn/termux/game-packages-24 games stable
 deb https://mirrors.sustech.edu.cn/termux/unstable-packages unstable main
-deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable
 deb https://mirrors.sustech.edu.cn/termux/x11-packages x11 main
 deb https://packages-cf.termux.dev/apt/termux-glibc glibc stable
 deb https://packages.termux.dev/apt/termux-main-21 stable main
@@ -249,7 +248,6 @@ deb https://mirror.leitecastro.com/termux/termux-root root stable
 deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main
 deb https://mirror.fouadd.dev/termux stable main
 deb https://mirrors.aliyun.com/termux/termux-root root stable
-deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
 deb https://mirror.freedif.org/termux/termux-root root stable
 deb https://mirror.rinarin.dev/termux/termux-main stable main
 deb https://grimler.se/termux/termux-main stable main
