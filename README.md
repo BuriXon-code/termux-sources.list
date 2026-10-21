@@ -7,6 +7,9 @@ File include **main**, **stable**, **x11** and **root** repositories.
 I regularly check the availability of new repositories and mirrors and check the availability/activity of those already in the file.
 
 > [!WARNING]
+> I'm located in Europe and perform scans and updates from here. If I have a poor connection to servers, for example, in Asia, I may miss some repositories.
+
+> [!WARNING]
 > Fetching of available repositories is handled by an automated script that does it without my intervention (including committing this repository).
 > 
 > It may happen that the information contained here is outdated (no internet connection, time differences between scanning and commit, etc.)
