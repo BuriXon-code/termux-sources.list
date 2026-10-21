@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-21 18:00:08 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://ftp.agdsn.de/termux/termux-root root stable
+		deb https://mirrors.ustc.edu.cn/termux/termux-root root stable
+		deb https://mirror.init7.net/termux/termux-x11 x11 main
+		deb https://mirror.ordunet.ge/termux/termux-main-21 stable main
+		deb https://mirror.nevacloud.com/applications/termux/root root stable
+
++ write : all=256 official=160 unofficial=93 science=7 games=7 unstable=7 glibc=3 x11=71 root=70 mode=random
+
++ commit
+
+
 ## 2026-10-21 17:30:04 RANDOM
 
 + random-check selected=5 of total=368
