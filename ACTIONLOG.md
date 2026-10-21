@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-21 16:00:03 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://md.mirrors.hacktegic.com/termux/termux-main-21 stable main
+		deb https://mirrors.middlendian.com/termux/termux-root root stable
+		deb https://grimler.se/termux/termux-x11 x11 main
+		deb https://mirror.ordunet.ge/termux/termux-main-21 stable main
+		deb https://mirror.kairun.jp/termux/termux-main stable main
+
++ write : all=255 official=159 unofficial=93 science=7 games=7 unstable=7 glibc=3 x11=70 root=70 mode=random
+
++ commit
+
+
 ## 2026-10-21 15:30:05 RANDOM
 
 + random-check selected=5 of total=364
