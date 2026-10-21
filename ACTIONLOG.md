@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-21 02:00:04 RANDOM
+
++ random-check selected=5 of total=364
+
++ URLs:
+
+		deb https://is.mirror.flokinet.net/termux/termux-main-21 stable main
+		deb https://is.mirror.flokinet.net/termux/termux-root root stable
+		deb https://mirror.freedif.org/termux/termux-root root stable
+		deb https://mirror.rabisu.com/mirrors/termux/termux-packages-24 stable main
+		deb https://gnlug.org/pub/termux/termux-root root stable
+
++ write : all=256 official=160 unofficial=93 science=7 games=7 unstable=7 glibc=3 x11=70 root=70 mode=random
+
++ commit
+
+
 ## 2026-10-21 01:30:02 RANDOM
 
 + random-check selected=5 of total=364
