@@ -27,7 +27,6 @@ deb https://mirrors.ustc.edu.cn/termux/termux-root root stable
 deb https://mirrors.zju.edu.cn/termux/apt/termux-root root stable
 deb https://ftp.agdsn.de/termux/termux-root root stable
 deb https://ftp.fau.de/termux/termux-root root stable
-deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable
 deb https://grimler.se/termux/termux-root root stable
 deb https://is.mirror.flokinet.net/termux/termux-root root stable
 deb https://mirror.accum.se/mirror/termux.dev/termux-root root stable
