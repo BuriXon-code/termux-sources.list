@@ -254,5 +254,4 @@ deb https://mirror.kairun.jp/termux/termux-main stable main
 deb https://mirrors.aliyun.com/termux/termux-x11 x11 main
 deb http://mirrors.qlu.edu.cn/termux/termux-main stable main
 deb https://mirrors.sustech.edu.cn/termux/termux-root-packages-24 root stable
-deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
 deb https://mirror.kairun.jp/termux/termux-x11 x11 main
