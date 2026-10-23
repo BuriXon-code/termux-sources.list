@@ -1,10 +1,9 @@
 # Termux:Root mirrors
 
-Total: 70
+Total: 69
 
 - `deb https://packages.termux.dev/apt/termux-root root stable`
 - `deb https://packages-cf.termux.dev/apt/termux-root root stable`
-- `deb https://linux.domainesia.com/applications/termux/termux-root root stable`
 - `deb https://mirror.jeonnam.school/termux/termux-root root stable`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-root root stable`
 - `deb https://mirror.rinarin.dev/termux/termux-root root stable`
