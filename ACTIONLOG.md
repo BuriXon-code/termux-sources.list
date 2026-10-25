@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-25 12:30:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.sunred.org/termux/termux-main stable main
+		deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+		deb https://cdn.lumito.net/termux/termux-x11 x11 main
+		deb https://grimler.se/termux/termux-main-21 stable main
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-unstable unstable main
+
++ write : all=260 official=160 unofficial=97 science=7 games=7 unstable=7 glibc=3 x11=70 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-25 12:05:01 PUSH
 
 + push
