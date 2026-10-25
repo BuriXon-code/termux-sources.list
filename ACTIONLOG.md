@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-25 05:00:07 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.fcix.net/termux/termux-main stable main
+		deb https://mirror.quantum5.ca/termux/termux-x11 x11 main
+		deb https://javinator9889.com/termux-main stable main
+		deb https://packages-cf.termux.dev/apt/termux-root root stable
+		deb https://mirrors.saswata.cc/termux/termux-main stable main
+
++ write : all=260 official=160 unofficial=97 science=7 games=7 unstable=7 glibc=3 x11=70 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-25 04:30:06 RANDOM
 
 + random-check selected=5 of total=368
