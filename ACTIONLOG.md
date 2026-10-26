@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-26 17:00:02 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirrors.in.sahilister.net/termux/termux-root root stable
+		deb https://mirror.textcord.xyz/termux/termux-x11 x11 main
+		deb https://apps.fgs.cl/termux/termux-main stable main
+		deb https://mirror.freedif.org/termux/termux-x11 x11 main
+		deb https://termux.nibbles.dogpoo.club/termux-root root stable
+
++ write : all=260 official=161 unofficial=96 science=7 games=7 unstable=7 glibc=3 x11=70 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-26 16:30:04 RANDOM
 
 + random-check selected=5 of total=368
