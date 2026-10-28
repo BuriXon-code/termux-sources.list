@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-28 05:00:06 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://tmx.xvx.my.id/apt/termux-main stable main
+		deb https://mirror.hiesoft.net/termux/termux-main stable main
+		deb https://mirror.ufscar.br/termux/termux-main stable main
+		deb https://termux.3san.dev/termux/termux-main stable main
+		deb https://mirror.bgp.rodeo/termux/termux-x11 x11 main
+
++ write : all=261 official=161 unofficial=97 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-28 04:30:07 RANDOM
 
 + random-check selected=5 of total=368
