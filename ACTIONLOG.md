@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-28 02:30:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable
+		deb https://mirrors.utermux.dev/termux/termux-main stable main
+		deb https://mirror.bardia.tech/termux/termux-x11 x11 main
+		deb https://termux.3san.dev/termux/termux-main stable main
+		deb https://mirror.rinarin.dev/termux/termux-main stable main
+
++ write : all=262 official=162 unofficial=97 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
 ## 2026-10-28 02:00:03 RANDOM
 
 + random-check selected=5 of total=368
