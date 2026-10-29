@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-29 17:00:02 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb http://mirrors.qlu.edu.cn/termux/termux-root root stable
+		deb https://apps.fgs.cl/termux/termux-x11 x11 main
+		deb https://mirror.init7.net/termux/termux-root root stable
+		deb https://mirrors.saswata.cc/termux/termux-x11 x11 main
+		deb https://mirror.sd6server.xyz/termux-root root stable
+
++ write : all=265 official=163 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=72 root=73 mode=random
+
++ commit
+
+
 ## 2026-10-29 16:30:05 RANDOM
 
 + random-check selected=5 of total=368
