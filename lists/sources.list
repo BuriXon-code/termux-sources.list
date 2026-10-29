@@ -262,3 +262,4 @@ deb http://mirrors.qlu.edu.cn/termux/termux-x11 x11 main
 deb https://linux.domainesia.com/applications/termux/termux-root root stable
 deb https://mirrors.hust.edu.cn/termux/apt/termux-main stable main
 deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking
+deb https://mirror.rinarin.dev/termux/termux-x11 x11 main
