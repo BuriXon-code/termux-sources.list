@@ -95,3 +95,4 @@ deb http://mirrors.qlu.edu.cn/termux/termux-main-21 stable main
 deb http://mirrors.qlu.edu.cn/termux/termux-root root stable
 deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
 deb https://mirror.fouadd.dev/termux stable main
+deb http://mirrors.qlu.edu.cn/termux/termux-x11 x11 main
