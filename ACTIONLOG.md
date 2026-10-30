@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-30 20:30:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://apps.fgs.cl/termux/termux-root root stable
+		deb https://javinator9889.com/termux-root root stable
+		deb http://mirror.yandex.ru/mirrors/termux stable main
+		deb https://packages.termux.dev/apt/termux-games games main
+		deb https://mirrors.hust.edu.cn/termux/apt/termux-root root stable
+
++ write : all=261 official=159 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=72 root=71 mode=random
+
++ commit
+
+
 ## 2026-10-30 20:05:00 PUSH
 
 + push
