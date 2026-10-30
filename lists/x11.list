@@ -69,3 +69,4 @@ deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main
 deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
 deb http://mirrors.qlu.edu.cn/termux/termux-x11 x11 main
 deb https://mirror.rinarin.dev/termux/termux-x11 x11 main
+deb https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 main
