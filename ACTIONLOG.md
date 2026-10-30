@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-30 07:30:07 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.hiesoft.net/termux/termux-main-21 stable main
+		deb https://nl.mirror.flokinet.net/termux/termux-main stable main
+		deb https://mirrors.cbrx.io/apt/termux/termux-main stable main
+		deb https://ro.mirror.flokinet.net/termux/termux-main stable main
+		deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main
+
++ write : all=264 official=162 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=72 root=73 mode=random
+
++ commit
+
+
 ## 2026-10-30 07:00:07 RANDOM
 
 + random-check selected=5 of total=368
