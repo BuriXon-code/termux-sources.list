@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-10-31 10:30:06 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://is.mirror.flokinet.net/termux/termux-main stable main
+		deb https://mirrors.wale.id.au/termux/termux-x11 x11 main
+		deb https://mirror.twds.com.tw/termux/termux-x11 x11 main
+		deb https://mirrors.medzik.dev/termux/termux-root root stable
+		deb https://mirrors.in.sahilister.net/termux/termux-x11 x11 main
+
++ write : all=258 official=156 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=71 root=70 mode=random
+
++ commit
+
+
 ## 2026-10-31 10:00:06 RANDOM
 
 + random-check selected=5 of total=368
