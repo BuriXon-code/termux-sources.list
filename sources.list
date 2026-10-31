@@ -257,3 +257,4 @@ deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-
 deb https://mirror.rinarin.dev/termux/termux-x11 x11 main
 deb https://tmx.xvx.my.id/apt/termux-main stable main
 deb https://mirror.nyist.edu.cn/termux/apt/termux-x11 x11 main
+deb https://mirrors.krnk.org/apt/termux/termux-root root stable

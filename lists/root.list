@@ -68,3 +68,4 @@ deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable
 deb http://mirrors.qlu.edu.cn/termux/termux-root root stable
 deb https://mirrors.cbrx.io/apt/termux/termux-root root stable
 deb https://linux.domainesia.com/applications/termux/termux-root root stable
+deb https://mirrors.krnk.org/apt/termux/termux-root root stable
