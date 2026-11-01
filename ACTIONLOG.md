@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-01 15:30:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.hiesoft.net/termux/termux-root root stable
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.twds.com.tw/termux/termux-main stable main
+		deb https://mirror.meowsmp.net/termux/termux-root root stable
+		deb https://mirrors.cqu.edu.cn/termux/termux-main stable main
+
++ write : all=258 official=157 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=70 root=71 mode=random
+
++ commit
+
+
 ## 2026-11-01 15:00:03 RANDOM
 
 + random-check selected=5 of total=368
