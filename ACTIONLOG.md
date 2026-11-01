@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-01 19:00:04 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.sjtu.edu.cn/termux/termux-x11 x11 main
+		deb https://mirrors.aliyun.com/termux/termux-root root stable
+		deb https://mirror.freedif.org/termux/termux-x11 x11 main
+		deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-root root stable
+		deb https://easycli.sh/termux/termux-x11 x11 main
+
++ write : all=259 official=158 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=70 root=72 mode=random
+
++ commit
+
+
 ## 2026-11-01 18:30:03 RANDOM
 
 + random-check selected=5 of total=368
