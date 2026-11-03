@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-03 03:34:19 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://javinator9889.com/termux-root root stable
+		deb https://mirrors.cqupt.edu.cn/termux/termux-root root stable
+		deb https://md.mirrors.hacktegic.com/termux/termux-root root stable
+		deb https://mirror.ordunet.ge/termux/termux-root root stable
+		deb https://mirrors.wale.id.au/termux/termux-root root stable
+
++ write : all=259 official=158 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=71 root=72 mode=random
+
++ commit
+
+
 ## 2026-11-03 03:00:13 RANDOM
 
 + random-check selected=5 of total=368
