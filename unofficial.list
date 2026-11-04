@@ -41,7 +41,6 @@ deb https://ftp.fau.de/termux/termux-main-21 stable main
 deb https://is.mirror.flokinet.net/termux/termux-main-21 stable main
 deb https://mirror.accum.se/mirror/termux.dev/termux-main-21 stable main
 deb https://mirror.bouwhuis.network/termux/termux-main-21 stable main
-deb https://mirror.bgp.rodeo/termux/termux-main stable main
 deb https://mirror.bgp.rodeo/termux/termux-main-21 stable main
 deb https://mirror.bgp.rodeo/termux/termux-root root stable
 deb https://mirror.bgp.rodeo/termux/termux-x11 x11 main
