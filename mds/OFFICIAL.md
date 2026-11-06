@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 162
+Total: 161
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -84,7 +84,6 @@ Total: 162
 - `deb https://mirror.autkin.net/termux/termux-root root stable`
 - `deb https://mirror.bouwhuis.network/termux/termux-main stable main`
 - `deb https://mirror.bouwhuis.network/termux/termux-root root stable`
-- `deb https://mirror.bouwhuis.network/termux/termux-x11 x11 main`
 - `deb https://mirror.sunred.org/termux/termux-main stable main`
 - `deb https://mirror.sunred.org/termux/termux-root root stable`
 - `deb https://mirror.sunred.org/termux/termux-x11 x11 main`
