@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 161
+Total: 160
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -116,7 +116,6 @@ Total: 161
 - `deb https://mirror.quantum5.ca/termux/termux-x11 x11 main`
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-main stable main`
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-root root stable`
-- `deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main`
 - `deb https://termux.danyael.xyz/termux/termux-main stable main`
 - `deb https://termux.danyael.xyz/termux/termux-root root stable`
 - `deb https://termux.danyael.xyz/termux/termux-x11 x11 main`
