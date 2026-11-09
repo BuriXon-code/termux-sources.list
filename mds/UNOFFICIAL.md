@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 97
+Total: 98
 
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-root root stable`
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main`
@@ -99,3 +99,4 @@ Total: 97
 - `deb https://tur.kcubeterm.com tur-packages tur tur-on-device tur-continuous tur-multilib tur-hacking`
 - `deb https://mirror.fouadd.dev/termux stable main`
 - `deb https://mirror.bgp.rodeo/termux/termux-main stable main`
+- `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-x11 x11 main`
