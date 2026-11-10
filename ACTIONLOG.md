@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-10 19:00:02 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.rabisu.com/mirrors/termux/apt/termux-x11 x11 main
+		deb https://mirror.ordunet.ge/termux/termux-x11 x11 main
+		deb https://termux.sourceforge.io/termux-x11-24 x11 main
+		deb https://mirror.hiesoft.net/termux/termux-x11 x11 main
+		deb https://easycli.sh/termux/termux-main-21 stable main
+
++ write : all=265 official=164 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=73 root=72 mode=random
+
++ commit
+
+
 ## 2026-11-10 18:30:03 RANDOM
 
 + random-check selected=5 of total=368
