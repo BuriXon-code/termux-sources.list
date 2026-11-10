@@ -1,6 +1,6 @@
 # Official mirrors
 
-Total: 162
+Total: 163
 
 - `deb https://packages.termux.dev/apt/termux-main stable main`
 - `deb https://packages.termux.dev/apt/termux-root root stable`
@@ -164,3 +164,4 @@ Total: 162
 - `deb https://mirror.csclub.uwaterloo.ca/termux/termux-x11 x11 main`
 - `deb https://mirror.nevacloud.com/applications/termux/termux-main stable main`
 - `deb https://mirror.csclub.uwaterloo.ca/termux/termux-root root stable`
+- `deb https://mirror.nevacloud.com/applications/termux/termux-x11 x11 main`
