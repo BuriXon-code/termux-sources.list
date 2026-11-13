@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-13 22:30:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirrors.de.sahilister.net/termux/termux-root root stable
+		deb https://mirror.bgp.rodeo/termux/termux-x11 x11 main
+		deb https://termux.librehat.com/apt/termux-x11 x11 main
+		deb http://mirror.yandex.ru/mirrors/termux stable main
+		deb https://packages.termux.dev/apt/termux-unstable unstable main
+
++ write : all=262 official=160 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=72 root=71 mode=random
+
++ commit
+
+
 ## 2026-11-13 22:00:04 RANDOM
 
 + random-check selected=5 of total=368
