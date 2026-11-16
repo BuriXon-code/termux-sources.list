@@ -258,3 +258,4 @@ deb https://mirrors.krnk.org/apt/termux/termux-main stable main
 deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
 deb https://mirrors.utermux.dev/termux/termux-root root stable
 deb https://mirror.bouwhuis.network/termux/termux-x11 x11 main
+deb https://linux.domainesia.com/applications/termux/termux-root root stable
