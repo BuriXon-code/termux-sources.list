@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-17 00:30:06 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://apps.fgs.cl/termux/termux-root root stable
+		deb https://mirror.fcix.net/termux/termux-root root stable
+		deb https://mirrors.saswata.xyz/termux/termux-root root stable
+		deb https://mirrors.saswata.cc/termux/termux-root root stable
+		deb https://repository.su/termux/termux-main stable main
+
++ write : all=260 official=158 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=70 root=72 mode=random
+
++ commit
+
+
 ## 2026-11-17 00:05:01 PUSH
 
 + push
