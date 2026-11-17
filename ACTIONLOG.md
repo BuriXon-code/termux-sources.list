@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-17 09:00:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.ufscar.br/termux/termux-main stable main
+		deb https://mirror.csclub.uwaterloo.ca/termux/termux-main stable main
+		deb https://termux.mentality.rip/termux-root root stable
+		deb https://ftp.fau.de/termux/termux-main stable main
+		deb https://apps.fgs.cl/termux/termux-main stable main
+
++ write : all=261 official=159 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=70 root=73 mode=random
+
++ commit
+
+
 ## 2026-11-17 08:30:03 RANDOM
 
 + random-check selected=5 of total=368
