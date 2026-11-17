@@ -68,3 +68,4 @@ deb https://mirrors.hust.edu.cn/termux/apt/termux-x11 x11 main
 deb https://repository.su/termux/termux-x11 x11 main
 deb https://mirrors.sau.edu.cn/termux/apt/termux-x11 x11 main
 deb https://mirror.bouwhuis.network/termux/termux-x11 x11 main
+deb https://grimler.se/termux/termux-x11 x11 main
