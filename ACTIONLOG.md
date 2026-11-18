@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-18 20:00:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.nevacloud.com/applications/termux/termux-root root stable
+		deb https://mirror.twds.com.tw/termux/termux-main stable main
+		deb https://apps.fgs.cl/termux/termux-x11 x11 main
+		deb https://mirror.aarnet.edu.au/pub/termux stable main
+		deb https://md.mirrors.hacktegic.com/termux/termux-root root stable
+
++ write : all=263 official=161 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=72 root=71 mode=random
+
++ commit
+
+
 ## 2026-11-18 19:30:05 RANDOM
 
 + random-check selected=5 of total=368
