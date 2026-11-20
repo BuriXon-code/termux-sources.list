@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-20 16:00:06 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.csclub.uwaterloo.ca/termux/termux-x11 x11 main
+		deb https://mirror.vern.cc/termux/termux-root root stable
+		deb https://is.mirror.flokinet.net/termux/termux-root root stable
+		deb https://mirrors.tuna.tsinghua.edu.cn/termux/apt/termux-main stable main
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-x11 x11 main
+
++ write : all=265 official=163 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=73 root=72 mode=random
+
++ commit
+
+
 ## 2026-11-20 15:30:04 RANDOM
 
 + random-check selected=5 of total=368
