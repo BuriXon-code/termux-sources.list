@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-21 21:00:02 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://termux.mentality.rip/termux-main stable main
+		deb https://linux.domainesia.com/applications/termux/termux-main-21 stable main
+		deb https://packages.termux.dev/apt/termux-root root stable
+		deb https://cdn.lumito.net/termux/termux-root root stable
+		deb https://mirror.albony.xyz/termux/termux-main stable main
+
++ write : all=265 official=164 unofficial=98 science=7 games=7 unstable=7 glibc=3 x11=72 root=74 mode=random
+
++ commit
+
+
 ## 2026-11-21 20:30:03 RANDOM
 
 + random-check selected=5 of total=368
