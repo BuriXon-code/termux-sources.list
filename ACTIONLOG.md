@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-22 11:30:08 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirrors.krnk.org/apt/termux/termux-x11 x11 main
+		deb https://javinator9889.com/termux-root root stable
+		deb https://packages.nscdn.top/termux-x11 x11 main
+		deb https://md.mirrors.hacktegic.com/termux/termux-x11 x11 main
+		deb https://packages.termux.dev/apt/termux-science science main
+
++ write : all=266 official=164 unofficial=99 science=7 games=7 unstable=7 glibc=3 x11=72 root=74 mode=random
+
++ commit
+
+
 ## 2026-11-22 11:00:07 RANDOM
 
 + random-check selected=5 of total=368
