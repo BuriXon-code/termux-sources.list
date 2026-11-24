@@ -11,7 +11,6 @@ deb https://tmx.xvx.my.id/apt/termux-root root stable
 deb https://mirror.iscas.ac.cn/termux/apt/termux-root root stable
 deb https://mirrors.bfsu.edu.cn/termux/apt/termux-root root stable
 deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable
-deb https://mirrors.nju.edu.cn/termux/apt/termux-root root stable
 deb https://mirrors.pku.edu.cn/termux/termux-root root stable
 deb https://mirrors.sau.edu.cn/termux/apt/termux-root root stable
 deb https://mirrors.sdu.edu.cn/termux/termux-root root stable
