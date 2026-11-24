@@ -1,6 +1,6 @@
 # Unofficial mirrors
 
-Total: 99
+Total: 98
 
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-root root stable`
 - `deb https://www.gioyous.it/mirror.php/packages.termux.dev/apt/termux-games games main`
@@ -70,7 +70,6 @@ Total: 99
 - `deb https://termux.librehat.com/apt/termux-games games stable`
 - `deb https://termux.librehat.com/apt/termux-science science stable`
 - `deb https://termux.librehat.com/apt/termux-unstable unstable main`
-- `deb https://mirror.rinarin.dev/termux/termux-main-21 stable main`
 - `deb https://mirrors.de.sahilister.net/termux/termux-main stable main`
 - `deb https://mirrors.de.sahilister.net/termux/termux-root root stable`
 - `deb https://mirrors.de.sahilister.net/termux/termux-x11 x11 main`
