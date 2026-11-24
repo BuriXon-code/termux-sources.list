@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-24 12:30:07 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://termux.nibbles.dogpoo.club/termux-root root stable
+		deb https://javinator9889.com/termux-main stable main
+		deb https://mirror.ufscar.br/termux/termux-main-21 stable main
+		deb https://mirrors.wale.id.au/termux/termux-root root stable
+		deb https://mirrors.cqu.edu.cn/termux/termux-root root stable
+
++ write : all=266 official=166 unofficial=97 science=7 games=7 unstable=7 glibc=3 x11=73 root=74 mode=random
+
++ commit
+
+
 ## 2026-11-24 12:05:01 PUSH
 
 + push
