@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-25 12:30:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.bardia.tech/termux/termux-root root stable
+		deb https://easycli.sh/termux/termux-main-21 stable main
+		deb https://termux.3san.dev/termux/termux-root root stable
+		deb https://cdimage.debian.org/mirror/termux.dev/apt/termux-root root stable
+		deb https://mirror.nju.edu.cn/termux/apt/termux-root root stable
+
++ write : all=263 official=165 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=72 root=72 mode=random
+
++ commit
+
+
 ## 2026-11-25 12:05:01 PUSH
 
 + push
