@@ -69,3 +69,4 @@ deb https://mirror.sjtu.edu.cn/termux/termux-root root stable
 deb https://linux.domainesia.com/applications/termux/termux-root root stable
 deb https://mirror.leitecastro.com/termux/termux-root root stable
 deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-root root stable
+deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable

@@ -132,7 +132,6 @@ Total: 164
 - `deb https://mirrors.cernet.edu.cn/termux/apt/termux-main stable main`
 - `deb https://mirrors.aliyun.com/termux/termux-x11 x11 main`
 - `deb https://mirrors.sdu.edu.cn/termux/termux-main stable main`
-- `deb https://mirrors.sdu.edu.cn/termux/termux-x11 x11 main`
 - `deb https://plug-mirror.rcac.purdue.edu/termux/termux-x11 x11 main`
 - `deb https://linux.domainesia.com/applications/termux/termux-main stable main`
 - `deb https://linux.domainesia.com/applications/termux/termux-x11 x11 main`
@@ -166,3 +165,4 @@ Total: 164
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-main stable main`
 - `deb https://mirrors.cqupt.edu.cn/termux/termux-main stable main`
 - `deb https://ftp.icm.edu.pl/pub/Linux/dist/termux/termux-x11 x11 main`
+- `deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable`
