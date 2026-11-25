@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-25 13:00:04 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://gnlug.org/pub/termux/termux-root root stable
+		deb https://mirror.init7.net/termux/termux-root root stable
+		deb https://mirrors.rda.run/termux/termux-x11 x11 main
+		deb https://md.mirrors.hacktegic.com/termux/termux-main stable main
+		deb https://termux.danyael.xyz/termux/termux-main stable main
+
++ write : all=263 official=165 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=72 root=72 mode=random
+
++ commit
+
+
 ## 2026-11-25 12:30:03 RANDOM
 
 + random-check selected=5 of total=368
