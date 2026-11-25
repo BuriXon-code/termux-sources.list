@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-25 15:30:02 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirror.whiterosetech.org/termux-main stable main
+		deb https://mirrors.cernet.edu.cn/termux/apt/termux-root root stable
+		deb https://mirror.nyist.edu.cn/termux/apt/termux-root root stable
+		deb https://packages.termux.dev/apt/termux-root root stable
+		deb https://mirrors.wale.id.au/termux/termux-root root stable
+
++ write : all=263 official=165 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=72 root=72 mode=random
+
++ commit
+
+
 ## 2026-11-25 15:00:07 RANDOM
 
 + random-check selected=5 of total=368
