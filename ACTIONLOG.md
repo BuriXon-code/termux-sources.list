@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-26 05:30:07 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://javinator9889.com/termux-main stable main
+		deb https://termux.mentality.rip/termux-main stable main
+		deb https://termux.danyael.xyz/termux/termux-main stable main
+		deb https://mirrors.sustech.edu.cn/termux/unstable-packages unstable main
+		deb https://mirror.twds.com.tw/termux/termux-x11 x11 main
+
++ write : all=263 official=165 unofficial=95 science=7 games=7 unstable=7 glibc=3 x11=71 root=74 mode=random
+
++ commit
+
+
 ## 2026-11-26 05:00:06 RANDOM
 
 + random-check selected=5 of total=368
