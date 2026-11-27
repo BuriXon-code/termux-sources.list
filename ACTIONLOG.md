@@ -13,6 +13,23 @@ Detailed information can be found below (newer first):
 
 ---
 
+## 2026-11-27 12:30:03 RANDOM
+
++ random-check selected=5 of total=368
+
++ URLs:
+
+		deb https://mirrors.sustech.edu.cn/termux/science-packages-24 science stable
+		deb https://mirror.bouwhuis.network/termux/termux-x11 x11 main
+		deb https://mirrors.cbrx.io/apt/termux/termux-root root stable
+		deb https://mirror.sd6server.xyz/termux-x11 x11 main
+		deb https://mirrors.sustech.edu.cn/termux/game-packages-24 games stable
+
++ write : all=267 official=167 unofficial=97 science=7 games=7 unstable=7 glibc=3 x11=73 root=74 mode=random
+
++ commit
+
+
 ## 2026-11-27 12:05:00 PUSH
 
 + push
