@@ -262,3 +262,4 @@ deb https://mirrors.ustc.edu.cn/termux/termux-x11 x11 main
 deb https://mirrors.krnk.org/apt/termux/termux-main stable main
 deb http://mirrors.qlu.edu.cn/termux/termux-main-21 stable main
 deb https://mirror.rinarin.dev/termux/termux-main-21 stable main
+deb https://mirror.nju.edu.cn/termux/apt/termux-main stable main
